@@ -14,7 +14,7 @@ He is currently involved in the following projects related with medical Imaging 
 
 **Robust Surgical Tool Segmentation, Tracking and Depth Perception**
 
-In collaboration with Dr. [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en),  from the Department of Engineering Science, **Institute of Biomedical Engineering** of the **University of Oxford** (United Kingdom)
+In collaboration with Dr. [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en),  from the **University of Leeds** (United Kingdom)
 
 >**Goal**: To develop new datasets, schemes and models for implement robust and real-time computer vision methods for Computer Integrated Surgery (CIS) applications and procedural quality assessment purposes
 
@@ -72,7 +72,7 @@ A collaboration with CINVESTAV Guadalajara with Prof. [Andres Mendez Vazquez](ht
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
 * [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
 * [Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr), Centre de Recherche en Automatique de Nancy, France
-* [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en), University of Oxford, United Kingdon
+* [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en), University of Leeds, United Kingdon
 * [Ashutosh Natraj](https://scholar.google.com/citations?user=vuQtqtoAAAAJ&hl=en), Vidrona LTD, United Kingdom
 * [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
 * Lina Maria Aguilar Lobo, Universidad Autonoma de Guadalajara, Mexico
