@@ -1,6 +1,7 @@
 ## Dr. Gilberto Ochoa-Ruiz
 
-###   [Home](/index) • [Projects](/projects) • Students • [Contact](/contact)
+###   [Home](/index) • [Projects](/projects) • [Publications](/publications) • [Students](/students) • [Contact](/contact)
+
 ---
 
 
