@@ -53,7 +53,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 
 * August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
-* 
+
 >> ![ ](/FZvGUFRUcAEPA1E.jpeg)
 
 
