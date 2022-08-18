@@ -52,12 +52,12 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ### Updates
 
 
-* August 9th: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
+* August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 * 
 >> ![ ](/FZvGUFRUcAEPA1E.jpeg)
 
 
-* June 19th: I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
+* June 19th, 2022: I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
 
 >> ![ ](/FVqCCb5UYAADx2i.jpeg)
 
