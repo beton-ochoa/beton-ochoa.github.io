@@ -36,7 +36,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Collaborators
 
-* Gerardo Rodriguez Hernandez, CIATEQ, Mexico
+* Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
 * [Miguel Gonazalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
 * [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
@@ -55,7 +55,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 * September 22nd, 2022: Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advisor of his thesis
 
->> ![ ](/MANSOOR.jpeg)
+>> ![ ](/MANSOOR.PNG)
 
 * August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 
