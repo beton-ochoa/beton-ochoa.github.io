@@ -51,6 +51,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+* Septememr 28th, 2022: I stat
+
+* September 22nd, 2022: Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) CaPTion (Cancer Prevention through early detecTion)  and Augmented Environments for Computer Assisted Interventions (AE-CAI). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advirsor of this thesis
+>> ![ ](/MANSOOR.jpeg)
 
 * August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 
