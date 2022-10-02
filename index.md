@@ -53,7 +53,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 * Septememr 28th, 2022: I stat
 
-* September 22nd, 2022: Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) CaPTion (Cancer Prevention through early detecTion)  and Augmented Environments for Computer Assisted Interventions (AE-CAI). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advirsor of this thesis
+* September 22nd, 2022: Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advisor of his thesis
+
 >> ![ ](/MANSOOR.jpeg)
 
 * August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
