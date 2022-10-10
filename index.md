@@ -62,7 +62,6 @@ Secondly, the contributions can be based on either recent deep-learning approach
 
 >> ![ ](/sensors.PNG)
 
-
 **October 10th, 2022:** Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
 This week we are practising our  presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
 We are very excited and happy 😁 (before the meeting, I invited the PhD and MSc to the newly opened Tec Chilaquiles)
