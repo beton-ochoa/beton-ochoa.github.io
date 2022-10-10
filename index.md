@@ -60,7 +60,7 @@ We are very excited and happy 😁 (before the meeting, I invited the PhD and MS
 * October 4th, 2022: About 3 weeks ago I was invited to give a webinar for IEEE Eingineering in Medicine and Biology Society (EMBS) - IEEE Day Tortch webinar series
 about our work on endoscopic stone recognition (ESR) with the Centre de Recherche en Automatique de Nancy (CRAM, FR ) and CHRU Nancy 😊 The idea of this series of webinars is to provide a window on the work done in the area of engineering in medicine in the benefit the society: the video con be found here: https://www.youtube.com/watch?v=Fmg2KTCxZSw
 
->> ![ ](/EMBS.PNG)
+>> ![ ](/embs.PNG)
 
 * September 28th, 2022: This year we started a joitn course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
 From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image processing and "classical 3D computern vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
