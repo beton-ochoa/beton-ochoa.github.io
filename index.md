@@ -51,6 +51,12 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+* October 10th, 2022: Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
+This week we are practising our  presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
+We are very excited and happy 😁
+
+>> ![ ](/MICAI-prep.PNG)
+
 * September 28th, 2022: This year we started a joitn course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
 From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image processing and "classical 3D computern vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
 
