@@ -51,7 +51,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharbi ALi (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here]https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9, and a description follows:
+**October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharbi ALi (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
 
 Medical image processing methods nowadays tend to be systematically and completely based on deep learning methods. However, the latter are not always explainable andtheir superiority over deterministic (classical) methods is not always obvious, notably for hollow organ cartography (mapping) or lesion classification.
 
@@ -60,7 +60,7 @@ The Special Issue will focus on all types of medical image applications and devi
 
 Secondly, the contributions can be based on either recent deep-learning approaches, or deterministic methods or on a combination of both. The aim here is to discuss the specific advantages and drawbacks of different solutions applicable to usability of medical data and its integration in clinically driven devices.
 
->> ![ ](/sensors.PNG)
+>> ![ ](/sensors.png)
 
 **October 10th, 2022:** Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
 This week we are practising our  presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
