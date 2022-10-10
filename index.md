@@ -51,32 +51,32 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-* October 10th, 2022: Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
+**October 10th, 2022:** Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
 This week we are practising our  presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
 We are very excited and happy 😁 (before the meeting, I invited the PhD and MSc to the newly opened Tec Chilaquiles)
 
 >> ![ ](/micai-prep.PNG)
 
-* October 4th, 2022: About 3 weeks ago I was invited to give a webinar for IEEE Eingineering in Medicine and Biology Society (EMBS) - IEEE Day Tortch webinar series
+**October 4th, 2022:** About 3 weeks ago I was invited to give a webinar for IEEE Eingineering in Medicine and Biology Society (EMBS) - IEEE Day Tortch webinar series
 about our work on endoscopic stone recognition (ESR) with the Centre de Recherche en Automatique de Nancy (CRAM, FR ) and CHRU Nancy 😊 The idea of this series of webinars is to provide a window on the work done in the area of engineering in medicine in the benefit the society: the video con be found here: https://www.youtube.com/watch?v=Fmg2KTCxZSw
 
 >> ![ ](/embs.PNG)
 
-* September 28th, 2022: This year we started a joitn course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
+**September 28th, 2022:** This year we started a joitn course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
 From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image processing and "classical 3D computern vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
 
 >> ![ ](/CV.PNG)
 
-* September 22nd, 2022: Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advisor of his thesis
+**September 22nd, 2022:** Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advisor of his thesis
 
 >> ![ ](/MANSOOR.PNG)
 
-* August 9th, 2022: The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
+**August 9th, 2022:** The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 
 >> ![ ](/FZvGUFRUcAEPA1E.jpeg)
 
 
-* June 19th, 2022: I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
+**June 19th, 2022:** I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
 
 >> ![ ](/FVqCCb5UYAADx2i.jpeg)
 
