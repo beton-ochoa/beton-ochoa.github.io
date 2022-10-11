@@ -37,7 +37,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ### Collaborators
 
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
-* [Miguel Gonazalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
+* [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
 * [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
 * [Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr), Centre de Recherche en Automatique de Nancy, France
@@ -50,6 +50,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 
 ### Updates
+
+**October 12th, 2022:** Good News! Five members of our group have extended asbtracts accepted at the LatinX in AI research workshop at the European Conference on Computer Vision (ECCV) Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
+
+>> ![ ](/ECCV.png)
 
 **October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharbi ALi (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
 
