@@ -94,6 +94,15 @@ From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image process
 
 >> ![ ](/MANSOOR.PNG)
 
+**September 6th, 2022:** I attended the GRETSI conference (Groupe de Recherche et d'Etudes de Traitement du Signal et des Images) which took place in Nancy, France from Sept. 6 to 9th. The idea was to take advantage of this opportunity and visit my colleague Christian Daul in CRAN (Centre de Recherche en Automatique de Nancy) with whom we collaborate in the RECONDITe project (Real timE Classification Of eNDoscopic kIdney sTonEs) and also in the PROTEUS project (3D endoscopic view enhancement using computer vision). I also met some old colleagues from the PhD and some very interesting PhD students.
+
+>> ![ ](/nancy1.png)
+
+I was very lucky to attend a ureteroscopic intervention with our colleagues at the Centre Hospitalier Regionale Universitaire de Nancy, with whom we are working on a Mexican-French Projet. OF course I also had the chance to visit some amazing french restaurants!
+
+>> ![ ](/nancy2.png)
+
+
 **August 9th, 2022:** The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 
 >> ![ ](/FZvGUFRUcAEPA1E.jpeg)
