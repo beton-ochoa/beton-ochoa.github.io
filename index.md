@@ -102,11 +102,11 @@ From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image process
 **August 1st, 2022:** I was invited to attend the first annual meeting of the AIM-AHEAD consortium (Artificial Intelligence/Machine Learning Consortium
 to Advance Health Equity and Researcher Diversity) and effort funded by the National Institue of Health (NIH) in the USA to foster equity and fairness in the development of AI for medicine in the country for the next years.
 
->> ![ ](/texas1.PNG)
+>> ![ ](/texas1.png)
 
 I meet some very increidble people from some of the best universities in the US and I presented our work with LXAI with Nvidiai that will be launched in Tec de Monterrey Campus Gualajara next week
 
- >> ![ ](/texas2.PNG)
+ >> ![ ](/texas2.png)
 
 **June 19th, 2022:** I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
 
