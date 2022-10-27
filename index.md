@@ -44,6 +44,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en), University of Leeds, United Kingdon
 * [Ashutosh Natraj](https://scholar.google.com/citations?user=vuQtqtoAAAAJ&hl=en), Vidrona LTD, United Kingdom
 * [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
+* [Eduardo Rodriguez Tello] (https://www.tamps.cinvestav.mx/~ertello/), CINVESTAV Tamaulipas, Mexico
 * Lina Maria Aguilar Lobo, Universidad Autonoma de Guadalajara, Mexico
 
 ---
