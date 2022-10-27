@@ -50,6 +50,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 24th, 2022:** The LXAI in Computer Vision at ECCV was a success!!! We have 25 posters and 5 doctoral consortium submissions. Our group was very successful this year: Daniela Herrera Montes de Oca won the best extended abstract for our work with the Sain Joan de Deu Hospital (Barcelona), so proud of her! 
+
+>> ![ ](/lxai-eccv1.png)
+
+Also, two other students from the grouo were awarded: Pedro Chaavarrias Solan got to be the most visited poster in the workshop and Daniel Flores Araiza to be the most voted (or the best poster selected by the audience), first experiment of this kind in our workshop!
+
+
+>> ![ ](/lxai-eccv2.png)
+
 **October 12th, 2022:** Good News! Five members of our group have extended asbtracts accepted at the LatinX in AI research workshop at the European Conference on Computer Vision (ECCV) Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
 
 >> ![ ](/ECCV.png)
