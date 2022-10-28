@@ -51,7 +51,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 **October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the Mexican Conference on AI, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 >> ![ ](/MICAI1.jpeg)
 
@@ -59,15 +62,21 @@ We are presenging the following papers:
 
 **Daniela Herrera**, Impact of loss function in DL methods for accurate retinal vessel segmentation, [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_3)
  
-**Mauricio Mendez**, Assessing the generalization capabilities of few shot learning methods: a case study in endoscopic image classification[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_21)
+**Mauricio Mendez**, Assessing the generalization capabilities of few shot learning methods: a case study in endoscopic image classification [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_21)
 
-**Pedro Chavarrias**, "Improving artefact detection in endoscopic video using a real-time ensemble method"[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_26)
+**Pedro Chavarrias**, "Improving artefact detection in endoscopic video using a real-time ensemble method" [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_26)
 
 **Axel Garcia Vega**, A Novel Hybrid Endoscopic Dataset for Evaluating ML-based Photometric Image Enhancement Models [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_22)
 
-**Pablo Quihui**, Comparison of automatic prostate zones segmentation models in MRI images using U-net-like architectures[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_23)
+**Pablo Quihui**, Comparison of automatic prostate zones segmentation models in MRI images using U-net-like architectures [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_23)
 
 **Ivan Reyes Amezcua**, MACFE: A Meta-learning and Causality Based Feature Engineering Framework [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_5)
+
+From CINVESTAV (Meaning Group)
+
+**Mayra Alejandra Rivera-Ruiz**, Time Series Forecasting with Quantum Machine Learning Architectures [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_6)
+
+**Carlos Cardenas-Ruiz**, Explainable Model of Credit Risk Assessment Based on Convolutional Neural Networks [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_7)
 
 **October 24th, 2022:** The LXAI in Computer Vision at ECCV was a success!!! We have 25 posters and 5 doctoral consortium submissions. Our group was very successful this year: Daniela Herrera Montes de Oca won the best extended abstract for our work with the Sain Joan de Deu Hospital (Barcelona), so proud of her! 
 
