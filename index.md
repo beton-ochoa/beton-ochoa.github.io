@@ -53,7 +53,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the Mexican Conference on AI, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
 
->> ![ ](/MICAI1.png)
+>> ![ ](/MICAI1.jpeg)
 
 We are presenging the following papers:
 
