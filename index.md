@@ -57,7 +57,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **Prize 2:** 3rd best paper award for Axel for our work with CRAN in France 😎 
 
->> ![ ](/MICAI2.jpeg)
+>> ![ ](/MICAI2.png)
 
 **October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the Mexican Conference on AI, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
 
