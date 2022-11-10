@@ -51,6 +51,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 29th, 2022:** We had a very succesful week in Montrerrey and we have to close it with a high note. We orgainized a BBQ! The nort of Mexico is fmaous for this and we took advantage that some of our memmber live here and are norteños... We had so much fun and we invited some people from the SMIA, we were 30 persons in total (there were a couple of students from my Deep Learning class too)
+
+>> ![ ](/MICAI4.png)
+
 **October 28th, 2022:** Today we had MICAI's gala diner. We all in CV-inside are very glad for having won two prizes at this year edition 🥳😊 
 
 **Prize 1:** Best master #AI thesis in Mexico (Premio Jose Negrete 😀) to Jorge Ciprián (we got 3 journal papers accepted in 3 years) 
@@ -58,6 +62,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 **Prize 2:** 3rd best paper award for Axel for our work with CRAN in France 😎 
 
 >> ![ ](/MICAI2.png)
+
+Our students also presented successfuly their papers, so proud of you guys!
+
+>> ![ ](/MICAI23.png)
+
 
 **October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the Mexican Conference on AI, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
 
