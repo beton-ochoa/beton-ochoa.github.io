@@ -51,18 +51,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**November 17th, 2022:** Congrats to our master student Daniela Herrera, who succesfully defended his master thesis today! She was co-supervised by 
-Miguel Gonzalez Mendoza and Christian Mata from the Sant Joan de Deu hospital (Barcelona) and has done a very amazing work during these two years 
-CV Inside! Her thesis was titled "Magnetic resonance image enhancement and segmentation using conventional and deep learning denoising techniques imaging for cerebral angiography", in which we explored deep learning-based denoising and segmentation methods for MRI images.
+**November 17th, 2022:** Congrats to our master student **Daniela Herrera**, who succesfully defended his master thesis today! She was co-supervised by 
+Miguel Gonzalez Mendoza and Christian Mata from the **Sant Joan de Deu hospital (Barcelona)** and has done a very amazing work during these two years 
+CV Inside! Her thesis was titled **"Magnetic resonance image enhancement and segmentation using conventional and deep learning denoising techniques imaging for cerebral angiography"**, in which we explored deep learning-based denoising and segmentation methods for MRI images.
 
-She published a paper MICAI  (Sociedad Mexicana de IA) and presented a poster at LatinX in AI research workshop at the conference on Computer vision an Pattern Recognition (CVPR, New Orleans, USA) and en extended abstract at the LXCV Research workshop at the Euopean Conference on Computer Vision (ECCV), where she won the best extended abstract prize... I am certain a bright future is awaiting for her!
+She published a paper MICAI  (Sociedad Mexicana de IA) and presented a poster at LatinX in AI research workshop at the conference on **Computer vision an Pattern Recognition** (CVPR, New Orleans, USA) and en extended abstract at the LXCV Research workshop at the Euopean Conference on Computer Vision (ECCV), where she won the best extended abstract prize... I am certain a bright future is awaiting for her!
 
 >> ![ ](/Defense2.png)
 
-**November 16th, 2022:** Congrats to our master student Pedro Chavarrias, who succesfully defendeded his master thesis today! He was co-supervised by 
-Dr. Sharib Ali from the University of Leeds. The title of his thesis was "Detection and classification of diseases in colon and stomach using deep learning techniques", in which we used the Endoscopic Disease Dataset for trainign a more rosbust polyp detector.
+**November 16th, 2022:** Congrats to our master student **Pedro Chavarrias**, who succesfully defendeded his master thesis today! He was co-supervised by  **Dr. Sharib Ali** from the University of Leeds. The title of his thesis was **"Detection and classification of diseases in colon and stomach using deep learning techniques", in which we used the Endoscopic Disease Dataset for trainign a more rosbust polyp detector**.
 
-He published a paper at the Caption Workshop at MICCAI 2022 (Singapore) and another one in the Mexican Int. Conferenc eonAI (MICAI). He also won the best posrer at the LatinX in AI research workshop at the Euopean Conference on Computer Vision (ECCV) a bright future is waiting for him!
+He published a paper at the Caption Workshop at MICCAI 2022 (Singapore) and another one in the Mexican Int. Conferenc eonAI (MICAI). He also won the best posrer at the LatinX in AI research workshop at the **European Conference on Computer Vision (ECCV)**,  a bright future is waiting for him!
 
 >> ![ ](/Defense1.png)
 
