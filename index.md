@@ -51,11 +51,18 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by and **Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
+
+Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
+I am certain a bright future is waiting for him!
+
+>> ![ ](/Defense3.png)
+
 **November 17th, 2022:** Congrats to our master student **Daniela Herrera**, who succesfully defended his master thesis today! She was co-supervised by 
 Miguel Gonzalez Mendoza and Christian Mata from the **Sant Joan de Deu hospital (Barcelona)** and has done a very amazing work during these two years 
 CV Inside! Her thesis was titled **"Magnetic resonance image enhancement and segmentation using conventional and deep learning denoising techniques imaging for cerebral angiography"**, in which we explored deep learning-based denoising and segmentation methods for MRI images.
 
-She published a paper MICAI  (Sociedad Mexicana de IA) and presented a poster at LatinX in AI research workshop at the conference on **Computer vision an Pattern Recognition** (CVPR, New Orleans, USA) and en extended abstract at the LXCV Research workshop at the Euopean Conference on Computer Vision (ECCV), where she won the best extended abstract prize... I am certain a bright future is awaiting for her!
+Daniela had a very productive master: She published a paper MICAI  (Sociedad Mexicana de IA) and presented a poster at LatinX in AI research workshop at the conference on **Computer vision an Pattern Recognition** (CVPR, New Orleans, USA) and en extended abstract at the LXCV Research workshop at the Euopean Conference on Computer Vision (ECCV), where she won the best extended abstract prize... I am certain a bright future is awaiting for her!
 
 >> ![ ](/Defense2.png)
 
