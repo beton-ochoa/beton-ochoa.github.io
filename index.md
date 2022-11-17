@@ -54,7 +54,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 **November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by and **Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
 
 Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
-I am certain a bright future is waiting for him!
+I am certain a bright future is waiting for him! Hooray!
 
 >> ![ ](/Defense3.png)
 
