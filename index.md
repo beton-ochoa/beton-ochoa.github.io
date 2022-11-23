@@ -51,6 +51,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 22nd, 2022:** Congrats to our PhD stundent Mansoor Ali Teevno for having won the prize for best research at Tecnologico de Monterrey, which is granted every year after a very competitive process, in which the students have to present their work befoe a jury of expers. So happy and proud of you Mansoor!
+
+>> ![ ](/mansoor_prize.jpeg)
+
 **November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by and **Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
 
 Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
