@@ -51,6 +51,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**December 10th, 2022:** Today we have our lab's end of the year party or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, our foreign stdents was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
+
+>> ![ ](/end_year2.png)
+
+**December 7th, 2022:** Our Lab lead, Dr. Gilberto Ochoa Ruiz has been granted the Outstanding Professors Circle award given by Tec de Monterey tonthe 16% top perfomign professors for theri performance and results during 2022... What he has to say about this: "I am so grateful with my students at the CV-INSIDE lab, my colleagues Latinx in AI (LXAI) and Sociedad Mexicana de IA for all the opprtitnirties given to use, I am really happy!" This is the second consecutive yeart that he obtains this prize, congrats!
+
+>> ![ ](/end_year1.png)
+
+
 **November 22nd, 2022:** Congrats to our PhD stundent Mansoor Ali Teevno for having won the prize for best research at Tecnologico de Monterrey, which is granted every year after a very competitive process, in which the students have to present their work befoe a jury of expers. So happy and proud of you Mansoor!
 
 >> ![ ](/mansoor_prize.jpeg)
