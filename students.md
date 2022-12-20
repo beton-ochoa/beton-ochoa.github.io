@@ -9,17 +9,21 @@
 
 **Tecnologico de Monterrey (main advisor or co-advisor)**
 
-* **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception, **Co-advisor: Sharib Ali**, University of Leeds
-* **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine [[Github]](https://github.com/DanielF29) **Co-advisor:Miguel Gonzalez Mondoza**, Tec de Monterrey
-* **Francisco Javier Lopez Tiro**,  Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques [[Github]](https://github.com/friscolt) **Co-advisor:Christian Daul**,  CRAN, Nancy 
-* **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques, **Co-advisor:Christian Daul**,  CRAN, Nancy 
-* ** Alexis*, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques, **Main advisor: Rita Fuentes**,  Tec de Monterrey
+* **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception <br />
+  **Co-advisor:** *Sharib Ali*, University of Leeds
+* **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine [[Github]](https://github.com/DanielF29) <br />
+ **Co-advisor;** *Miguel Gonzalez Mondoza*, Tec de Monterrey
+* **Francisco Javier Lopez Tiro**,  Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques [[Github]](https://github.com/friscolt) <br />
+ **Co-advisor:** *Christian Daul*,  CRAN, Nancy 
+* **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques <br />
+ **Co-advisor:** *Christian Daul*,  CRAN, Nancy 
+* **Alexis Iván López Escamilla**, Deep learning for motor signal processing <br />
+ **Main advisor:** *Rita Fuentes*, Tec de Monterrey
 
 **CINVESTAV Guadalajara (co-advisor)**
 
-* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning 
-
-* **Ivan Reyes Amezcua**, [[Github]](https://github.com/Ivanrs297)
+* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*
+* **Ivan Reyes Amezcua**, [[Github]](https://github.com/Ivanrs297) <br /> **Main advisor:** *Andres Mendez-Vazquez*
 
 
 
