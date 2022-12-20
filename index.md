@@ -55,6 +55,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/wun.png)
 
+**December 12th, 2022:** Last trip and last activity of the year 🥳: we had a meeting w/ William Weeks, Director of the **Microsoft AI for Health** grant program. We are here to seek for funding/GPU time for our project with CRAN (FR) on endoscopic kidney stone classification at ITESM Campus Santa Fe! An initiative of the **Data Science hub** led by **Dr. Juan Arturo Nolazco** 😊
+
+>> ![ ](/microsoft.png)
+
 **December 10th, 2022:** Today we have our lab's end of the year party or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, our foreign stdents was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
 
 >> ![ ](/end_year2.png)
