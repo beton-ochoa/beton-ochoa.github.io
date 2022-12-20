@@ -111,7 +111,7 @@ Our students also presented successfuly their papers, so proud of you guys!
 >> ![ ](/MICAI23.png)
 
 
-**October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the Mexican Conference on AI, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
+**October 25th, 2022:** The CV-inside group has landed in Monterrey and we are about to invade the **Mexican Conference on AI**, taking place in Tecnologico de Monterrey. Along with my other students from CINVESTAV we are a wild bunch ready to make some noise!
 
 
 
@@ -146,13 +146,13 @@ Also, two other students from the group were awarded: Pedro Chaavarrias Solan go
 
 >> ![ ](/lxai-eccv2.png)
 
-**October 12th, 2022:** Good News! Five members of our group have extended abstracts accepted at the LatinX in AI research workshop at the European Conference on Computer Vision (ECCV) Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
+**October 12th, 2022:** Good News! Five members of our group have extended abstracts accepted at the **LatinX in AI research workshop** at the **European Conference on Computer Vision (ECCV)** Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
 
 >> ![ ](/ECCV.png)
 
-**October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharib Ali (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
+**October 10th, 2022:** Good News! I am editing a special issue with my colleagues **Dr. Sharib Ali (Univ. of Leeds)** and **Dr. Christian Daul (CRAN)**. More details can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
 
-Medical image processing methods nowadays tend to be systematically and completely based on deep learning methods. However, the latter are not always explainable andtheir superiority over deterministic (classical) methods is not always obvious, notably for hollow organ cartography (mapping) or lesion classification.
+**Medical image processing methods** nowadays tend to be systematically and completely based on deep learning methods. However, the latter are not always explainable andtheir superiority over deterministic (classical) methods is not always obvious, notably for hollow organ cartography (mapping) or lesion classification.
 
 The aim of this Special Issue is twofold:
 The Special Issue will focus on all types of medical image applications and devices in which AI methods (segmentation, classification, 3D reconstruction, image mosaicing, etc.) are still limited and can enable improvement in the exploitation of various other additional imaging modalities.
@@ -167,21 +167,19 @@ We are very excited and happy 😁 (before the meeting, I invited the PhD and MS
 
 >> ![ ](/micai-prep.PNG)
 
-**October 4th, 2022:** About 3 weeks ago I was invited to give a webinar for IEEE Eingineering in Medicine and Biology Society (EMBS) - IEEE Day Tortch webinar series
-about our work on endoscopic stone recognition (ESR) with the Centre de Recherche en Automatique de Nancy (CRAM, FR ) and CHRU Nancy 😊 The idea of this series of webinars is to provide a window on the work done in the area of engineering in medicine in the benefit the society: the video con be found here: https://www.youtube.com/watch?v=Fmg2KTCxZSw
+**October 4th, 2022:** About 3 weeks ago I was invited to give a webinar for **IEEE Eingineering in Medicine and Biology Society (EMBS)** - IEEE Day Tortch webinar series about our work on **endoscopic stone recognition (ESR)** with the Centre de Recherche en Automatique de Nancy (CRAM, FR ) and CHRU Nancy 😊 The idea of this series of webinars is to provide a window on the work done in the area of engineering in medicine in the benefit the society: the video con be found here: https://www.youtube.com/watch?v=Fmg2KTCxZSw
 
 >> ![ ](/embs.PNG)
 
-**September 28th, 2022:** This year we started a joint course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
-From 3D Computer Vision to Nerf and Beyond! in which I will teach image processing and "classical 3D computer vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
+**September 28th, 2022:** This year we started a joint course on computer vision for the Meanning and CV-Inside PhD students entitled: **Computational Vision: From 3D Computer Vision to Nerf and Beyond!** in which I will teach image processing and "classical 3D computer vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
 
 >> ![ ](/CV.PNG)
 
-**September 22nd, 2022:** Our PhD student Mansoor Ali attended two workshops at MICCAI 2022 (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with Dr. Sharib Ali (University of Leeds) who serves as co-advisor of his thesis
+**September 22nd, 2022:** Our PhD student **Mansoor Ali** attended two workshops at **MICCAI 2022** (Singapore) [CaPTion (Cancer Prevention through early detecTion)](https://caption-workshop.github.io/), presenting Pedro Chavarrias' work and presented his own work at the Workshop [Augmented Environments for Computer Assisted Interventions (AE-CAI)](https://workshops.ap-lab.ca/aecai2022/). In MICCAI he also met with **Dr. Sharib Ali (University of Leeds)** who serves as co-advisor of his thesis
 
 >> ![ ](/MANSOOR.PNG)
 
-**September 6th, 2022:** I attended the GRETSI conference (Groupe de Recherche et d'Etudes de Traitement du Signal et des Images) which took place in Nancy, France from Sept. 6th to 9th. The idea was to take advantage of this opportunity and visit my colleague Christian Daul in CRAN (Centre de Recherche en Automatique de Nancy) with whom we collaborate in the RECONDITe project (Real timE Classification Of eNDoscopic kIdney sTonEs) and also in the PROTEUS project (3D endoscopic view enhancement using computer vision). I also met some old colleagues from the PhD and some very interesting PhD students.
+**September 6th, 2022:** I attended the **GRETSI conference** (Groupe de Recherche et d'Etudes de Traitement du Signal et des Images) which took place in Nancy, France from Sept. 6th to 9th. The idea was to take advantage of this opportunity and visit my colleague Christian Daul in CRAN (Centre de Recherche en Automatique de Nancy) with whom we collaborate in the **RECONDITe project (Real timE Classification Of eNDoscopic kIdney sTonEs)** and also in the PROTEUS project (3D endoscopic view enhancement using computer vision). I also met some old colleagues from the PhD and some very interesting PhD students.
 
 >> ![ ](/nancy1.png)
 
@@ -190,21 +188,21 @@ I was very lucky to attend a ureteroscopic intervention with our colleagues at t
 >> ![ ](/nancy2.png)
 
 
-**August 9th, 2022:** The Supercomputer Network project was inaugurated where we aim to strengthen the capacities of the LatinX AI ecosystem. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
+**August 9th, 2022:** The **Supercomputer Network project** was inaugurated where we aim to strengthen the capacities of the **LatinX AI ecosystem**. In collaboration with  NVIDIA and Tecnologico de Monterrey. 
 
 >> ![ ](/FZvGUFRUcAEPA1E.jpeg)
 
 
-**August 1st, 2022:** I was invited to attend the first annual meeting of the AIM-AHEAD consortium (Artificial Intelligence/Machine Learning Consortium
-to Advance Health Equity and Researcher Diversity) and effort funded by the National Institue of Health (NIH) in the USA to foster equity and fairness in the development of AI for medicine in the country for the next years.
+**August 1st, 2022:** I was invited to attend the first annual meeting of the **AIM-AHEAD consortium (Artificial Intelligence/Machine Learning Consortium
+to Advance Health Equity and Researcher Diversity)**, nd effort funded by the **National Institue of Health (NIH)** in the USA to foster equity and fairness in the development of AI for medicine in the country for the next years.
 
 >> ![ ](/texas1.png)
 
-I meet some very increidble people from some of the best universities in the US and I presented our work with LXAI with Nvidiai that will be launched in Tec de Monterrey Campus Gualajara next week
+I meet some very increidble people from some of the best universities in the US and I presented our work with LXAI with Nvidia that will be launched in Tec de Monterrey Campus Gualajara next week
 
  >> ![ ](/texas2.png)
 
-**June 19th, 2022:** I am very happy to have been able to bring my students to #CVPR2022 for our LXAI in Computer Vision research workshop! 
+**June 19th, 2022:** I am very happy to have been able to bring my students to **CVPR2022** for our **LXAI in Computer Vision research workshop**! 
 
 >> ![ ](/FVqCCb5UYAADx2i.jpeg)
 
