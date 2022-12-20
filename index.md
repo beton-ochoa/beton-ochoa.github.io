@@ -51,7 +51,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**December 16th, 2022:**: I'm very glad to announce that our joint project "Novel robust computer vision methods & synthetic datasets for minimally inv. surgery" was granted with a seed fund by the Worldwide Universities Network (WUNm see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the Univ. of Leeds & the Univ. of Southampton and Tecnológico de Monterrey 😊 and it will enable to create a new venture for all of us involved (Dr. Sharib Ali and Dr. Kate Farrahi)  around surgical data science and beyond
+**December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally inv. surgery"** was granted with a seed fund by the **Worldwide Universities Network** (WUNm see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the Univ. of Leeds & the Univ. of Southampton and Tecnológico de Monterrey 😊 and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
 
 >> ![ ](/wun.png)
 
