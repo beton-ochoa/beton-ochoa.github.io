@@ -22,8 +22,8 @@
 
 **CINVESTAV Guadalajara (co-advisor)**
 
-* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*
-* **Ivan Reyes Amezcua**, [[Github]](https://github.com/Ivanrs297) <br /> **Main advisor:** *Andres Mendez-Vazquez*
+* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
+* **Ivan Reyes Amezcua**, [[Github]](https://github.com/Ivanrs297) <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
 
 
 
