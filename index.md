@@ -51,6 +51,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**December 16th, 2022:**: I'm very glad to announce that our joint project "Novel robust computer vision methods & synthetic datasets for minimally inv. surgery" was granted with a seed fund by the Worldwide Universities Network (WUNm see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the Univ. of Leeds & the Univ. of Southampton and Tecnológico de Monterrey 😊 and it will enable to create a new venture for all of us involved (Dr. Sharib Ali and Dr. Kate Farrahi)  around surgical data science and beyond
+
+>> ![ ](/wun.png)
+
 **December 10th, 2022:** Today we have our lab's end of the year party or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, our foreign stdents was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
 
 >> ![ ](/end_year2.png)
