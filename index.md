@@ -7,7 +7,7 @@
   
 ### About me
 
-**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision, Machine Learning and Internet of Things.** He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the Universite de Bourgogne ([Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
+**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision, Machine Learning and Internet of Things.** affiliated to the **Advanced AI Research Group** at **Tecnologico de Monterre**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the Universite de Bourgogne ([Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
 
 He is member of the Sistema Nacional de Investigadores (SNI, Rank I) and of the CONACYT Network on Applied Computational Network (RedICA), the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
@@ -36,6 +36,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Collaborators
 
+* [Gildardo Sanchez Ante](https://scholar.google.com.mx/citations?user=Szx4GcIAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
@@ -51,35 +52,35 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally inv. surgery"** was granted with a seed fund by the **Worldwide Universities Network** (WUNm see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the Univ. of Leeds & the Univ. of Southampton and Tecnológico de Monterrey 😊 and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
+**December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally invasive surgery"** was granted with a seed fund by the **Worldwide Universities Network** (**WUN** see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the University of Leeds & the University of Southampton and Tecnológico de Monterrey and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
 
 >> ![ ](/wun.png)
 
-**December 12th, 2022:** Last trip and last activity of the year 🥳: we had a meeting w/ William Weeks, Director of the **Microsoft AI for Health** grant program. We are here to seek for funding/GPU time for our project with CRAN (FR) on endoscopic kidney stone classification at ITESM Campus Santa Fe! An initiative of the **Data Science hub** led by **Dr. Juan Arturo Nolazco** 😊
+**December 12th, 2022:** Last trip and last activity of the year 🥳: we had a meeting with **William Weeks**, Director of the **Microsoft AI for Health** grant program. We are here to seek for funding/GPU time for our project with CRAN (FR) on endoscopic kidney stone classification at ITESM Campus Santa Fe! An initiative of the **Data Science hub** led by **Dr. Juan Arturo Nolazco** 😊
 
 >> ![ ](/microsoft.png)
 
-**December 10th, 2022:** Today we have our lab's end of the year party or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, our foreign stdents was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
+**December 10th, 2022:** Today we have had our lab's end of the year party, or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, two of our foreign stdents in the group was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
 
 >> ![ ](/end_year2.png)
 
-**December 7th, 2022:** Our Lab lead, Dr. Gilberto Ochoa Ruiz has been granted the Outstanding Professors Circle award given by Tec de Monterey tonthe 16% top perfomign professors for theri performance and results during 2022... What he has to say about this: "I am so grateful with my students at the CV-INSIDE lab, my colleagues Latinx in AI (LXAI) and Sociedad Mexicana de IA for all the opprtitnirties given to use, I am really happy!" This is the second consecutive yeart that he obtains this prize, congrats!
+**December 7th, 2022:** Our Lab lead, **Dr. Gilberto Ochoa-Ruiz** has been granted the **Outstanding Professors Circle award** given by Tec de Monterey tonthe **16% top performing professors** for their results during 2022... What he has to say about this: "I am so grateful with my students at the CV-INSIDE lab, my colleagues Latinx in AI (LXAI) and Sociedad Mexicana de IA for all the opprtitnirties given to use, I am really happy!" This is the second consecutive yeart that he obtains this prize, congrats!
 
 >> ![ ](/end_year1.png)
 
 
-**November 22nd, 2022:** Congrats to our PhD stundent Mansoor Ali Teevno for having won the prize for best research at Tecnologico de Monterrey, which is granted every year after a very competitive process, in which the students have to present their work befoe a jury of expers. So happy and proud of you Mansoor!
+**November 22nd, 2022:** Congrats to our PhD stundent **Mansoor Ali Teevno** for having won the prize for best research at Tecnologico de Monterrey, which is granted every year after a very competitive process, in which the students have to present their work before a jury of expers. So happy and proud of you Mansoor!
 
 >> ![ ](/mansoor_prize.jpeg)
 
-**November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by and **Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
+**November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by me and **Prof. Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
 
-Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
+Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) and we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
 I am certain a bright future is waiting for him! Hooray!
 
 >> ![ ](/Defense3.png)
 
-**November 17th, 2022:** Congrats to our master student **Daniela Herrera**, who succesfully defended his master thesis today! She was co-supervised by 
+**November 17th, 2022:** Congrats to our master student **Daniela Herrera**, who succesfully defended her master thesis today! She was co-supervised by 
 Miguel Gonzalez Mendoza and Christian Mata from the **Sant Joan de Deu hospital (Barcelona)** and has done a very amazing work during these two years 
 CV Inside! Her thesis was titled **"Magnetic resonance image enhancement and segmentation using conventional and deep learning denoising techniques imaging for cerebral angiography"**, in which we explored deep learning-based denoising and segmentation methods for MRI images.
 
@@ -87,13 +88,13 @@ Daniela had a very productive master: She published a paper MICAI  (Sociedad Mex
 
 >> ![ ](/Defense2.png)
 
-**November 16th, 2022:** Congrats to our master student **Pedro Chavarrias**, who succesfully defendeded his master thesis today! He was co-supervised by  **Dr. Sharib Ali** from the University of Leeds. The title of his thesis was **"Detection and classification of diseases in colon and stomach using deep learning techniques", in which we used the Endoscopic Disease Dataset for trainign a more rosbust polyp detector**.
+**November 16th, 2022:** Congrats to our master student **Pedro Chavarrias**, who succesfully defendeded his master thesis today! He was co-supervised by  **Dr. Sharib Ali** from the **University of Leeds**. The title of his thesis was **"Detection and classification of diseases in colon and stomach using deep learning techniques"**, in which we used the Endoscopic Disease Dataset for trainign a more rosbust polyp detector.
 
-He published a paper at the Caption Workshop at MICCAI 2022 (Singapore) and another one in the Mexican Int. Conferenc eonAI (MICAI). He also won the best posrer at the LatinX in AI research workshop at the **European Conference on Computer Vision (ECCV)**,  a bright future is waiting for him!
+He published a paper at the Caption Workshop at MICCAI 2022 (Singapore) and another one in the Mexican Int. Conference on AI (MICAI). He also won the best posrer at the LatinX in AI research workshop at the **European Conference on Computer Vision (ECCV)**,  a bright future is waiting for him!
 
 >> ![ ](/Defense1.png)
 
-**October 29th, 2022:** We had a very succesful week in Montrerrey and we have to close it with a high note. We orgainized a BBQ! The nort of Mexico is fmaous for this and we took advantage that some of our members live here and are norteños... We had so much fun and we invited some people from the SMIA, we were 30 persons in total (there were a couple of students from my Deep Learning class too)
+**October 29th, 2022:** We had a very succesful week in Montrerrey and we have to close it with a high note. We orgainized a BBQ! The nort of Mexico is famous for this and we took advantage that some of our members live here and are norteños... We had so much fun and we invited some people from the SMIA, we were 30 persons in total (there were a couple of students from my Deep Learning class too)
 
 >> ![ ](/MICAI4.png)
 
@@ -140,16 +141,16 @@ From CINVESTAV (Meaning Group)
 
 >> ![ ](/lxai-eccv1.png)
 
-Also, two other students from the grouo were awarded: Pedro Chaavarrias Solan got to be the most visited poster in the workshop and Daniel Flores Araiza to be the most voted (or the best poster selected by the audience), first experiment of this kind in our workshop!
+Also, two other students from the group were awarded: Pedro Chaavarrias Solan got to be the most visited poster in the workshop and Daniel Flores Araiza to be the most voted (or the best poster selected by the audience), first experiment of this kind in our workshop!
 
 
 >> ![ ](/lxai-eccv2.png)
 
-**October 12th, 2022:** Good News! Five members of our group have extended asbtracts accepted at the LatinX in AI research workshop at the European Conference on Computer Vision (ECCV) Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
+**October 12th, 2022:** Good News! Five members of our group have extended abstracts accepted at the LatinX in AI research workshop at the European Conference on Computer Vision (ECCV) Congrats Francisco Lopez-Tiro, Daniel Flores-Araiza, Pedro Chavarrias Solano, Daniela Herrera and Mansoor Ali Teevno! LXAI at ECCV will be happening virtually in 15 days, see you there! 
 
 >> ![ ](/ECCV.png)
 
-**October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharbi Ali (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
+**October 10th, 2022:** Good News! I am editing a special issue with my colleagues Dr. Sharib Ali (Univ. of Leeds) and Dr. Christiab Daul (CRAN). Seails can be found [here](https://www.mdpi.com/journal/sensors/special_issues/S789EPO7C9), and a description follows:
 
 Medical image processing methods nowadays tend to be systematically and completely based on deep learning methods. However, the latter are not always explainable andtheir superiority over deterministic (classical) methods is not always obvious, notably for hollow organ cartography (mapping) or lesion classification.
 
@@ -161,7 +162,7 @@ Secondly, the contributions can be based on either recent deep-learning approach
 >> ![ ](/sensors.png)
 
 **October 10th, 2022:** Weekly joint PhD meeting (students from CINVESTAV  and Tec de Monterrey from the Meaning & CV-INSIDE research groups)
-This week we are practising our  presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
+This week we are practising our presentations for MICAI2022 (organized by SMIA) in which we will be presenting 10 (yes 😱) papers!
 We are very excited and happy 😁 (before the meeting, I invited the PhD and MSc to the newly opened Tec Chilaquiles)
 
 >> ![ ](/micai-prep.PNG)
@@ -171,8 +172,8 @@ about our work on endoscopic stone recognition (ESR) with the Centre de Recherch
 
 >> ![ ](/embs.PNG)
 
-**September 28th, 2022:** This year we started a joitn course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
-From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image processing and "classical 3D computern vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
+**September 28th, 2022:** This year we started a joint course on computer vision for the Meanning and CV-Inside PhD students entitled: Computational Vision
+From 3D Computer Vision to Nerf and Beyond! in which I will teach image processing and "classical 3D computer vision" to deep learning based apporaches for depth perception and also more recent stuff such as NeRF
 
 >> ![ ](/CV.PNG)
 
@@ -180,7 +181,7 @@ From 3D Computer Vision to Nerf and Beyond! Inn which I will teach image process
 
 >> ![ ](/MANSOOR.PNG)
 
-**September 6th, 2022:** I attended the GRETSI conference (Groupe de Recherche et d'Etudes de Traitement du Signal et des Images) which took place in Nancy, France from Sept. 6 to 9th. The idea was to take advantage of this opportunity and visit my colleague Christian Daul in CRAN (Centre de Recherche en Automatique de Nancy) with whom we collaborate in the RECONDITe project (Real timE Classification Of eNDoscopic kIdney sTonEs) and also in the PROTEUS project (3D endoscopic view enhancement using computer vision). I also met some old colleagues from the PhD and some very interesting PhD students.
+**September 6th, 2022:** I attended the GRETSI conference (Groupe de Recherche et d'Etudes de Traitement du Signal et des Images) which took place in Nancy, France from Sept. 6th to 9th. The idea was to take advantage of this opportunity and visit my colleague Christian Daul in CRAN (Centre de Recherche en Automatique de Nancy) with whom we collaborate in the RECONDITe project (Real timE Classification Of eNDoscopic kIdney sTonEs) and also in the PROTEUS project (3D endoscopic view enhancement using computer vision). I also met some old colleagues from the PhD and some very interesting PhD students.
 
 >> ![ ](/nancy1.png)
 
