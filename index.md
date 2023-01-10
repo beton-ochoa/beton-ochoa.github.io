@@ -56,9 +56,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/rosca.png)
 
-
-
-**January 3rd, 2023:** Today we had **Fransciso Lopez Tiro** first year PhD presentation. He is doing a joint thesis beween Tec de Monterrey and Universite de Lorraine (as we are doing with Ricardo Espinosa) co-supervised by **Prof. Christian Daul**. For the "commite de suivi" we invited **Prof. Franck Marzani** (director of the lab where I did my PhD, the **Imagerie et Vision Artificielle or ImViA**, previously the LE2I) and Dr. Miguel Mendoza.Francisco will be working on **automatic endoscopic stone recognition on a few shot and continual learning setting** and has alreasdy working on a lot of papers , both for conferences and journals, in collaboration with other students from the lab.
+**January 3rd, 2023:** Today we had **Fransciso Lopez Tiro** first year PhD presentation. He is doing a joint thesis beween Tec de Monterrey and Universite de Lorraine (as we are doing with Ricardo Espinosa) co-supervised by **Prof. Christian Daul**. For the "commite de suivi" we invited **Prof. Franck Marzani** (director of the lab where I did my PhD, the **Imagerie et Vision Artificielle Lav or ImViA**, previously the LE2I lab) and Dr. Miguel Mendoza. Francisco will be working on **automatic endoscopic stone recognition on a few shot and continual learning setting** and has alreasdy working on a lot of papers , both for conferences and journals, in collaboration with other students from the lab.
 
 >> ![ ](/francisco.png)
 
