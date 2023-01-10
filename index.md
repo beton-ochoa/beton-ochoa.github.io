@@ -52,6 +52,16 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**January 6th, 2023:** First PhD meeting of the year & we bought a couple of **Galettes de Rois**. We could not get everyone in GDL but we had Alexis and Ricardo via zoom. The students have gotten some pretty good results and we are planning for **ISBI2023** (Colombia), **MICCAI2023** and **CVPR2023** (both to be held in Vancouver, Canada) and **MICAI 2023** (to be held in Merida, Yucatan). **2023 is gonna be a great year!!!** 😎
+
+>> ![ ](/rosca.png)
+
+
+
+**January 3rd, 2023:** Today we had **Fransciso Lopez Tiro** first year PhD presentation. He is doing a joint thesis beween Tec de Monterrey and Universite de Lorraine (as we are doing with Ricardo Espinosa) co-supervised by **Prof. Christian Daul**. For the "commite de suivi" we invited **Prof. Franck Marzani** (director of the lab where I did my PhD, the **Imagerie et Vision Artificielle or ImViA**, previously the LE2I) and Dr. Miguel Mendoza.Francisco will be working on **automatic endoscopic stone recognition on a few shot and continual learning setting** and has alreasdy working on a lot of papers , both for conferences and journals, in collaboration with other students from the lab.
+
+>> ![ ](/francisco.png)
+
 **December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally invasive surgery"** was granted with a seed fund by the **Worldwide Universities Network** (**WUN** see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the University of Leeds & the University of Southampton and Tecnológico de Monterrey and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
 
 >> ![ ](/wun.png)
