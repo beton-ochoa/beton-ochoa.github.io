@@ -52,6 +52,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**January 22nd, 2023:** Very happy! Our group CVINSIDE had two out of four submitted papers accepted for presentation at the **IEEE International Symposyim on Biomedical Imaging (ISBI2023)** So I am taking two master and two PhD students to Cargagena de Indias, Colombia with me 🥳
+
+>> ![ ](/isbi2023.png)
+
+The first paper is entitled **"Multi-Scale Structural-aware Exposure Correction for Endoscopic Imaging"** and was authored by **Carlos Axel Garcia Vega** and **Ricardo Espinosa Loera**, you can read our Axiv  pre-print here: [link](https://arxiv.org/abs/2210.1503) where we make use of a custom dataset presented #MICAI2022 for proposing anovel image enhnacement method for endoscopic imaging.
+
+The second paper is entitled "Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies" authored master student **Elias Villalvazo Avil** and PhD student **Francisco Lopez-Tiro**, you can read our Arxiv pre-print here: [link](https://arxiv.org/abs/2211.02967) where we combine multi-view fusion stretegies for perfoming endoscopic kidney stone identification using the morpho-constitutional analysis proposed by M. Daudon
+
+Both are collaborations with our friends at the Centre de Recherche en Automatique de Nancy (CRAN, France) where Fransisco and Ricardo are doing the PhD
+in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
+
+>> ![ ](/cran2023.png)
+
+
+
 **January 13th, 2023:** We had a very productive meeting with the Centro de Innovacion Industrial e Inteligencia Artificial (CII.IA) and public/private dendeavor created in Monterrey to foster projects and education on artificial intelligence. The point of contact was Dr. Juan Arturo Nolasco, Director of the Data Science hub at Tec de Monterrey, with the idea of finding some extra computational resources for our project. The CII.IA will create to Google Cloud instances with 2 and 4 V100 GPUs, respectively. Thanks a lot, this will help us a lot with our project!
 
 >> ![ ](/ciiaa.png)
