@@ -52,6 +52,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**January 24th, 2023:** Good news everyone! Today we had the kick-of meeting for the **Latinx in Computer Vision Research Workshop (LXCV)** that will be hosted with the **International Conference on Computer Vision and Pattern Recognition (CVPR)**. Several members of CV inside will be serving as chairs of the workshop: **Daniel Flores Araiza** will serve as **presentation chair** and **Francisco Lopez-Tiro** will serve as mentoring chair. I have this time decided to woth as **Outreach and Liason Chair**, having served as gneeral chair before. 
+
+>> ![ ](/lxai2023.png)
+
+Looking froward to work with our dear friends and colleagues from around the world and meet them soon in **Vancouver Canada**! By the wway, this is the website, nore details soon!
+
+>> ![ ](/lxai2023b.png)
+
 **January 22nd, 2023:** Very happy! Our group CVINSIDE had two out of four submitted papers accepted for presentation at the **IEEE International Symposyim on Biomedical Imaging (ISBI2023)** So I am taking two master and two PhD students to Cargagena de Indias, Colombia with me 🥳
 
 >> ![ ](/isbi2023.png)
