@@ -64,9 +64,9 @@ Looking forward to work with our dear friends and colleagues from around the wor
 
 >> ![ ](/isbi2023.png)
 
-The first paper is entitled **"Multi-Scale Structural-aware Exposure Correction for Endoscopic Imaging"** and was authored by **Carlos Axel Garcia Vega** and **Ricardo Espinosa Loera**, you can read our Axiv  pre-print here: [link](https://arxiv.org/abs/2210.1503) where we make use of a custom dataset presented #MICAI2022 for proposing a novel image enhnacement method for endoscopic imaging.
+**First paper** is entitled **"Multi-Scale Structural-aware Exposure Correction for Endoscopic Imaging"** and was authored by **Carlos Axel Garcia Vega** and **Ricardo Espinosa Loera**, you can read our Axiv  pre-print here: [link](https://arxiv.org/abs/2210.1503) where we make use of a custom dataset presented #MICAI2022 for proposing a novel image enhnacement method for endoscopic imaging.
 
-The second paper is entitled "Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies" authored by our master student **Elias Villalvazo Avil** and PhD student **Francisco Lopez-Tiro**, you can read our Arxiv pre-print here: [link](https://arxiv.org/abs/2211.02967) where we combine multi-view fusion stretegies for perfoming endoscopic kidney stone identification using the morpho-constitutional analysis proposed by M. Daudon
+**Second paper** is entitled **"Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies"** authored by our master student **Elias Villalvazo Avil** and PhD student **Francisco Lopez-Tiro**, you can read our Arxiv pre-print here: [link](https://arxiv.org/abs/2211.02967) where we combine multi-view fusion stretegies for perfoming endoscopic kidney stone identification using the morpho-constitutional analysis proposed by M. Daudon
 
 Both are collaborations with our friends at the Centre de Recherche en Automatique de Nancy (CRAN, France) where Fransisco and Ricardo are doing the PhD
 in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
@@ -95,7 +95,7 @@ in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
 
 >> ![ ](/microsoft.png)
 
-**December 10th, 2022:** Today we have had our lab's end of the year party, or posada (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, two of our foreign stdents in the group was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
+**December 10th, 2022:** Today we have had our **lab's end of the year party**, or **posada** (as we call them in Mexico). We had traditional dishes such as tamales, buñuelos and  and ponche, and we broke some piñatas. For Mansoor and Jorge, two of our foreign stdents in the group was a good experience, and an abosolute blast for every one in the group (for both Tec de Monterrey and CINVESTAV students).
 
 >> ![ ](/end_year2.png)
 
