@@ -52,6 +52,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**January 31st, 2023:** First day at **Mila - Quebec Artificial Intelligence Institute** with our colleagues from the AlgoraLab (MILA) and fair lac (Jalisco). We had a deliberative practice workshop around an ethical scenario on a predictive policing system. Next, we hosted an online Talk in AI Ethics for a discussion about the Montreal Declaration, in which I participated. A good start to prepare our tomorrow's roundtable. Very happy to represent the **Hub de I teligencia Artificial** in this effort at MILA (previously **Montreal Institute for Learning Algorithms**, founded by Alan Turing awardee **Yoshua Bengio**
+
+>> ![ ](/MILA1.png)
+
+
 **January 24th, 2023:** Good news everyone! Today we had the kick-off meeting for the **Latinx in Computer Vision Research Workshop (LXCV)** that will be hosted with the **International Conference on Computer Vision and Pattern Recognition (CVPR)**. Several members of CV-inside will be serving as chairs of the workshop: **Daniel Flores Araiza** will serve as **presentation chair** and **Francisco Lopez-Tiro** will serve as mentoring chair. I have this time decided to go as **Outreach and Liason Chair**, having served as general chair before. 
 
 >> ![ ](/lxai2023.png)
