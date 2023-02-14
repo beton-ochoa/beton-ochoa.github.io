@@ -62,7 +62,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **February 1st, 2023:** Today we had a roundtable about the implementation of the **Montreal Declaration for the responsible development of AI** in which **Marc-Antoine Dilhac**(CIFAR Chair for Ethical AI) and and **Turing Award** winner **Yoshua Bengio** participated. I felt so honoured for sharing this moment with them and I have learned so much!
 
->> ![ ](/MILA1.png)
+>> ![ ](/MILA2.png)
 
 **January 31st, 2023:** First day at **Mila - Quebec Artificial Intelligence Institute** with our colleagues from the AlgoraLab (MILA) and fair lac (Jalisco). We had a deliberative practice workshop around an ethical scenario on a predictive policing system. Next, we hosted an online Talk in AI Ethics for a discussion about the Montreal Declaration, in which I participated. A good start to prepare our tomorrow's roundtable. Very happy to represent the **Hub de Inteligencia Artificial** in this effort at MILA (previously **Montreal Institute for Learning Algorithms**, founded by Alan Turing awardee **Yoshua Bengio**
 
