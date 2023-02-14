@@ -7,7 +7,7 @@
   
 ### About me
 
-**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision, Machine Learning and Internet of Things.** affiliated to the **Advanced AI Research Group** at **Tecnologico de Monterre**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the Universite de Bourgogne ([Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
+**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision, Machine Learning and Internet of Things.** affiliated to the **Advanced AI Research Group** at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the Universite de Bourgogne ([Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
 
 He is member of the Sistema Nacional de Investigadores (SNI, Rank I) and of the CONACYT Network on Applied Computational Network (RedICA), the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
@@ -52,7 +52,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**January 31st, 2023:** First day at **Mila - Quebec Artificial Intelligence Institute** with our colleagues from the AlgoraLab (MILA) and fair lac (Jalisco). We had a deliberative practice workshop around an ethical scenario on a predictive policing system. Next, we hosted an online Talk in AI Ethics for a discussion about the Montreal Declaration, in which I participated. A good start to prepare our tomorrow's roundtable. Very happy to represent the **Hub de I teligencia Artificial** in this effort at MILA (previously **Montreal Institute for Learning Algorithms**, founded by Alan Turing awardee **Yoshua Bengio**
+**February 13th, 2023** Today I was invited to give a talk for the biomedical engineering team at the **Sant Joan de Deu Hospital** in Barcelona, Spain, about our joint project **"SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL"**, thanks for the invite!
+
+>> ![ ](/isolate.jpeg)
+
+**February 10th, 2023:** Today we welcome two new master students to our **CV-inside lab**, both biomedical engineers from **Tec de Monterrey** campus Guadalajara: **Cuauhtémoc Alonso Guerrero Ramírez** and **Javier Cerriteño Mgaña**. The former will be working on surgical data science projects along **Sharib Ali** and our joint PhD student **Mansoor Ali** and the latter will continue some work we have on image enhancement methods for endoscopy with my PhD student **Ricardo Loera**, welcome guys!
+
+>> ![ ](/new_cvinside.jpeg)
+
+**February 1st, 2023:** Today we had a roundtable about the implementation of the **Montreal Declaration for the responsible development of AI** in which **Marc-Antoine Dilhac**(CIFAR Chair for Ethical AI) and and **Turing Award** winner **Yoshua Bengio** participated. I felt so honoured for sharing this moment with them and I have learned so much!
+
+>> ![ ](/MILA1.png)
+
+**January 31st, 2023:** First day at **Mila - Quebec Artificial Intelligence Institute** with our colleagues from the AlgoraLab (MILA) and fair lac (Jalisco). We had a deliberative practice workshop around an ethical scenario on a predictive policing system. Next, we hosted an online Talk in AI Ethics for a discussion about the Montreal Declaration, in which I participated. A good start to prepare our tomorrow's roundtable. Very happy to represent the **Hub de Inteligencia Artificial** in this effort at MILA (previously **Montreal Institute for Learning Algorithms**, founded by Alan Turing awardee **Yoshua Bengio**
 
 >> ![ ](/MILA1.png)
 
