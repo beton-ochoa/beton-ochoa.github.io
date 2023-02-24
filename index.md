@@ -1,7 +1,6 @@
 ## Dr. Gilberto Ochoa-Ruiz
 ## Advanced AI Research Group
-## Tecnologico de Monterrey
-## School of Engineering and Sciences
+## Tecnologico de Monterrey, School of Engineering and Sciences
 
 ###   [Home](/index) • [Projects](/projects) • [Publications](/publications) • [Students](/students) • [Contact](/contact)
 
@@ -10,9 +9,11 @@
   
 ### About me
 
-**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision, Machine Learning and Internet of Things.** affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the Universite de Bourgogne ([[](https://tec.mx/es/investigacion/inteligencia-artificial-avanzada)Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
+**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision**, Machine Learning and Internet of Things. affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the **Universite de Bourgogne**, in the [Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
 
-He is member of the Sistema Nacional de Investigadores (SNI, Rank I) and of the CONACYT Network on Applied Computational Network (RedICA), the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
+He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
+
+He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in Latin Amercica.
 
 
 ---
@@ -80,7 +81,7 @@ Looking forward to work with our dear friends and colleagues from around the wor
 
 >> ![ ](/lxai2023b.png)
 
-**January 22nd, 2023:** Very happy! Our group CV-isnide had two out of four submitted papers accepted for presentation at the **IEEE International Symposium on Biomedical Imaging (ISBI2023)**--- So I am taking two master and two PhD students to Cargagena de Indias, Colombia with me 🥳!!!
+**January 22nd, 2023:** Very happy! Our group CV-inside had two out of four submitted papers accepted for presentation at the **IEEE International Symposium on Biomedical Imaging (ISBI2023)**--- So I am taking two master and two PhD students to Cargagena de Indias, Colombia with me 🥳!!!
 
 >> ![ ](/isbi2023.png)
 
@@ -89,7 +90,7 @@ Looking forward to work with our dear friends and colleagues from around the wor
 
 >> ![ ](/Paper1_isbi.png)
 
-**Second paper** is entitled **"Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies"** authored by our master student **Elias Villalvazo Avil** and PhD student **Francisco Lopez-Tiro**, you can read our Arxiv pre-print here: [link](https://arxiv.org/abs/2211.02967) where we combine multi-view fusion stretegies for perfoming endoscopic kidney stone identification using the morpho-constitutional analysis proposed by M. Daudon
+**Second paper** is entitled **"Improved Kidney Stone Recognition Through Attention and Multi-View Feature Fusion Strategies"** authored by our master student **Elias Villalvazo Avila** and PhD student **Francisco Lopez-Tiro**, you can read our Arxiv pre-print here: [link](https://arxiv.org/abs/2211.02967) where we combine multi-view fusion stretegies for perfoming endoscopic kidney stone identification using the morpho-constitutional analysis proposed by M. Daudon
 
 >> ![ ](/Paper2_isbi.png)
 
@@ -100,7 +101,7 @@ in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
 
 
 
-**January 13th, 2023:** We had a very productive meeting with the C**entro de Innovacion Industrial e Inteligencia Artificial (CII.IA)** and public/private endeavor created in Monterrey to foster projects and education on artificial intelligence. The point of contact was **Dr. Juan Arturo Nolasco**, Director of the **Data Science hub at Tec de Monterrey**, with the idea of finding some extra computational resources for our project. The CII.IA will create to Google Cloud instances with 2 and 4 V100 GPUs, respectively. Thanks a lot, this will help us a lot with our project!
+**January 13th, 2023:** We had a very productive meeting with the **Centro de Innovacion Industrial e Inteligencia Artificial (CII.IA)** and public/private endeavor created in Monterrey to foster projects and education on artificial intelligence. The point of contact was **Dr. Juan Arturo Nolasco**, Director of the **Data Science hub at Tec de Monterrey**, with the idea of finding some extra computational resources for our projects. The CII.IA will create to Google Cloud instances with 2 and 4 V100 GPUs, respectively. Thanks a lot, this will help us a lot with our project!
 
 >> ![ ](/ciiaa.png)
 
@@ -112,7 +113,7 @@ in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
 
 >> ![ ](/francisco.png)
 
-**December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally invasive surgery"** was granted with a seed fund by the **Worldwide Universities Network** (**WUN** see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the University of Leeds & the University of Southampton and Tecnológico de Monterrey and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
+**December 16th, 2022:**: I'm very glad to announce that our joint project **"Novel robust computer vision methods & synthetic datasets for minimally invasive surgery"** was granted with a seed fund by the **Worldwide Universities Network** (**WUN** see [link](https://wun.ac.uk/article/research-development-fund-rdf-2022-awards-announcement/). This projet will foster a collab network with the **University of Leeds** & the **University of Southampton** and Tecnológico de Monterrey and it will enable to create a new venture for all of us involved (**Dr. Sharib Ali** and **Dr. Kate Farrahi**)  around surgical data science and beyond
 
 >> ![ ](/wun.png)
 
@@ -133,7 +134,7 @@ in double degree with Tecnologico de Monterrey! Congrats guys and to the team!!!
 
 >> ![ ](/mansoor_prize.jpeg)
 
-**November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by me and **Prof. Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this Endo4IE dataset against other image enhancenment methods.
+**November 18th, 2022:** Congrats to our master student **Axel Garcia Vega**, who successfully defended his master thesis today! He was co-supervised by me and **Prof. Christian Daul** from the **Centre de Recherche en Automatique de Nancy (CRAN, France)** and has done a very amazing work during these two years at the CV Inside lab! His thesis was titled **"A novel Dataset and Deep Learning Method for Automatic Exposure Correction in Endoscopic Imaging"** in which we created our own paired dataset for reference based exposure correction of endoscopic frames and we repurposed and iomproved a DL-based methods for testing this **Endo4IE dataset** against other image enhancenment methods.
 
 Axel had a very productive master: he published a paper **MICAI 20222** in Monterrey (**winning the 3rd best paper award**) and presented a poster at the **LatinX in AI Research Workshop at CVPR** (in person in New Orleans) and we have submitted a paper to **ISBI 2023 (Colombia)**. We plan to continue working on a journal paper applying his methods to two different computer vision tasks in endoscopic (3D reconstruction and instrument segmentation).  
 I am certain a bright future is waiting for him! Hooray!
