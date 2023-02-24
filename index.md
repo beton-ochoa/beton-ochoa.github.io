@@ -1,5 +1,5 @@
 ## Dr. Gilberto Ochoa-Ruiz
-## Advanceded AI Research Group
+## Advanced AI Research Group
 ## Tecnologico de Monterrey
 ## School of Engineering and Sciences
 
