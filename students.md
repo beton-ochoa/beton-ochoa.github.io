@@ -42,14 +42,28 @@
 
 **Graduated  students**
 
-* **Daniela Herrera Montes de Oca**, Automatic segmentation and classification of vascular pattern symmetries on cerebral vessels using DL
-* **Pedro Esteban Chavarrias Solano**, Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning
-* **Carlos Axel Garcia Vega**, Deep Learning Lightinhg Enhancement for Endoscopic Computer Integrated Surgery
-* **Jorge Francisco Ciprian Sanchez**, Deep Learning model for early wildfire detection through the fusion of visible and infrared information [[Github]](https://github.com/JorgeFCS)
-* **Carmina Perez Guerrero**, Characterization of Jet Fire Flame Temperature Zones Using a DeepLearning-based Segmentation Approach [[Github]](https://github.com/CarminaP)
-* **Juan Carlos Angeles Ceron**, Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures
-* **Mauricio Mendez Ruiz**, Model Extensions for Semantic Segmentation using Few-Shot Learning Approach
-* **Oscar Hinojosa**, Automated classification method for ureteroscopic kidney stone images using machine learning  [[Github]](https://github.com/oscar09)
+* **Daniela Herrera Montes de Oca** <br />
+ **Thesis Title**: Automatic segmentation and classification of vascular pattern symmetries on cerebral vessels using DL <br />
+* **Pedro Esteban Chavarrias Solano** <br />
+ **Thesis Title:** Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning <br />
+ **Current Position**: *Phd: University of Leeds* <br />
+* **Carlos Axel Garcia Vega** <br />
+  **Thesis title:** Deep Learning Lightinhg Enhancement for Endoscopic Computer Integrated Surgery <br />
+* **Jorge Francisco Ciprian Sanchez** <br />
+ **Thesis Title:** Deep Learning model for early wildfire detection through the fusion of visible and infrared information [Github](https://github.com/JorgeFCS)
+ **Current Position**: *Phd: Hasso Platner Institute, University of Postdam* 
+* **Carmina Perez Guerrero** <br />
+  **Thesis Title** Characterization of Jet Fire Flame Temperature Zones Using a DeepLearning-based Segmentation Approach [Github](https://github.com/CarminaP) 
+  **Current Position**: * Research Engineer: [EugenIA]* (https://www.eugenia.tech/es/inicio/) <br /> 
+* **Juan Carlos Angeles Ceron** <br />
+ **Thesis Title:** Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures <br />
+ **Current Position**: *Research Engineer, Microsoft* <br />
+* **Mauricio Mendez Ruiz** <br />
+  **Thesis title:** Model Extensions for Semantic Segmentation using Few-Shot Learning Approach <br />
+  **Current Position**: * Research Engineer: [EugenIA]* (https://www.eugenia.tech/es/inicio/) <br /> 
+* **Oscar Hinojosa** <br />
+ **Thesis title:** Automated classification method for ureteroscopic kidney stone images using machine learning  [[Github]](https://github.com/oscar09) <br />
+ **Current Position**: *Amazon* <br />
 
 ---
 
