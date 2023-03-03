@@ -58,6 +58,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 1st, 2023:** These few days we have attending the annual Tecnologico de Monterrey main science conference, the **Science Summit**, an excellent opportunity to connect with colleagues from other campuses and current MSC students. I have also been able to interview and rerecuit new students from the Monterrey campus, that will be joining the two new students from the Guadalajara campus. 
+
+The first day we had an amazing berbecue with our colleagues of the Advanced Artificial Intelligence (AAI) research group, led by Dr. Raul Montroy and Dr. Julieta Noguez Monroy and organized by one of the pioneers of AI in Mexico (a previous president of the SMIA) Dr. Francisco Cantu.
+
+>> ![ ](/summit.png)
+
+We had also an amazing gala dinner in which we had an amazing opportunity to connect with other colleagues
+
+
 **February 13th, 2023** Today I was invited to give a talk for the biomedical engineering team at the **Sant Joan de Deu Hospital** in Barcelona, Spain, about our joint project **"SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL"**, thanks for the invite!
 
 >> ![ ](/isolate.jpeg)
