@@ -66,6 +66,8 @@ The first day we had an amazing berbecue with our colleagues of the Advanced Art
 
 We had also an amazing gala dinner in which we had an amazing opportunity to connect with other colleagues
 
+>> ![ ](/summit2.png)
+
 
 **February 13th, 2023** Today I was invited to give a talk for the biomedical engineering team at the **Sant Joan de Deu Hospital** in Barcelona, Spain, about our joint project **"SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL"**, thanks for the invite!
 
