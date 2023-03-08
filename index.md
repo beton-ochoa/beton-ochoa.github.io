@@ -58,6 +58,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 7th, 2023:** We have four new master students **CVINSIDE** for this cohort with CONACYT scholarships, super happy!!!🥳
+Javier and Cuathemoc will be working with me and my colleagues **Christian Daul (CRAN, France)** and **Sharib Ali (Univ. of Leeds,UK)** on endoscoping imaging stuff. And Carlos will be working with my friend C**hristian Mata (Universitat Politecnica de Catalunya)** and **Alain Lalande (Université de Bourgogne)** on the EMIDEC Challenge. Finally, Ari will continue on the **ISOLATE project** with the UPC and the **Sant Joan de Deu Hospital**!!!
+
+>> ![ ](/cohort2023.png)
+
 **March 1st, 2023:** These few days we have attending the annual Tecnologico de Monterrey main science conference, the **Science Summit**, an excellent opportunity to connect with colleagues from other campuses and current MSC students. I have also been able to interview and rerecuit new students from the Monterrey campus, that will be joining the two new students from the Guadalajara campus. 
 
 The first day we had an amazing berbecue with our colleagues of the Advanced Artificial Intelligence (AAI) research group, led by Dr. Raul Montroy and Dr. Julieta Noguez Monroy and organized by one of the pioneers of AI in Mexico (a previous president of the SMIA) Dr. Francisco Cantu.
