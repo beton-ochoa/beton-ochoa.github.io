@@ -58,6 +58,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 9th, 2023:** I had a meeting with my PhD students **Ricardo Espinosa Loera** and **Franisco Lopez Tiro**, which both are working in a joint PhD with the **Centre de Recherche en Automatique de Nancy (CRAN)** of the **Université de Lorraine**. We are starting to prepare two submisstions for the french conference GRETSI, which will take place in Grenoble in late august. The idea is two prepare one on our kidney stones project using image fusion with **Franisco Lopez** and on image enhacement for 3D reconstruction with **Ricardo Espinosa**. 
+
+>> ![ ](/gretsi.png)
+
 **March 7th, 2023:** We have four new master students **CVINSIDE** for this cohort with CONACYT scholarships, super happy!!!🥳
 Javier and Cuathemoc will be working with me and my colleagues **Christian Daul (CRAN, France)** and **Sharib Ali (Univ. of Leeds,UK)** on endoscoping imaging stuff. And Carlos will be working with my friend C**hristian Mata (Universitat Politecnica de Catalunya)** and **Alain Lalande (Université de Bourgogne)** on the EMIDEC Challenge. Finally, Ari will continue on the **ISOLATE project** with the UPC and the **Sant Joan de Deu Hospital**!!!
 
