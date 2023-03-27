@@ -58,6 +58,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 27th, 2023** Super good news! **Daniela Herrera**, one of CV-inside brightest students has been hired as a **research engineer** at the **Centre Hospitalier Regional d'Orleans**, in France! I am super happy for her as this international experience will be priceless! I am proud of helping my students to go abroad and expand their capabilities, a even brighter future is waiting for her! (below a pictute taken in New Orleans from our trip to  the **CVPR conference** in 2022
+
+ >> ![ ](/daniela.jpg)
+
 **March 9th, 2023:** I had a meeting with my PhD students **Ricardo Espinosa Loera** and **Franisco Lopez Tiro**, which both are working in a joint PhD with the **Centre de Recherche en Automatique de Nancy (CRAN)** of the **Université de Lorraine**. We are starting to prepare two submisstions for the french conference GRETSI, which will take place in Grenoble in late august. The idea is two prepare one on our kidney stones project using image fusion with **Franisco Lopez** and on image enhacement for 3D reconstruction with **Ricardo Espinosa**. 
 
 >> ![ ](/gretsi.png)
