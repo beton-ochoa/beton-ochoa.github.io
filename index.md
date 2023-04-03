@@ -58,6 +58,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April, 1st, 2023**: Finalizing details for the Int. Symposium on Biomedicaal Imaging (ISBI) in Cartagena de Indias, Colombia! We have an oral presentation and a poster, but we decided to present both as posters too! Currently working with our Phd students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** on two short papers for GRETSI as they will be at CRAN (Nancy, France) during the 2nd part of 2023 and we want go to Grenoble... CV-INSIDEis gonna have a great year indeed!
+
+>> ![ ](/poster_isbi.png)
+
 **March 27th, 2023** Super good news! **Daniela Herrera**, one of CV-inside brightest students has been hired as a **research engineer** at the **Centre Hospitalier Regional d'Orleans**, in France! I am super happy for her as this international experience will be priceless! I am proud of helping my students to go abroad and expand their capabilities, a even brighter future is waiting for her! (below a pictute taken in New Orleans from our trip to  the **CVPR conference** in 2022
 
  >> ![ ](/daniela.jpg)
@@ -80,7 +84,6 @@ The first day we had an amazing berbecue with our colleagues of the Advanced Art
 We had also an amazing gala dinner in which we had an amazing opportunity to connect with other colleagues
 
 >> ![ ](/summit2.png)
-
 
 **February 13th, 2023** Today I was invited to give a talk for the biomedical engineering team at the **Sant Joan de Deu Hospital** in Barcelona, Spain, about our joint project **"SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL"**, thanks for the invite!
 
