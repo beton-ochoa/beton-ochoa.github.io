@@ -62,15 +62,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/lxai2023b.png)
 
-The first papaper was authored by David Laines (in collab with **Gisella Bajarano** from **Baylor Universit**) is entitled "Isolated Sign Language Recognition based on Tree Structure Skeleton Images" proposes a novel representation for improving SLR in various datasets
+The first papaper was authored by **David Laines**, in collab with **Gisella Bajarano** from **Baylor Universit** is entitled "Isolated Sign Language Recognition based on Tree Structure Skeleton Images" proposes a novel representation for improving SLR in various datasets
 
 The second paper, authored by **Rafael Peña**, in collab with **Sharib Ali**  from the **University of Leeds** is entitled "SUPRA: Superpixel Guided Loss for Improved Multi-modal Segmentation in Endoscopy" proposes a method to deal with domain shifts in endocopy,tailored to segmentation of Barret Esophagus lesions
 
 And finally, the "Deep Prototypical-Parts Ease Morphological Kidney Stone Identification and are Competitively Robust to Photometric Perturbations" by was co-authored by **Daniel Flores Araiza** and **Franscisco Lopez-Tiro** in collab with our friend of CRANs, France, proposed an interprretable implementaiton of the MCA anlysis! (co-supervised by **Prof. Christian Daul**
 
-Bwlow a pictures of the last meeting with the guys in Monterrey working on the papers!
+Below a pictures of the last meeting with the guys in Monterrey working on the papers!
 
->> ![ ](/LXAI_guys.jpg)
+>> ![ ](/Cabrito.png)
 
 And a picture having lunch with some other members of the lab in a tradiontal cabrito joint!
 
@@ -101,6 +101,10 @@ The first day we had an amazing berbecue with our colleagues of the Advanced Art
 We had also an amazing gala dinner in which we had an amazing opportunity to connect with other colleagues
 
 >> ![ ](/summit2.png)
+
+I am very happy to be part of this amazing group, the **Advanced Artificial Intelligence** Research group
+
+>> ![ ](/Grupo_AAI.jpg)
 
 **February 13th, 2023** Today I was invited to give a talk for the biomedical engineering team at the **Sant Joan de Deu Hospital** in Barcelona, Spain, about our joint project **"SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL"**, thanks for the invite!
 
