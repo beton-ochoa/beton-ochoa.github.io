@@ -58,6 +58,23 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April, 3rd, 2023:**: Great news! **3 out of our 4 papers** submitted to the **LatinX in Computer Vision Workshop** at the **Conference on Computer Vision and Pattern Recognition (CVPR)** have been accepted (2 with some corrections)! I am super proud of the students at the **CV-INSIDE lab** and our friends and colleagues involved in the projects! The worshop will take place in **Vancoucer, Canada on June 18th, 2023**!
+
+>> ![ ](/lxai2023b.png)
+
+The first papaper was authored by David Laines (in collab with **Gisella Bajarano** from **Baylor Universit**) is entitled "Isolated Sign Language Recognition based on Tree Structure Skeleton Images" proposes a novel representation for improving SLR in various datasets
+
+The second paper, authored by **Rafael Peña**, in collab with **Sharib Ali**  from the **University of Leeds** is entitled "SUPRA: Superpixel Guided Loss for Improved Multi-modal Segmentation in Endoscopy" proposes a method to deal with domain shifts in endocopy,tailored to segmentation of Barret Esophagus lesions
+
+And finally, the "Deep Prototypical-Parts Ease Morphological Kidney Stone Identification and are Competitively Robust to Photometric Perturbations" by was co-authored by **Daniel Flores Araiza** and **Franscisco Lopez-Tiro** in collab with our friend of CRANs, France, proposed an interprretable implementaiton of the MCA anlysis! (co-supervised by **Prof. Christian Daul**
+
+Bwlow a pictures of the last meeting with the guys in Monterrey working on the papers!
+
+>> ![ ](/LXAI_guys.jpg)
+
+And a picture having lunch with some other members of the lab in a tradiontal cabrito joint!
+
+
 **April, 1st, 2023**: Finalizing details for the Int. Symposium on Biomedicaal Imaging (ISBI) in Cartagena de Indias, Colombia! We have an oral presentation and a poster, but we decided to present both as posters too! Currently working with our Phd students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** on two short papers for GRETSI as they will be at CRAN (Nancy, France) during the 2nd part of 2023 and we want go to Grenoble... CV-INSIDEis gonna have a great year indeed!
 
 >> ![ ](/poster_isbi.png)
