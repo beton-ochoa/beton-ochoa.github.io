@@ -79,6 +79,11 @@ And a picture having lunch with some other members of the lab in a tradiontal ca
 
 >> ![ ](/poster_isbi.png)
 
+For preparing for the trip, we want to **Casa Trapiche** one of my favorite restaurants in Guadalajara, we had food from my second region, Colima! We got the tickets and Airbnb ready!
+
+>> ![ ](/isbi_trapiche.png)
+
+
 **March 27th, 2023** Super good news! **Daniela Herrera**, one of CV-inside brightest students has been hired as a **research engineer** at the **Centre Hospitalier Regional d'Orleans**, in France! I am super happy for her as this international experience will be priceless! I am proud of helping my students to go abroad and expand their capabilities, a even brighter future is waiting for her! (below a pictute taken in New Orleans from our trip to  the **CVPR conference** in 2022
 
  >> ![ ](/daniela.jpg)
