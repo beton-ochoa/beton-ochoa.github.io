@@ -58,6 +58,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 8th, 2023:** It's Easter Holidays in Mexico and we hace worked really hard to have two papers for **GRETSI 2023**, which will take place in **Grenoble, France** in September.  So we wanted to celebrate this and the three full papers that were accepted at the **LXAI Workshop at CVPR 2023**! 
+I invited some of the PhDs to come over, we ordered some pizzas and opened a bottle du vin d'erable (I got this from Montreal, really good!). We also prepared some **french connection cocktails** with amaretto and a Cognac that my former master students Peter gave to me, it was a great time!
+
+>> ![ ](/french_connection.png)
+
 **April, 3rd, 2023:**: Great news! **3 out of our 4 papers** submitted to the **LatinX in Computer Vision Workshop** at the **Conference on Computer Vision and Pattern Recognition (CVPR)** have been accepted (2 with some corrections)! I am super proud of the students at the **CV-INSIDE lab** and our friends and colleagues involved in the projects! The worshop will take place in **Vancoucer, Canada on June 18th, 2023**!
 
 >> ![ ](/lxai2023b.png)
