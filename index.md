@@ -58,6 +58,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 13th, 2023:** I had the pleasure of giving a keynote talk in the **Artificial Intelligence Stag**e at **Talent Land**, one of the largest and more exciting forums in Jalisco and Mexico about emerging technlogies, specifically directed to high school ad bachelor students. It was an excellent opportunity to showcase the work done by CV-inside members in 3D reconstruction for endocopic examinations and for computer integrated surgery. This is super important work for enabling cancer examination and preventions techologies and digital health strategies! I also met students of mine from deveral universities, previous interns and colleagues.
+
+
+>> ![ ](/talent_land.png)
+
 **April 8th, 2023:** It's Easter Holidays in Mexico and we hace worked really hard to have two papers for **GRETSI 2023**, which will take place in **Grenoble, France** in September.  So we wanted to celebrate this and the three full papers that were accepted at the **LXAI Workshop at CVPR 2023**! 
 I invited some of the PhDs to come over, we ordered some pizzas and opened a bottle du vin d'erable (I got this from Montreal, really good!). We also prepared some **french connection cocktails** with amaretto and a Cognac that my former master students Peter gave to me, it was a great time!
 
