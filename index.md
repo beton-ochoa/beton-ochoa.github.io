@@ -58,6 +58,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 17th, 2023:** The CV-inside team has landed in **Cartagena,Colombia** for the **IEEE** Int. Symposium on **Biomedical Imaging (ISBI)** I brought four PhD sudents with me: Ivan Reyes (**CINVESTAV**), Francisco Lopez-Tiro (**CRAN/Tec de Monterrey**), Ricardo Espinosa (**UP/CRAN**) and Mansoor Ali Teevno (**Tec de Monterrey**, co-supervised by **Sharib Ali** from **Uni of Leeds**) and a MSc studet Rafael Martinez. Some of them will be volunteers for ISBI and Ricardo and Franscisco a presenting some papers. Tjhe first two days we devoted mostly yo get acquainted with the city and walking around. The conference starts tomorrow!
+
+>> ![ ](/cartagena.png)
+
 **April 13th, 2023:** I had the pleasure of giving a keynote talk in the **Artificial Intelligence Stag**e at **Talent Land**, one of the largest and more exciting forums in Jalisco and Mexico about emerging technlogies, specifically directed to high school ad bachelor students. It was an excellent opportunity to showcase the work done by CV-inside members in 3D reconstruction for endocopic examinations and for computer integrated surgery. This is super important work for enabling cancer examination and preventions techologies and digital health strategies! I also met students of mine from deveral universities, previous interns and colleagues.
 
 
