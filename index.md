@@ -58,6 +58,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 19th, 2023:**: We spent the day on a difussion models tutorial and our PhD student **Ricardo Espinosa** presented his poster (main author **Axel Garcia Vega**) on image enhancement for 3D reconstruction on colonoscopy, a collaboration with the **Centre de Recherche en Automatique de Nancy (CRAN)** and the **Hopital Ambroise Paré (AHP, Paris)**
+
+>> ![ ](/isbi_day3.png)
+
+
+**April 18th, 2023:** First day at **ISBI 2023** The CV-inside team is not only here to present papers: some of our students are working as volunteers too! We mainly devoted the day to the **Industrial Day**. We met several members of the **LatinX in AI** community too!
+
+>> ![ ](/isbi_day1.png)
+
+Druing the **Opening Ceremony** I met Luca Giancardo, a first promotion student of the **Erasmus Mundus** Master in **Computer Vision** and Robotics (VIBoT) who I met back in 2007!
+
+>> ![ ](/isbi_day2.png)
+
+Overall quitr a succesful first day! 
+
 **April 17th, 2023:** The CV-inside team has landed in **Cartagena,Colombia** for the **IEEE** Int. Symposium on **Biomedical Imaging (ISBI)** I brought four PhD sudents with me: Ivan Reyes (**CINVESTAV**), Francisco Lopez-Tiro (**CRAN/Tec de Monterrey**), Ricardo Espinosa (**UP/CRAN**) and Mansoor Ali Teevno (**Tec de Monterrey**, co-supervised by **Sharib Ali** from **Uni of Leeds**) and a MSc studet Rafael Martinez. Some of them will be volunteers for ISBI and Ricardo and Franscisco a presenting some papers. Tjhe first two days we devoted mostly yo get acquainted with the city and walking around. The conference starts tomorrow!
 
 >> ![ ](/cartagena.png)
