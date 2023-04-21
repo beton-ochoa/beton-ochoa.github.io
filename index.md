@@ -11,7 +11,7 @@
 
 **Gilberto Ochoa Ruiz** is a researcher in **Computer Vision**, Machine Learning and Internet of Things. affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the **Universite de Bourgogne**, in the [Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
 
-He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
+He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
 He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in Latin Amercica.
 
@@ -58,6 +58,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 21st, 2023:**: ISBI, c'est bon and we are quite delighted! Next year is gonna be in **Athens, Greece**! My students & me had lots of fun at **ISBI2023** at Cartagena, Colombia!😀 We (CV-inside) had two papers accepted but it was also a great opportunity for some of the students at CV-inside to serve as volunteers & gain invaluable experience 🥳! It was also an excellent way of meeting more **Latinx in AI (LXAI) colleagues** working on the biomedical imaging field beyond computer vision 😎
+
 **April 19th, 2023:**: We spent the day on a difussion models tutorial and our PhD student **Ricardo Espinosa** presented his poster (main author **Axel Garcia Vega**) on image enhancement for 3D reconstruction on colonoscopy, a collaboration with the **Centre de Recherche en Automatique de Nancy (CRAN)** and the **Hopital Ambroise Paré (AHP, Paris)**
 
 >> ![ ](/isbi_day3.png)
@@ -67,11 +69,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/isbi_day1.png)
 
-Druing the **Opening Ceremony** I met Luca Giancardo, a first promotion student of the **Erasmus Mundus** Master in **Computer Vision** and Robotics (VIBoT) who I met back in 2007!
+During the **Opening Ceremony** I met Luca Giancardo, a first promotion student of the **Erasmus Mundus** Master in **Computer Vision** and Robotics (VIBoT) who I met back in 2007!
 
 >> ![ ](/isbi_day2.png)
 
-Overall quitr a succesful first day! 
+Overall quite a succesful first day! 
 
 **April 17th, 2023:** The CV-inside team has landed in **Cartagena,Colombia** for the **IEEE** Int. Symposium on **Biomedical Imaging (ISBI)** I brought four PhD sudents with me: Ivan Reyes (**CINVESTAV**), Francisco Lopez-Tiro (**CRAN/Tec de Monterrey**), Ricardo Espinosa (**UP/CRAN**) and Mansoor Ali Teevno (**Tec de Monterrey**, co-supervised by **Sharib Ali** from **Uni of Leeds**) and a MSc studet Rafael Martinez. Some of them will be volunteers for ISBI and Ricardo and Franscisco a presenting some papers. Tjhe first two days we devoted mostly yo get acquainted with the city and walking around. The conference starts tomorrow!
 
