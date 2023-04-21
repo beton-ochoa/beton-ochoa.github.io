@@ -60,6 +60,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **April 21st, 2023:**: ISBI, c'est bon and we are quite delighted! Next year is gonna be in **Athens, Greece**! My students & me had lots of fun at **ISBI2023** at Cartagena, Colombia!😀 We (CV-inside) had two papers accepted but it was also a great opportunity for some of the students at CV-inside to serve as volunteers & gain invaluable experience 🥳! It was also an excellent way of meeting more **Latinx in AI (LXAI) colleagues** working on the biomedical imaging field beyond computer vision 😎
 
+>> ![ ](/isbi_final.png)
+
 **April 19th, 2023:**: We spent the day on a difussion models tutorial and our PhD student **Ricardo Espinosa** presented his poster (main author **Axel Garcia Vega**) on image enhancement for 3D reconstruction on colonoscopy, a collaboration with the **Centre de Recherche en Automatique de Nancy (CRAN)** and the **Hopital Ambroise Paré (AHP, Paris)**
 
 >> ![ ](/isbi_day3.png)
