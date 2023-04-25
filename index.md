@@ -58,6 +58,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 25th, 2023:** Super happy! We had 3 full papers and 2 extended abstacts accecpted at the **LatinX in  Computer Vision Research Workshop** CVPR
+that will take place in **Vancouver, Canada** in June 🥳... Additionally, we had approved **8 full registration waivers** for CV inside members and we have the expenses covered for three of the authors (Vadid Laines, Rafael Martinez and Daniel Flores)
+
+>> ![ ](/lxai_cvpr.png)
+
 **April 21st, 2023:**: ISBI, c'est bon and we are quite delighted! Next year is gonna be in **Athens, Greece**! My students & me had lots of fun at **ISBI2023** at Cartagena, Colombia!😀 We (CV-inside) had two papers accepted but it was also a great opportunity for some of the students at CV-inside to serve as volunteers & gain invaluable experience 🥳! It was also an excellent way of meeting more **Latinx in AI (LXAI) colleagues** working on the biomedical imaging field beyond computer vision 😎
 
 >> ![ ](/isbi_final.png)
