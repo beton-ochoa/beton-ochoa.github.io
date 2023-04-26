@@ -58,9 +58,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**Apri 27th, 2023:** It's official! Microsoft Research has supported two of our project through their AI for Health program!
+**Apri 27th, 2023:** It's official! **Microsoft Research** has supported two of our project through their **AI for Health** program!
 
->> ![ ](/microsoft_health.jpeg)
+>> ![ ](/microsoft_health.jpg)
 
 In december we had a meeting with William Weeks to present some of our projects and two of ours have been granted 30k USD for 3 years (180k USD in total)!!!
 
