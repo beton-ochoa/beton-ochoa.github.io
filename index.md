@@ -58,6 +58,26 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**Apri 27th, 2023:** It's official! Microsoft Research has supported two of our project through their AI for Health program!
+
+>> ![ ](/microsoft_health.jpeg)
+
+In december we had a meeting with William Weeks to present some of our projects and two of ours have been granted 30k USD for 3 years (180k USD in total)!!!
+
+>> ![ ](/microsoft_tec.jpeg)
+
+Two CV-inside projects are to benefit from these Azure Cloud credits are:
+
+The first one is entiltled **Endocopic Identification of kidney stones** with the **Centre de recherche en Automatique de Nancy (CRAN)** in which Francisco Lopez-Tiro, Daniel Flores Araizad and Ivan Reyes are participating along with clinicians from France
+
+>> ![ ](/microsoft_cran.png)
+
+The second project is entitled **Novel robust computer vision methods for minimally invasive surgery**  in which **Dr. Sharib Ali (University of Leeds)** and me re working with **Dr. Kate Farrahi (University ofn Southampton)** finansed by a Worldwide Universityies Network (WUN) grant. Mansoor Ali and Cuauthemoc Guerrero are students inolved in this project.
+
+
+>> ![ ](/microsoft_leeds.png)
+ 
+ 
 **April 25th, 2023:** Super happy! We had 3 full papers and 2 extended abstacts accecpted at the **LatinX in  Computer Vision Research Workshop** CVPR
 that will take place in **Vancouver, Canada** in June 🥳... Additionally, we had approved **8 full registration waivers** for CV inside members and we have the expenses covered for three of the authors (Vadid Laines, Rafael Martinez and Daniel Flores)
 
