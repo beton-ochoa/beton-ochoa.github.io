@@ -58,7 +58,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**Apri 27th, 2023:** It's official!!! **Microsoft Research** has supported two of our project through their **AI for Health** program!
+**May 18th, 2023:** Super happy! Masroor (from Pakistan, don't confuse with Mansoor)  has joined the CV-inside lab 🥳🥳🥳  His PhD will be focused on exploring diffusion models for endoscoping imamging, geated towards improving robustness and OOD generalization! For the moment he will be working on the Monterrey campus but he might join us in Guadalajara soon.
+
+>> ![ ](/masroor.jpeg)
+>> 
+**April 27th, 2023:** It's official!!! **Microsoft Research** has supported two of our project through their **AI for Health** program!
 
 >> ![ ](/microsoft_health_en.png)
 
