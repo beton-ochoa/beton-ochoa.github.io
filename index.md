@@ -58,9 +58,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**May 18th, 2023:** Super happy! Masroor (from Pakistan, don't confuse with Mansoor)  has joined the CV-inside lab 🥳🥳🥳  His PhD will be focused on exploring diffusion models for endoscoping imamging, geated towards improving robustness and OOD generalization! For the moment he will be working on the Monterrey campus but he might join us in Guadalajara soon.
+**May 18th, 2023:** Super happy! Obed Cerda, master student at **CINVESTAV** will be joining CV-inside to wok on our kidney stones project with **Centre de Recherche en Automatique de Nancy (CRAN** ! He will be working on captioning for facilitating the **morpho-constitutional analysis of kidney stones in the clinic**, cool project with lots of technical things to solve (multi-view fusion, for one) if your ask me!
 
->> ![ ](/masroor.jpeg)
+>> ![ ](/obed.png)
 >> 
 **April 27th, 2023:** It's official!!! **Microsoft Research** has supported two of our project through their **AI for Health** program!
 
