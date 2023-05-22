@@ -58,6 +58,13 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+
+
+**May 22nd, 2023:** Congratulations to our MSc student **Pablo Quihui** for having successfully defended his thesis on prostate cancer segmentation and uncertaintiy qualification 🥳 This was a collaboration with **Université de Bourgogne** and **Universitat Politecnica de Catalunya** & **CV-INSIDE**. Pablo has already one paper published at LNCS Srpinger in MICAI (SMIA) and it's attending the **LatinX in AI**
+ workshop in Vancouver...We are planninh to submit two other papers that are ready to go!
+ 
+ >> ![ ](/pablo_defense.png)
+
 **May 18th, 2023:** Super happy! Obed Cerda, master student at **CINVESTAV** will be joining CV-inside to wok on our kidney stones project with **Centre de Recherche en Automatique de Nancy (CRAN** ! He will be working on captioning for facilitating the **morpho-constitutional analysis of kidney stones in the clinic**, cool project with lots of technical things to solve (multi-view fusion, for one) if your ask me!
 
 >> ![ ](/obed.png)
