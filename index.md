@@ -57,8 +57,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ---
 
 ### Updates
+**May 22nd, 2023:** Congratulations to **Elias Villalvazo Avila** for having successfully presented his master thesis on multi-modal learning for endoscopic stone recognition 🥳 ! This work was a collaboration with the **Centre de Recherche en Automatique de Nancy**  He had a super productive two years ay CVINSIDE: two articles in the french confererence GRETSI, one @IeeeIsbi (Colombia)  and we are submitting a journal to Expert Systems with Applications and working on another for Information Fision (both in Elsevier), congrats to this amazing MSc student and collaborator!
 
-
+ >> ![ ](/elias_defense.png)
 
 **May 22nd, 2023:** Congratulations to our MSc student **Pablo Quihui** for having successfully defended his thesis on prostate cancer segmentation and uncertaintiy qualification 🥳 This was a collaboration with **Université de Bourgogne** and **Universitat Politecnica de Catalunya** & **CV-INSIDE**. Pablo has already one paper published at LNCS Srpinger in MICAI (SMIA) and it's attending the **LatinX in AI**
  workshop in Vancouver...We are planninh to submit two other papers that are ready to go!
