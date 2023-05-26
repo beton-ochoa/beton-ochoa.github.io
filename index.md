@@ -52,11 +52,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Eduardo Rodriguez Tello](https://www.tamps.cinvestav.mx/~ertello/), CINVESTAV Tamaulipas, Mexico
 * [Adriana Palacios Rosas](https://scholar.google.com.mx/citations?user=7XoCIf8AAAAJ&hl=es), Universidad de las Aricas (UDLA), Mexico
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
-
-
 ---
 
 ### Updates
+
+**May 26nd, 2023:** Congratulations to **Rafael Martinez Peña** for having successfully presented his master thesis on domain generalization in Barret Esophagus segmentation 🥳 ! He had a super productive two years CV-INSIDE: he contributed in a journal paper , he attended **IEEE ISBI(Colombia)** and he will be presenting a full paper **LatinX in AI Research Workshop** at **CVPR2023** ! Thanks tso much to **Dr. Sharb Ali** from **University of Leeds** for helping co-advise this work and  congrats to this amazing MSc student & collaborator that still has some extra results that will go for a good journal!
+
+ >> ![ ](/rafael_defense.png)
+
 **May 22nd, 2023:** Congratulations to **Elias Villalvazo Avila** for having successfully presented his master thesis on multi-modal learning for endoscopic stone recognition 🥳 ! This work was a collaboration with the **Centre de Recherche en Automatique de Nancy**  He had a super productive two years ay CV-INSIDE: two articles in the french confererence GRETSI, one @IeeeIsbi (Colombia)  and we are submitting a journal to Expert Systems with Applications and working on another for Information Fision (both in Elsevier), congrats to this amazing MSc student and collaborator!
 
  >> ![ ](/elias_defense.png)
