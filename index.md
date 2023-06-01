@@ -56,6 +56,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 1st, 2023:** Congrats to **Francisco Lopez Tiro** my PhD in co-tutelle with the **Universite de Lorraine** for having obtained a double diploma scholarship from the **French Embassy** (Campus France) 🤩 I am very proud of him and of all the qworj he has been doing for his thesis and for the CV-inside lab. He will be spending 6 monthds for tree years at the **Centre de Recherche en Automatique de Nancy (CRAN)**. This year we  will be organizing the **Latinx in AI** Research Workshop at the **International Conference on Computer Vision** in **PAris** in which me, Francisco and Ricardo Loera, will be servig as chairs, very convenient as they will be both in France 🇫🇷
+
+ >> ![ ](/campus_france.png)
+
+**May 30th, 2023:** This year CV-inside is pretty much present in the **Congreso Mexicano de Inteligencia Artificial (COMIA 2023)** as I served as program chair. We have a very diverse and interesting program, with speakers from **Tecnologico de Monterrey** and **LatinX in AI** (Fabian Caba, from Adobe). We also organized and imparted a **tutorial** onn **"Design Patterns and MLOps** prepared by our PhD studnets **Ivan Reyes Amezcua** and **Jorge Gonzalez Zapata**. Also, and very happilly, two of my robotics students from **Tec de Monterrey** are receiving best paper awards for their articles.
+
+ >> ![ ](/comia23.png)
+
 **May 26nd, 2023:** Congratulations to **Rafael Martinez Peña** for having successfully presented his master thesis on domain generalization in Barret Esophagus segmentation 🥳 ! He had a super productive two years CV-INSIDE: he contributed in a journal paper , he attended **IEEE ISBI(Colombia)** and he will be presenting a full paper **LatinX in AI Research Workshop** at **CVPR2023** ! Thanks tso much to **Dr. Sharb Ali** from **University of Leeds** for helping co-advise this work and  congrats to this amazing MSc student & collaborator that still has some extra results that will go for a good journal!
 
  >> ![ ](/rafael_defense.png)
