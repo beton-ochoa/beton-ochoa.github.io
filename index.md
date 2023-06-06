@@ -56,7 +56,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**June 1st, 2023:** Congrats to **Francisco Lopez Tiro** my PhD in co-tutelle with the **Universite de Lorraine** for having obtained a double diploma scholarship from the **French Embassy** (Campus France) 🤩 I am very proud of him and of all the qworj he has been doing for his thesis and for the CV-inside lab. He will be spending 6 monthds for tree years at the **Centre de Recherche en Automatique de Nancy (CRAN)**. This year we  will be organizing the **Latinx in AI** Research Workshop at the **International Conference on Computer Vision** in **PAris** in which me, Francisco and Ricardo Loera, will be servig as chairs, very convenient as they will be both in France 🇫🇷
+**June 1st, 2023:** Congrats to **Francisco Lopez Tiro**, my PhD in co-tutelle with the **Universite de Lorraine** for having obtained a double diploma scholarship from the **French Embassy** (Campus France) 🤩!  I am very proud of him and of all the work he has been doing for his thesis and for the CV-inside lab. He will be spending 6 months for tree years at the **Centre de Recherche en Automatique de Nancy (CRAN)**. This year we  will be organizing the **Latinx in AI** Research Workshop at the **International Conference on Computer Vision** in **Paris** in which me, Francisco and Ricardo Loera, will be servig as chairs, very convenient as they will be both in France 🇫🇷
 
  >> ![ ](/campus_france.png)
 
@@ -64,11 +64,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
  >> ![ ](/comia23.png)
 
-**May 26nd, 2023:** Congratulations to **Rafael Martinez Peña** for having successfully presented his master thesis on domain generalization in Barret Esophagus segmentation 🥳 ! He had a super productive two years CV-INSIDE: he contributed in a journal paper , he attended **IEEE ISBI(Colombia)** and he will be presenting a full paper **LatinX in AI Research Workshop** at **CVPR2023** ! Thanks tso much to **Dr. Sharb Ali** from **University of Leeds** for helping co-advise this work and  congrats to this amazing MSc student & collaborator that still has some extra results that will go for a good journal!
+**May 26th, 2023:** Congratulations to **Rafael Martinez Peña** for having successfully presented his master thesis on domain generalization in Barret Esophagus segmentation 🥳 ! He had a super productive two years CV-INSIDE: he contributed in a journal paper , he attended **IEEE ISBI(Colombia)** and he will be presenting a full paper **LatinX in AI Research Workshop** at **CVPR2023** ! Thanks tso much to **Dr. Sharib Ali** from **University of Leeds** for helping co-advise this work and  congrats to this amazing MSc student & collaborator that still has some extra results that will go for a good journal!
 
  >> ![ ](/rafael_defense.png)
 
-**May 22nd, 2023:** Congratulations to **Elias Villalvazo Avila** for having successfully presented his master thesis on multi-modal learning for endoscopic stone recognition 🥳 ! This work was a collaboration with the **Centre de Recherche en Automatique de Nancy**  He had a super productive two years ay CV-INSIDE: two articles in the french confererence GRETSI, one @IeeeIsbi (Colombia)  and we are submitting a journal to Expert Systems with Applications and working on another for Information Fision (both in Elsevier), congrats to this amazing MSc student and collaborator!
+**May 22nd, 2023:** Congratulations to **Elias Villalvazo Avila** for having successfully presented his master thesis on multi-modal learning for endoscopic stone recognition 🥳 ! This work was a collaboration with the **Centre de Recherche en Automatique de Nancy**  He had a super productive two years ay CV-INSIDE: two articles in the french confererence **GRETSI**, one at **IEEE ISBI** (Colombia)  and we are submitting a journal to **Expert Systems with Applications** and working on another for **Information Fusion** (both in Elsevier), congrats to this amazing MSc student and collaborator!
 
  >> ![ ](/elias_defense.png)
 
@@ -77,7 +77,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
  
  >> ![ ](/pablo_defense.png)
 
-**May 18th, 2023:** Super happy! Obed Cerda, master student at **CINVESTAV** will be joining CV-inside to wok on our kidney stones project with **Centre de Recherche en Automatique de Nancy (CRAN** ! He will be working on captioning for facilitating the **morpho-constitutional analysis of kidney stones in the clinic**, cool project with lots of technical things to solve (multi-view fusion, for one) if your ask me!
+**May 18th, 2023:** Super happy! Obed Cerda, master student at **CINVESTAV** will be joining CV-inside to work on our kidney stones project with **Centre de Recherche en Automatique de Nancy (CRAN** ! He will be working on captioning for facilitating the **morpho-constitutional analysis of kidney stones in the clinic**, cool project with lots of technical things to solve (multi-view fusion, for one) if your ask me!
 
 >> ![ ](/obed.png)
 >> 
