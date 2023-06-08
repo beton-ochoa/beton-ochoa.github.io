@@ -56,6 +56,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 8th, 2023:** It's official, the CFP for the **LatinX in AI in Computer Vision  (LXCV)** reearch workshop has been published! We are going to **Paris** in October for the  **Int. Conference on Computer Vision (ICCV)** and foiur members of **CV-inside** are serving chairs: myself and the PhD students
+
+ >> ![ ](/iccv_2023.jpg)
+
+All of them are then going to **Nancy, France** to work under **Prof. Christian Daul** with whom we are collaborating in several projects. In particular **Franisco Lopez-Tiro** is working with urologist in the CHRU Nancy, **Ricardo Espinosa Loera** is working with colelagues of the **Hospital Ambroise Pare** in Paris and **Daniel Flores Araiza** will be trying to expand his explainable methods to aid bilogis in classifying kidney stones images using the **morpho-constitutional anlysis**. I also have plans to visit Nancy twice this year!
+
+ >> ![ ](/cran_2023.png)
+
 **June 1st, 2023:** Congrats to **Francisco Lopez Tiro**, my PhD in co-tutelle with the **Universite de Lorraine** for having obtained a double diploma scholarship from the **French Embassy** (Campus France) 🤩!  I am very proud of him and of all the work he has been doing for his thesis and for the CV-inside lab. He will be spending 6 months for tree years at the **Centre de Recherche en Automatique de Nancy (CRAN)**. This year we  will be organizing the **Latinx in AI** Research Workshop at the **International Conference on Computer Vision** in **Paris** in which me, Francisco and Ricardo Loera, will be servig as chairs, very convenient as they will be both in France 🇫🇷
 
  >> ![ ](/campus_france.png)
