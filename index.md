@@ -56,7 +56,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**June 8th, 2023:** It's official, the CFP for the **LatinX in AI in Computer Vision  (LXCV)** reearch workshop has been published! We are going to **Paris** in October for the  **Int. Conference on Computer Vision (ICCV)** and foiur members of **CV-inside** are serving chairs: myself and the PhD students
+**June 8th, 2023:** It's official, the CFP for the **LatinX in AI in Computer Vision  (LXCV)** reearch workshop has been published! We are going to **Paris** in October for the  **Int. Conference on Computer Vision (ICCV)** and four members of **CV-inside** are serving chairs: myself and the PhD students Francisco Lopez-Tiro, Daniel Flores Araiza and Ricardo Espinosa-Loera
 
  >> ![ ](/iccv_2023.jpg)
 
