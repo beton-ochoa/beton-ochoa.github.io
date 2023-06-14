@@ -56,6 +56,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 14th, 2023** Congrats to my PhD students **Francisco Lopez-Tiro** and **Ricardo Espinosa-Loera**(along two master students from CVINSIDE, **Elias Villalvazo** and **Axel Garcia-Vega**) for having their two papers accepted at GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images,  that will take place in **Grenoble, France** in August/September! I will be visiting **Leeds (UK)** and **Grenoble (FR)** as part of some projects we have with our colleagues!
+
+ >> ![ ](/gretsi23.png)
+
 **June 8th, 2023:** It's official, the CFP for the **LatinX in AI in Computer Vision  (LXCV)** reearch workshop has been published! We are going to **Paris** in October for the  **Int. Conference on Computer Vision (ICCV)** and four members of **CV-inside** are serving chairs: myself and the PhD students Francisco Lopez-Tiro, Daniel Flores Araiza and Ricardo Espinosa-Loera
 
  >> ![ ](/iccv_2023.jpg)
