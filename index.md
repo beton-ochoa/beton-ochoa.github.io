@@ -56,6 +56,18 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 18th-24tg, 2023 - Vancouver, Canada** This year I was ortunate ro be able to organize the third **Latinx in Conpouter Vision (LXCV)** research workshop in the prestigious **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. I wwas able to bring 10 memters of **CV-inside** with me, three seging as authors of full papers: **Davia Laines**, **Rafael Martinez Peña** and **Daniel Flores**, whereas some other where presenting posters. Participaring in **CVPR** is an incredible opprtunity for both master and PhD stuedents and Laines and Rafael have got PhD offers in very good universities (with **LXAI** friends for sure!)
+
+>> ![ ](/CVPR1.jpeg)
+
+The LatinX in Computer Vision Research Workshop @ CVPR2023 was a resounding success! 🥳 We had 60 participants and the great news is that we were able to help 35 students from aroiund the world/LATAM to come to Vancouver 🇨🇦 with all their exposnes covered by LXAI 😊😍! Thanks to the supprot of the  **CVPR DE&I chairs** and to our sponsors  🤩 We had 25 poster presentations of we were lucky to have **Andrew Ng (Stanford/Landing AI)** to come a visit our students and discuss with them!!!
+
+>> ![ ](/CVPR2.png)
+
+As usual I really enjoyed meeting my extended family from **Latinx  in AI** 😍
+
+>> ![ ](/CVPR3.jpeg)
+
 **June 14th, 2023** Congrats to my PhD students **Francisco Lopez-Tiro** and **Ricardo Espinosa-Loera**(along two master students from CVINSIDE, **Elias Villalvazo** and **Axel Garcia-Vega**) for having their two papers accepted at GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images,  that will take place in **Grenoble, France** in August/September! I will be visiting **Leeds (UK)** and **Grenoble (FR)** as part of some projects we have with our colleagues!
 
  >> ![ ](/gretsi23c.png)
