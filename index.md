@@ -50,7 +50,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Ashutosh Natraj](https://scholar.google.com/citations?user=vuQtqtoAAAAJ&hl=en), Vidrona LTD, United Kingdom
 * [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
 * [Eduardo Rodriguez Tello](https://www.tamps.cinvestav.mx/~ertello/), CINVESTAV Tamaulipas, Mexico
-* [Adriana Palacios Rosas](https://scholar.google.com.mx/citations?user=7XoCIf8AAAAJ&hl=es), Universidad de las Aricas (UDLA), Mexico
+* [Adriana Palacios Rosas](https://scholar.google.com.mx/citations?user=7XoCIf8AAAAJ&hl=es), Universidad de las Americas (UDLA), Mexico
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
 ---
 
