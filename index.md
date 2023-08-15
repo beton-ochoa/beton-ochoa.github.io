@@ -56,6 +56,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**July 15-22nd, Barcelona, Catalunya**: As part of an internationalization program at Tec de Monterrey, I participated with proposal and won a grant to visit Barcelona and several institutions there. The idea was to bring new members of the **Advanced AI Research Group** with me, and so I invited **Salvador Hinojosa** and **Gerardo Rodriguez**. We orginized a very thorough agenda with the generous help of the mexican branch of the **Generalitat de Catalunya** and I don't have enough space here to go throuh it all, but we had a very intense week with some of my colleagues the **Universitat Politecnica de Catalunya (UPC)**. we were received by **Dr. Raul Benitez** and my friend **Dr. Christian Mata** (who jsut got promoted to full staff at UPC!). We also visited the **Barcelona Supercomputing Center**, soemting I have cherished for a very long time!
+
+>> ![ ](/Barcelona1.png)
+
+The next day we spend it at the **Sant Joan De Deu Hospital**, one of the most important pediatric hopsitals in the world, and with whom we already have some projects going on. However,this was the opportunity to streghten our collaborations and we came up with new ideas for projects, hooray!
+
+>> ![ ](/Barcelona2.png)
+
 **July 10-12th, 2022 - Seattle, WA** As part of the projects financed by the **Microsoft AI for Health** program, as well as an ongoing collaboration with Tec de Monterrey, I was invited by the leader of the **Data Science Hub** to present our progress on these projects and to discuss with engineers in the **AI for Good lab** lead by **Bills Weeks** and with the uruguayan boss of the data science team, **Juan Lavista** about possible collaborations. It was two days of intense and interesting meetings and disucssion, but also social events. 
 
 >> ![ ](/microsoft1.png)
