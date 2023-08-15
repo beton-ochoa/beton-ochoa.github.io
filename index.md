@@ -60,7 +60,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/mansoor_Leeds.png)
 
-I will join him in **September**
+I will join him in **September, 2023**
 
 >> ![ ](/leeds_post.png)
 
