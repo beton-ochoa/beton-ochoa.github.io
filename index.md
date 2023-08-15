@@ -62,7 +62,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 I will join him in **September**
 
-
+>> ![ ](/leeds_post.png)
 
 **July 31st, 2023**: Super happy! Two of my students got their papers accepted the Cation workshop (organized by my colleague **Dr. Sharib Ali**) in cojunction with MICCAI, the most important medical iamging conference in the world! 
 
