@@ -9,9 +9,9 @@
   
 ### About me
 
-**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision**, Machine Learning and Internet of Things. affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the **Universite de Bourgogne**, in the [Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
+**Gilberto Ochoa Ruiz** is a researcher in **Computer Vision**, Machine Learning and Internet of Things affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONAHCYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the **Universite de Bourgogne**, in the [Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
 
-He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
+He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as  chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
 He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**
 
@@ -64,7 +64,7 @@ I will join him in **September, 2023**
 
 >> ![ ](/leeds_post.png)
 
-**July 31st, 2023**: Super happy! Two of my students got their papers accepted the Cation workshop (organized by my colleague **Dr. Sharib Ali**) in cojunction with MICCAI, the most important medical iamging conference in the world! 
+**July 31st, 2023**: Super happy! Two of my students got their papers accepted the Ca´tion workshop (organized by my colleague **Dr. Sharib Ali**) in cojunction with MICCAI, the most important medical imaging conference in the world! 
 
 **Pablo Quihui** will be presenting his work "Assessing the performance of deep learning-based models for prostate cancer segmentation using uncertainty scores"
 
@@ -74,7 +74,7 @@ This us my third time in Canada and second in **Vancouver** this year, I am supe
 
 >> ![ ](/miccai_accept.png)
 
-**July 15-22nd, Barcelona, Catalunya**: As part of an internationalization program at Tec de Monterrey, I participated with proposal and won a grant to visit Barcelona and several institutions there. The idea was to bring new members of the **Advanced AI Research Group** with me, and so I invited **Salvador Hinojosa** and **Gerardo Rodriguez**. We organized a very thorough agenda with the generous help of the mexican branch of the **Generalitat de Catalunya** and I don't have enough space here to go through it all herein, but we had a very intense week with some of my colleagues the **Universitat Politecnica de Catalunya (UPC)**. We were received by **Dr. Raul Benitez** and my friend **Dr. Christian Mata** (who just got promoted to full staff at UPC!). We also visited the **Barcelona Supercomputing Center**, something I have cherished for a very long time!
+**July 15-22nd, Barcelona, Catalunya**: As part of an internationalization program at Tec de Monterrey, I participated with proposal and won a grant to visit Barcelona and several institutions there. The idea was to bring new members of the **Advanced AI Research Group** with me, and so I invited **Salvador Hinojosa** and **Gerardo Rodriguez**. We organized a very thorough agenda with the generous help of the mexican branch of the **Generalitat de Catalunya** and I don't have enough space here to go through it all herein, but we had a very intense week with some of my colleagues the **Universitat Politecnica de Catalunya (UPC)**. We were received by **Dr. Raul Benitez** and my friend **Dr. Christian Mata** (who just got promoted to full staff at UPC, congrats!). We also visited the **Barcelona Supercomputing Center**, something I have cherished for a very long time!
 
 >> ![ ](/Barcelona1.png)
 
@@ -115,7 +115,7 @@ As usual I really enjoyed meeting my extended family from **Latinx  in AI** 😍
 
  >> ![ ](/iccv_2023.jpg)
 
-All of them are then going to **Nancy, France** to work under **Prof. Christian Daul** with whom we are collaborating in several projects. In particular **Franisco Lopez-Tiro** is working with urologist in the CHRU Nancy, **Ricardo Espinosa Loera** is working with colelagues of the **Hospital Ambroise Pare** in Paris and **Daniel Flores Araiza** will be trying to expand his explainable methods to aid bilogis in classifying kidney stones images using the **morpho-constitutional anlysis**. I also have plans to visit Nancy twice this year!
+All of them are then going to **Nancy, France** to work under **Prof. Christian Daul** with whom we are collaborating in several projects. In particular **Francisco Lopez-Tiro** is working with urologist in the CHRU Nancy, **Ricardo Espinosa Loera** is working with colelagues of the **Hospital Ambroise Pare** in Paris and **Daniel Flores Araiza** will be trying to expand his explainable methods to aid bilogis in classifying kidney stones images using the **morpho-constitutional anlysis**. I also have plans to visit Nancy twice this year!
 
  >> ![ ](/cran_2023.png)
 
