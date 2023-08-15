@@ -56,11 +56,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**June 18th-24tg, 2023 - Vancouver, Canada** This year I was ortunate ro be able to organize the third **Latinx in Conpouter Vision (LXCV)** research workshop in the prestigious **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. I wwas able to bring 10 memters of **CV-inside** with me, three seging as authors of full papers: **Davia Laines**, **Rafael Martinez Peña** and **Daniel Flores**, whereas some other where presenting posters. Participaring in **CVPR** is an incredible opprtunity for both master and PhD stuedents and Laines and Rafael have got PhD offers in very good universities (with **LXAI** friends for sure!)
+**July 10-12th, 2022 - Seattle, WA** As part of the projects financed by the **Microsoft AI for Health** program, as well as an ongoing collaboration with Tec de Monterrey, I was invited by the leader of the **Data Science Hub** to present our progress on these projects and to discuss with engineers in the **AI for Good lab** lead by **Bills Weeks** and with the uruguayan boss of the data science team, **Juan Lavista** about possible collaborations. It was two days of intense and interesting meetings and disucssion, but also social events. 
+
+>> ![ ](/microsoft1.png)
+
+There are some interesting development between the **School of Medicine** at Tec de Monterrey and Microsoft, but I will keep those for later.
+
+>> ![ ](/microsoft2.png)
+
+**June 18th-24th, 2023 - Vancouver, Canada** This year I was fortunate to be able to organize the third **Latinx in Conpouter Vision (LXCV)** research workshop in the prestigious **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. This year, I bought 10 members of **CV-inside** with me, three students as authors of full papers: **David Laines**, **Rafael Martinez Peña** and **Daniel Flores**, whereas some other where presenting posters. Participating in **CVPR** is an incredible opprtunity for both master and PhD stuedents and Laines and Rafael have got PhD offers in very good universities (with **LXAI** friends for sure!)
 
 >> ![ ](/CVPR1.jpeg)
 
-The LatinX in Computer Vision Research Workshop @ CVPR2023 was a resounding success! 🥳 We had 60 participants and the great news is that we were able to help 35 students from aroiund the world/LATAM to come to Vancouver 🇨🇦 with all their exposnes covered by LXAI 😊😍! Thanks to the supprot of the  **CVPR DE&I chairs** and to our sponsors  🤩 We had 25 poster presentations of we were lucky to have **Andrew Ng (Stanford/Landing AI)** to come a visit our students and discuss with them!!!
+The LatinX in Computer Vision Research Workshop @ CVPR2023 was a resounding success! 🥳 We had 60 participants and the great news is that we were able to help 35 students from around the world/LATAM to come to Vancouver 🇨🇦 with all their expenses covered by LXAI 😊😍! Thanks to the support of the  **CVPR DE&I chairs** and to our sponsors  🤩 We had 25 poster presentations of we were lucky to have **Andrew Ng (Stanford/Landing AI)** to come a visit our students and discuss with them!!!
 
 >> ![ ](/CVPR2.png)
 
