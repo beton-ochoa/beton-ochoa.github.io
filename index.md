@@ -56,11 +56,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**July 15-22nd, Barcelona, Catalunya**: As part of an internationalization program at Tec de Monterrey, I participated with proposal and won a grant to visit Barcelona and several institutions there. The idea was to bring new members of the **Advanced AI Research Group** with me, and so I invited **Salvador Hinojosa** and **Gerardo Rodriguez**. We orginized a very thorough agenda with the generous help of the mexican branch of the **Generalitat de Catalunya** and I don't have enough space here to go throuh it all, but we had a very intense week with some of my colleagues the **Universitat Politecnica de Catalunya (UPC)**. we were received by **Dr. Raul Benitez** and my friend **Dr. Christian Mata** (who jsut got promoted to full staff at UPC!). We also visited the **Barcelona Supercomputing Center**, soemting I have cherished for a very long time!
+**July 31st, 2023**: Super happy! Two of my students got their papers accepted the Cation workshop (organized by my colleague **Dr. Sharib Ali**) in cojunction with MICCAI, the most important medical iamging conference in the world! 
+
+**Pablo Quihui** will be presenting his work "Assessing the performance of deep learning-based models for prostate cancer segmentation using uncertainty scores"
+
+**Helena Valencia** (who also got a MICCAI regristration grant, hooray!) will be presenting her work "Image captioning for automated grading and understanding of ulcerative colitis"
+
+This us my third time in Canada and second in **Vancouver** this year, I am super excited!
+
+>> ![ ](/miccai_accept.png)
+
+**July 15-22nd, Barcelona, Catalunya**: As part of an internationalization program at Tec de Monterrey, I participated with proposal and won a grant to visit Barcelona and several institutions there. The idea was to bring new members of the **Advanced AI Research Group** with me, and so I invited **Salvador Hinojosa** and **Gerardo Rodriguez**. We organized a very thorough agenda with the generous help of the mexican branch of the **Generalitat de Catalunya** and I don't have enough space here to go through it all herein, but we had a very intense week with some of my colleagues the **Universitat Politecnica de Catalunya (UPC)**. We were received by **Dr. Raul Benitez** and my friend **Dr. Christian Mata** (who just got promoted to full staff at UPC!). We also visited the **Barcelona Supercomputing Center**, something I have cherished for a very long time!
 
 >> ![ ](/Barcelona1.png)
 
-The next day we spend it at the **Sant Joan De Deu Hospital**, one of the most important pediatric hopsitals in the world, and with whom we already have some projects going on. However,this was the opportunity to streghten our collaborations and we came up with new ideas for projects, hooray! The next day we visited the impressive **Hospital Sant Pau** and we plan to launch some projects with **Dr. Pep Munuera**
+The next day we spent it at the **Sant Joan De Deu Hospital**, one of the most important pediatric hopsitals in the world, and with whom we already have some projects going on. However,this was the opportunity to streghten our collaborations and we came up with new ideas for projects, hooray! The next day we visited the impressive **Hospital Sant Pau** and we plan to launch some projects with **Dr. Pep Munuera**
 
 
 >> ![ ](/Barcelona2.png)
@@ -69,7 +79,7 @@ The last day we visited one of my alma maters, **Universitat de Girona** to meet
 
 >> ![ ](/Barcelona3.png)
 
-**July 10-12th, 2022 - Seattle, WA** As part of the projects financed by the **Microsoft AI for Health** program, as well as an ongoing collaboration with Tec de Monterrey, I was invited by the leader of the **Data Science Hub** to present our progress on these projects and to discuss with engineers in the **AI for Good lab** lead by **Bills Weeks** and with the uruguayan boss of the data science team, **Juan Lavista** about possible collaborations. It was two days of intense and interesting meetings and disucssion, but also social events. 
+**July 10-12th, 2022 - Seattle, WA**: As part of the projects financed by the **Microsoft AI for Health** program, as well as an ongoing collaboration with Tec de Monterrey, I was invited by the leader of the **Data Science Hub** to present our progress on these projects and to discuss with engineers in the **AI for Good lab** lead by **Bills Weeks** and with the uruguayan boss of the data science team, **Juan Lavista** about possible collaborations. It was two days of intense and interesting meetings and disucssion, but also social events. 
 
 >> ![ ](/microsoft1.png)
 
@@ -77,7 +87,7 @@ There are some interesting development between the **School of Medicine** at Tec
 
 >> ![ ](/microsoft2.png)
 
-**June 18th-24th, 2023 - Vancouver, Canada** This year I was fortunate to be able to organize the third **Latinx in Conpouter Vision (LXCV)** research workshop in the prestigious **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. This year, I bought 10 members of **CV-inside** with me, three students as authors of full papers: **David Laines**, **Rafael Martinez Peña** and **Daniel Flores**, whereas some other where presenting posters. Participating in **CVPR** is an incredible opprtunity for both master and PhD stuedents and Laines and Rafael have got PhD offers in very good universities (with **LXAI** friends for sure!)
+**June 18th-24th, 2023 - Vancouver, Canada**: This year I was fortunate to be able to organize the third **Latinx in Conpouter Vision (LXCV)** research workshop in the prestigious **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**. This year, I bought 10 members of **CV-inside** with me, three students as authors of full papers: **David Laines**, **Rafael Martinez Peña** and **Daniel Flores**, whereas some other where presenting posters. Participating in **CVPR** is an incredible opprtunity for both master and PhD stuedents and Laines and Rafael have got PhD offers in very good universities (with **LXAI** friends for sure!)
 
 >> ![ ](/CVPR1.jpeg)
 
@@ -89,7 +99,7 @@ As usual I really enjoyed meeting my extended family from **Latinx  in AI** 😍
 
 >> ![ ](/CVPR3.jpeg)
 
-**June 14th, 2023** Congrats to my PhD students **Francisco Lopez-Tiro** and **Ricardo Espinosa-Loera**(along two master students from CVINSIDE, **Elias Villalvazo** and **Axel Garcia-Vega**) for having their two papers accepted at GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images,  that will take place in **Grenoble, France** in August/September! I will be visiting **Leeds (UK)** and **Grenoble (FR)** as part of some projects we have with our colleagues!
+**June 14th, 2023**: Congrats to my PhD students **Francisco Lopez-Tiro** and **Ricardo Espinosa-Loera**(along two master students from CVINSIDE, **Elias Villalvazo** and **Axel Garcia-Vega**) for having their two papers accepted at GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images,  that will take place in **Grenoble, France** in August/September! I will be visiting **Leeds (UK)** and **Grenoble (FR)** as part of some projects we have with our colleagues!
 
  >> ![ ](/gretsi23c.png)
 
