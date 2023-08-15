@@ -56,6 +56,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**August 1st, 2023:** My PhD student **Mansoor Ali Teevno** (co-supervised by **Dr. Sharib Ali**) arrived today to the **University of Leeds** as part of our joint project **Optimise** (financed by **Worldwide Universities network, WUN**). He will be working on creating a new dataset for testing robust and genelizable computer vision methods in laparoscopy!!!
+
+>> ![ ](/mansoor_Leeds.png)
+
+I will join him in **September**
+
+
+
 **July 31st, 2023**: Super happy! Two of my students got their papers accepted the Cation workshop (organized by my colleague **Dr. Sharib Ali**) in cojunction with MICCAI, the most important medical iamging conference in the world! 
 
 **Pablo Quihui** will be presenting his work "Assessing the performance of deep learning-based models for prostate cancer segmentation using uncertainty scores"
