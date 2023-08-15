@@ -13,7 +13,7 @@
 
 He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as and as general chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
-He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin Amercica.**
+He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**
 
 
 ---
@@ -60,9 +60,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/Barcelona1.png)
 
-The next day we spend it at the **Sant Joan De Deu Hospital**, one of the most important pediatric hopsitals in the world, and with whom we already have some projects going on. However,this was the opportunity to streghten our collaborations and we came up with new ideas for projects, hooray!
+The next day we spend it at the **Sant Joan De Deu Hospital**, one of the most important pediatric hopsitals in the world, and with whom we already have some projects going on. However,this was the opportunity to streghten our collaborations and we came up with new ideas for projects, hooray! The next day we visited the impressive **Hospital Sant Pau** and we plan to launch some projects with **Dr. Pep Munuera**
+
 
 >> ![ ](/Barcelona2.png)
+
+The last day we visited one of my alma maters, **Universitat de Girona** to meet my professors **Xavi LLado** and **Robert Marti** and I gave a talk to the PhDs studends of the lab and to students of the **Erasmus Mundus Master in Medical Imaging and Applications (MAIA)**. We went to have a lovely lunch and spend an amzing time with them and **Christian Mata**
+
+>> ![ ](/Barcelona3.png)
 
 **July 10-12th, 2022 - Seattle, WA** As part of the projects financed by the **Microsoft AI for Health** program, as well as an ongoing collaboration with Tec de Monterrey, I was invited by the leader of the **Data Science Hub** to present our progress on these projects and to discuss with engineers in the **AI for Good lab** lead by **Bills Weeks** and with the uruguayan boss of the data science team, **Juan Lavista** about possible collaborations. It was two days of intense and interesting meetings and disucssion, but also social events. 
 
