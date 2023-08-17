@@ -56,6 +56,23 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**August 17th, 2023:** The **CVINSIDE lab**  is celebrating today 🥳! Our **ECOS Nord grant** (a French-Mexican fund) has been fully formalized as of today, and we are ready to start! As a matter of fact we have been working on several of these ideas for alsmot five years but this grant will help our french- mexican team a lot!
+
+>> ![ ](/ecos_nord1.png)
+
+I want to thank my colleague and co-PI **Prof. Christian Daul (CRAN)** as well as **Andres Mendez** (Cinvestav-GDL) for all their help during these 5 years. We are of course also super grateful with our clinical collaborators that are making these research projects possible! 
+
+>> ![ ](/ecos_nord2.png)
+
+Of course a project like this could not be possible without our PhD students to help us carry out the research and this project will help my PhDs **Ivan Reyes Amezcua** (working on adversarial robustness), **Francisco Lopez-Tiro** (endoscopic stone recognition), **Ricardo Espinosa-Loera** (unsuperrvised optical flow-based 3D reconstruction of the colon), **Mansoor Ali Teevno** (computer-aided surgery using computer vision), **Alexis Lopez Escamilla** (captioning and XAI) and **Daniel Flores-Araiza** (XAI for computer-aided diagnosis) with mobility grants for several years to France and Mexico!
+
+>> ![ ](/ecos_nord4.png)
+ 
+We are also actively looking to opportunities to help our master students in the project and in this sense **LatinX in AI** has been a game changer for our group! In cannot express how much them and **SMIA** have done for us!  Also the **Microsoft Research** grants from the **AI for Good Lab** are helping us a lot!
+
+>> ![ ](/ecos_nord5.png)
+
+
 **August 1st, 2023:** My PhD student **Mansoor Ali Teevno** (co-supervised by **Dr. Sharib Ali**) arrived today to the **University of Leeds** as part of our joint project **Optimise** (financed by **Worldwide Universities network, WUN**). He will be working on creating a new dataset for testing robust and genelizable computer vision methods in laparoscopy!!!
 
 >> ![ ](/mansoor_Leeds.png)
