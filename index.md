@@ -56,6 +56,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**August 23rd, 2023:** I am super happy! **CVINSIDE** has a new member 🥳 **Ilse de Anda** will be working on our endoscopic **kidney stone recognition** project with **CRAN** 🇫🇷 applying some new ideas on explainable AI
+
+>> ![ ](/ilse0.png)
+
+More specifically case based reasoning approaches based on part prototypes and the work of **Tim Miller** () on hypothesis driven decision support systems
+
+>> ![ ](/ilse1.png)
+
+She won't be alone, as she will be working with some of my PhD students: **Daniel Flores Araiza**, **Alexis Lopez** and **Francisco Lopez-Tiro**, hooray, nice things are coming 🥳
+We have more and more biomedical engineering students from Tec, so nice!
+
+>> ![ ](/ilse2.png)
+
 **August 17th, 2023:** The **CVINSIDE lab**  is celebrating today 🥳! Our **ECOS Nord grant** (a French-Mexican fund) has been fully formalized as of today, and we are ready to start! As a matter of fact we have been working on several of these ideas for alsmot five years but this grant will help our french- mexican team a lot!
 
 >> ![ ](/ecos_nord1.png)
