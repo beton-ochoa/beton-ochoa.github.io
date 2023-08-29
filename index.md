@@ -56,6 +56,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**August 28th, 2023:** My PhD student **Ricardo Espinosa-Loera** and my colleague **Prof. Christian Daul** from CRAN (Nnacy, Francia) are attending the **GRETSI conference** (GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images) this weeek. They will be presenting two of our papers related to our projects on **3D reconstruction on colonoscopy examinations** and **automated endoscopic kidney stones recognition**. Unfortunatelty, my other PhD student **Francisco Lopez-Tiro** and myself couldn't make it this year, as Francisco is arriving to CRAN next week.
+
+
+
 **August 23rd, 2023:** I am super happy! **CVINSIDE** has a new member 🥳 **Ilse de Anda** will be working on our endoscopic **kidney stone recognition** project with **CRAN** 🇫🇷 applying some new ideas on explainable AI
 
 >> ![ ](/ilse0.png)
