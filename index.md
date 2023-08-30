@@ -52,13 +52,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Eduardo Rodriguez Tello](https://www.tamps.cinvestav.mx/~ertello/), CINVESTAV Tamaulipas, Mexico
 * [Adriana Palacios Rosas](https://scholar.google.com.mx/citations?user=7XoCIf8AAAAJ&hl=es), Universidad de las Americas (UDLA), Mexico.
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
+
 ---
 
 ### Updates
 
 **August 29th, 2023:** We are quite happy CV-INSIDE 🥳🥳🥳 We had four extended abstracts accepted **Latinx in AI** research workshop at **ICCV Conference 2024** in Paris 🇫🇷! Congrats to Ivan Reyes Amezcua, Daniel Flores Araiza, Daniel Herrera and Jorge Gonzalez Zapata for having your papers accepted!
 
->> ![ ](/gretsi2023.png)
+>> ![ ](/lxai-iccv2023.png)
 
 
 **August 28th, 2023:** My PhD student **Ricardo Espinosa-Loera** and my colleague **Prof. Christian Daul** from CRAN (Nnacy, Francia) are attending the **GRETSI conference** (GRETSI'23: XXIXème Colloque Francophone  de Traitement du Signal et des Images) this weeek. They will be presenting two of our papers related to our projects on **3D reconstruction on colonoscopy examinations** and **automated endoscopic kidney stones recognition**. Unfortunatelty, my other PhD student **Francisco Lopez-Tiro** and myself couldn't make it this year, as Francisco is arriving to CRAN next week!
