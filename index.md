@@ -41,6 +41,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ### Collaborators
 
 * [Gildardo Sanchez Ante](https://scholar.google.com.mx/citations?user=Szx4GcIAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
+* [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
@@ -51,7 +52,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
 * [Eduardo Rodriguez Tello](https://www.tamps.cinvestav.mx/~ertello/), CINVESTAV Tamaulipas, Mexico
 * [Adriana Palacios Rosas](https://scholar.google.com.mx/citations?user=7XoCIf8AAAAJ&hl=es), Universidad de las Americas (UDLA), Mexico.
-* [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
+
 
 ---
 
