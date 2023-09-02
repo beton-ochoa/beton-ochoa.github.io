@@ -59,6 +59,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+
+**September 1st, 2023:** Super happy! 🥳🥳🥳 **CV-INSIDE** had 3 of 3 papers acepted at **MICAI2023 (SMIA's Mexican Int. Conference on AI). Congrats to our master and PhD students from the lab -->
+
+**Francisco Lopez Tiro**, **Ivan Reyes Amezcua** and summer intern **Juan Pablo Betancur** (now enrolled in the Erasmus Mundus MASTER_MAIA) for their **endoscopic stone recognition** paper entitled **"Boosting Kidney Stone Identification in Endoscopic Images Using Two-Step Transfer Learning"**
+
+**MSc Pablo Quihui** for his method FAU-Net for segmenting **prostate cancer images** (with UPC in Bacelona), paper entitled **"FAU-Net: An Attention U-Net Extension with Feature Pyramid Attention for Prostate Cancer Segmentation"**
+
+And **MSc Eduardo Guarduño**  for his real-time implementation of wildfire segmentation methods on FPGA for drone images with Université de Corse! This paper is entitled **"An FPGA smart camera implementation of segmentation models for drone wildfire imagery"**
+
+>> ![ ](/micai23.png)
+
 **August 29th, 2023:** We are quite happy CV-INSIDE 🥳🥳🥳 We had four extended abstracts accepted **Latinx in AI** research workshop at **ICCV Conference 2024** in Paris 🇫🇷! Congrats to Ivan Reyes Amezcua, Daniel Flores Araiza, Daniel Herrera and Jorge Gonzalez Zapata for having your papers accepted!
 
 >> ![ ](/lxai-iccv2023.png)
