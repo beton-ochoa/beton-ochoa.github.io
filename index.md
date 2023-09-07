@@ -59,6 +59,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**September 7th, 2023:** Super happy! Three past and current members of CV-INSIDE lab went abroad: **Juan Pablo Betancur Rengifo** (🇨🇴) has been accepted at **Erasmus Mundus MASTER MAIA** (France, Catalunya, Italy). **Daniela Herrera Montes de Oca** a former MSc student joined the **Centre Hospitalier Univ. d'Orleans** as a research engineer, and finally **Francisco Lopez-Tiro** and **Ricardo Espinosa** went to spend six monts at CRAN as part of their double diplomas. **Daniel Flores Araiza** will join them in october after the Latinx in AI (LXAI) 23 wokshop in Paris and **Mansoor Ali Teevno** is right now in Leeds (I am joining him in a couple of days) 🥳
+
+>> ![ ](/abroad23.png)
 
 **September 1st, 2023:** Super happy! 🥳🥳🥳 **CV-INSIDE** had 3 of 3 papers acepted at **MICAI2023 (SMIA's Mexican Int. Conference on AI). Congrats to our master and PhD students from the lab -->
 
