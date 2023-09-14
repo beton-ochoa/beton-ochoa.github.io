@@ -59,6 +59,23 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**September 11 to 14th, 2023, Leeds United Kingdom**: This week I visited the **University of Leeds** as part of our **Worldwide Universities Netwoek (WUN)**  grant with Leeds and the **Universiy of Southampton**. I spent the first few days with my former student **Pedro Chavarrias** (now doing a PhD under **Sharib Ali** supervision) and my PhD **Mansoor Ali** who is doing a sojourn here as part of the project and working on other grants with **Sharib Ali** and his group.
+
+>> ![ ](/wun_leeds0.png)
+
+September 14th we organzed a workshop entitled **"Opportunities and challenges in emerging technologies in healthcare"** in which we invited students and colleagues from several partners.
+
+>> ![ ](/wun_leeds1.png)
+
+We have about 30 online participants and 20 onsite & four talks and a poster session!  The first talk was given by **Dr. Kate Farrahi** from **University of Southampton** who presented her work on **"Deep Cascade Learning"** for **federated learning applications**. It was followed by a talk by me on **"Endoscopic kidney stone recognition using computer vision"**, a project I have with colleagues Christian Daul and done by my PhD **Francisco Lopez Tiro** at Centre de Recherche en Automatique in France and **CV-INSIDE**. After the coffee break we had a very interesting talk by **Carlo Campagnoli** the **Faculty of Medicine and Health** at Leeds, entitled **"Kinematic signatures of spatial perception in prehension movements"**. This is very interesting research with apps in patients with MS and autism! Last by not least, **Dr Sharib Ali** provided a very nice and thorough talk entitled **"Opportunities & challenges in AI for endoscopy and surgery"**.
+
+>> ![ ](/wun_leeds2.png)
+
+Also I'm very glad as we had a relatively large **Latinx in AI** representation here. Peter is doing a PhD with Sharib and presented in our workshop in ECCV and Jose was in Vancouver lat CVPR. Gerardo will be joining soon I hope! Interestingly all people in this photo have been in GDL! 😱🥳😃
+
+
+>> ![ ](/wun_leeds3.png)
+
 **September 7th, 2023:** Super happy! Three past and current members of CV-INSIDE lab went abroad: **Juan Pablo Betancur Rengifo** (🇨🇴) has been accepted at **Erasmus Mundus MASTER MAIA** (France, Catalunya, Italy). **Daniela Herrera Montes de Oca** a former MSc student joined the **Centre Hospitalier Univ. d'Orleans** as a research engineer, and finally **Francisco Lopez-Tiro** and **Ricardo Espinosa** went to spend six monts at CRAN as part of their double diplomas. **Daniel Flores Araiza** will join them in october after the Latinx in AI (LXAI) 23 wokshop in Paris and **Mansoor Ali Teevno** is right now in Leeds (I am joining him in a couple of days) 🥳
 
 >> ![ ](/abroad23.png)
