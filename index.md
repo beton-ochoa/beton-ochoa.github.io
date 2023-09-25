@@ -59,6 +59,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+We are happy to announce the **"MeDA: Medical Domain Adaptation" Classification Challenge**!  Challenges are in fact a novelty of **MICAI2023** and also the first time my team (CV-INSIDE + CinvestavGDL)is organizing one for @smia_mx (thanksto my PhD students **Ivan Reyes Amezcua** and **Jorge Gonzalez Zapata** for helping on this!)
+
+We are looking forward for your submissions and to meet you in Merida! (the event will be hybrid if you cannot make it to Mexico)
+Details are in the image below or in the site website
+
+We are looking forward for your works & to see you in Merida!  Details are in the image below or in the site website: 
+**More info** 👉 http://micai.org/2023/meda.php
+
+>> ![ ](/meda-micai.jpeg)
+
+
 **September 11 to 14th, 2023, Leeds United Kingdom**: This week I visited the **University of Leeds** as part of our **Worldwide Universities Netwoek (WUN)**  grant with Leeds and the **Universiy of Southampton**. I spent the first few days with my former student **Pedro Chavarrias** (now doing a PhD under **Sharib Ali** supervision) and my PhD **Mansoor Ali** who is doing a sojourn here as part of the project and working on other grants with **Sharib Ali** and his group.
 
 >> ![ ](/wun_leeds0.png)
