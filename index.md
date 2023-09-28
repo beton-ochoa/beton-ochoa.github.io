@@ -43,6 +43,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Gildardo Sanchez Ante](https://scholar.google.com.mx/citations?user=Szx4GcIAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
+* [Estefania Talavera Martinez] (https://scholar.google.nl/citations?user=lDW7eNEAAAAJ&hl=en), University of Twente, Neatherlands
+* [Nils Muurrugarra](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en), Weber State University, USA
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
 * [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
@@ -59,7 +61,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-We are happy to announce the **"MeDA: Medical Domain Adaptation" Classification Challenge**!  Challenges are in fact a novelty of **MICAI2023** and also the first time my team (CV-INSIDE + CinvestavGDL)is organizing one for @smia_mx (thanksto my PhD students **Ivan Reyes Amezcua** and **Jorge Gonzalez Zapata** for helping on this!)
+**September 20th, 2023:** We are happy to announce the **"MeDA: Medical Domain Adaptation" Classification Challenge**!  Challenges are in fact a novelty of **MICAI2023** and also the first time my team (CV-INSIDE + CinvestavGDL)is organizing one for @smia_mx (thanksto my PhD students **Ivan Reyes Amezcua** and **Jorge Gonzalez Zapata** for helping on this!)
 
 We are looking forward for your submissions and to meet you in Merida! (the event will be hybrid if you cannot make it to Mexico)
 Details are in the image below or in the site website
