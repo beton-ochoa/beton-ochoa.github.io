@@ -1,7 +1,7 @@
 ## Dr. Gilberto Ochoa-Ruiz
 ## Advanced AI Research Group
 ## Tecnologico de Monterrey, School of Engineering and Sciences
-
+  
 ###   [Home](/index) • [Projects](/projects) • [Publications](/publications) • [Students](/students) • [Contact](/contact)
 
 ---
@@ -43,7 +43,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Gildardo Sanchez Ante](https://scholar.google.com.mx/citations?user=Szx4GcIAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
-* [Estefania Talavera Martinez] (https://scholar.google.nl/citations?user=lDW7eNEAAAAJ&hl=en), University of Twente, Neatherlands
+* [Estefania Talavera Martinez](https://scholar.google.nl/citations?user=lDW7eNEAAAAJ&hl=en), University of Twente, Neatherlands
 * [Nils Muurrugarra](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en), Weber State University, USA
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
@@ -60,6 +60,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ---
 
 ### Updates
+
+**September 25th, 2023:** Today we have our kick-off meeting with our parners of the **University of Alberta** and colleagues of Campus Monterrey! We have received a **seed grant of 50k CAN** to work on a joint project on **wildfire risk assessment** in **endangered area in the Monterrey area**. For this project, two master students **CV-INSIDE** will be working with us: **Eduardo Guarduño** and **Jesus Antonio Low**. This project is a extension of other project on **wildfire fighting using AI** we have with **Université de Corse (France)** and **Universitat Politecnica de Catalunya (Spain)** but more oriented towards crowdsensing data and wilnad-urban interfaces and is entitled: **"Crowdsensing-based Wildland-Urban Interface Fire Risk Assessment Using IA"**, super excited!
+
+>> ![ ](/alberta-kick-off.png)
 
 **September 20th, 2023:** We are happy to announce the **"MeDA: Medical Domain Adaptation" Classification Challenge**!  Challenges are in fact a novelty of **MICAI2023** and also the first time my team (CV-INSIDE + CinvestavGDL)is organizing one for @smia_mx (thanksto my PhD students **Ivan Reyes Amezcua** and **Jorge Gonzalez Zapata** for helping on this!)
 
