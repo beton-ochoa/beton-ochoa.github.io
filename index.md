@@ -61,11 +61,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 3rd, 2023, Paris France**: Another successful workshop!
+Kudos to all the people that have made all this possible, it’s of course a lot of work but we have an amazing and vibrant community!
+
+>> ![ ](/lxai-iccv-23-photo.jpg)
+
 **October 2nd, 2023, Paris France:** This year, **4 PhD students** from my **CV-INSIDE lab** are attending the **Int. Conference on Computer Vision (ICCV)*** in Paris as part of the organzation team of the L**atinx in AI (LXAI)** Research Workshop in Computer Vision!
 **Francisco Lopez-Tiro** and **Ricardo Espinosa** are spending a semester in France (at the **Centre de Recherche en Automatoque de Nancy**) as part of their double diplomas, working under **Prof. Christian Daul**. After this event **Daniel Flores Araiza** and **Ivan Reyes** will visit CRAN as part of the **ECOS Nord CONAHCYT grant** we have wit Université de Lorraine!
 Unfortunately **Mansoor Ali** (who is in an sojourn in the **University in Leeds** couldn't make it for visa issues) and I decide to not to attend ICCV this time as I am attending the **Caption Workshop** at **MICCAI** next week! 
 
 >> ![ ](/cv-inside-ICCV23.jpeg)
+
 
 **September 25th, 2023:** Today we have our kick-off meeting with our parners of the **University of Alberta** and colleagues of Campus Monterrey! We have received a **seed grant of 50k CAN** to work on a joint project on **wildfire risk assessment** in **endangered area in the Monterrey area**. For this project, two master students **CV-INSIDE** will be working with us: **Eduardo Guarduño** and **Jesus Antonio Low**. This project is a extension of other project on **wildfire fighting using AI** we have with **Université de Corse (France)** and **Universitat Politecnica de Catalunya (Spain)** but more oriented towards crowdsensing data and wilnad-urban interfaces and is entitled: **"Crowdsensing-based Wildland-Urban Interface Fire Risk Assessment Using IA"**, super excited!
 
