@@ -66,6 +66,10 @@ Kudos to all the people that have made all this possible, it’s of course a lot
 
 >> ![ ](/lxai-iccv-23-photo.jpg)
 
+Members of CV-inside meet very nice connections, like the guy below (yes, you guessed well, **Yan LeCunn**!) this is the second Turing winner that group has met (after I met **Yoshua Bengio**)
+
+>> ![ ](/yan-lecunn.jpg)
+
 **October 2nd, 2023, Paris France:** This year, **4 PhD students** from my **CV-INSIDE lab** are attending the **Int. Conference on Computer Vision (ICCV)*** in Paris as part of the organzation team of the L**atinx in AI (LXAI)** Research Workshop in Computer Vision!
 **Francisco Lopez-Tiro** and **Ricardo Espinosa** are spending a semester in France (at the **Centre de Recherche en Automatoque de Nancy**) as part of their double diplomas, working under **Prof. Christian Daul**. After this event **Daniel Flores Araiza** and **Ivan Reyes** will visit CRAN as part of the **ECOS Nord CONAHCYT grant** we have wit Université de Lorraine!
 Unfortunately **Mansoor Ali** (who is in an sojourn in the **University in Leeds** couldn't make it for visa issues) and I decide to not to attend ICCV this time as I am attending the **Caption Workshop** at **MICCAI** next week! 
