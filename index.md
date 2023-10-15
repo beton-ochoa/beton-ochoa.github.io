@@ -61,11 +61,13 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 8-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended the **MICCAI 2023**  international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
+**October 8-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended **MICCAI 2023**, the international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
 
 >> ![ ](/MICCAI1.png)
 
-We were presenting two papers in the  Cancer PRevention Through Early Detection workshop, **Caption 2023**, one by Helena and other by **Pablo Cesar Quihui**. 
+We were presenting two papers in the  Cancer PRevention Through Early Detection workshop (**Caption 2023**), one by Helena and other by **Pablo Cesar Quihui**, which took place the last day of the conference. During then first days, we met some very interesting persons, such as **Dr. Binod Bhattarai** from the **Univeristy of Aberdeen**. We also have a great time with some **LatinX in AI** students and PhDs from the **AI in Medicine in Surgery (AIMS)** group in the **University of Leeds**, led by my colleague **Dr. Sharib Ali**  (Gerardo Loza) but also from **University of Girona** and **Erasmus Mundus master MAIA** (Ricardo Montoya). I also spent some time with **Dr. Enzo Ferrante** who was keynote in our **LXCV Workshop at ICCV23** and with whom I will be submitting a proposal for a workshop at **MICCAI 2024** (in Morrocco!).
+
+>> ![ ](/MICCAI2.png)
 
 
 
