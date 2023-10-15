@@ -61,11 +61,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 8-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended **MICCAI 2023**, the international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
+**October 8th-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended **MICCAI 2023**, the international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
 
 >> ![ ](/MICCAI1.png)
 
-We were presenting two papers in the  Cancer PRevention Through Early Detection workshop (**Caption 2023**), one by Helena and other by **Pablo Cesar Quihui**, which took place the last day of the conference. During then first days, we met some very interesting persons, such as **Dr. Binod Bhattarai** from the **Univeristy of Aberdeen**. We also have a great time with some **LatinX in AI** students and PhDs from the **AI in Medicine in Surgery (AIMS)** group in the **University of Leeds**, led by my colleague **Dr. Sharib Ali**  (Gerardo Loza) but also from **University of Girona** and **Erasmus Mundus master MAIA** (Ricardo Montoya). I also spent some time with **Dr. Enzo Ferrante** who was keynote in our **LXCV Workshop at ICCV23** and with whom I will be submitting a proposal for a workshop at **MICCAI 2024** (in Morrocco!).
+We were presenting two papers in the  Cancer PRrvention Through Early Detection workshop (**Caption 2023**), one by Helena and other by **Pablo Cesar Quihui**, which took place the last day of the conference. During the first days, we met some very interesting persons, such as **Dr. Binod Bhattarai** from the **Univeristy of Aberdeen**. We also have a great time with some **LatinX in AI** students and PhDs from the **AI in Medicine and Surgery (AIMS)** group from the **University of Leeds**, led by my colleague **Dr. Sharib Ali**  (Gerardo Loza) but also from **University of Girona** and **Erasmus Mundus master MAIA** (Ricardo Montoya). They are both mexican and I met them during summers research visits to Leeds and Barcleona, respectively. I also spent some time with **Dr. Enzo Ferrante** who was keynote in our **LXCV Workshop at ICCV23** in PAris and with whom I will be submitting a proposal for a workshop at **MICCAI 2024** (in Morrocco!).
 
 >> ![ ](/MICCAI2.png)
 
@@ -73,7 +73,7 @@ The conference was full of interesting keynotes (one by Yan LeCunn, Turing Award
 
 >> ![ ](/MICCAI3.png)
 
-Finally, during the last day I presented Pablo's work and Helena had the chance to present her poster. It is really important for me that **Cv-inside** students have these opprtunities and for this I have to thank the **MICCAI society** for helping Helena with the registration and also Tec de Monterrey for some financial assistance, hooray!
+Finally, during the last day I presented Pablo's work and Helena had the chance to present her poster. It is really important for me that **CV-inside** students have these opprtunities and for this I have to thank the **MICCAI society** for helping Helena with the registration and also Tec de Monterrey for some financial assistance, hooray!
 
 >> ![ ](/MICCAI4.png)
 
@@ -87,7 +87,7 @@ Members of CV-inside meet very nice connections, like the guy below (yes, you gu
 
 >> ![ ](/yan-lecunn.jpeg)
 
-**October 2nd, 2023, Paris France:** This year, **4 PhD students** from my **CV-INSIDE lab** are attending the **Int. Conference on Computer Vision (ICCV)*** in Paris as part of the organzation team of the L**atinx in AI (LXAI)** Research Workshop in Computer Vision!
+**October 2nd, 2023, Paris France:** This year, **4 PhD students** from my **CV-INSIDE lab** are attending the **Int. Conference on Computer Vision (ICCV)*** in Paris as part of the organzation team of the **Latinx in AI (LXAI)** Research Workshop in Computer Vision!
 **Francisco Lopez-Tiro** and **Ricardo Espinosa** are spending a semester in France (at the **Centre de Recherche en Automatoque de Nancy**) as part of their double diplomas, working under **Prof. Christian Daul**. After this event **Daniel Flores Araiza** and **Ivan Reyes** will visit CRAN as part of the **ECOS Nord CONAHCYT grant** we have wit Université de Lorraine!
 Unfortunately **Mansoor Ali** (who is in an sojourn in the **University in Leeds** couldn't make it for visa issues) and I decide to not to attend ICCV this time as I am attending the **Caption Workshop** at **MICCAI** next week! 
 
@@ -109,11 +109,11 @@ We are looking forward for your works & to see you in Merida!  Details are in th
 >> ![ ](/meda-micai.jpeg)
 
 
-**September 11 to 14th, 2023, Leeds United Kingdom**: This week I visited the **University of Leeds** as part of our **Worldwide Universities Netwoek (WUN)**  grant with Leeds and the **Universiy of Southampton**. I spent the first few days with my former student **Pedro Chavarrias** (now doing a PhD under **Sharib Ali** supervision) and my PhD **Mansoor Ali** who is doing a sojourn here as part of the project and working on other grants with **Sharib Ali** and his group.
+**September 11 to 14th, 2023, Leeds, United Kingdom**: This week I visited the **University of Leeds** as part of our **Worldwide Universities Netwoek (WUN)**  grant with Leeds and the **Universiy of Southampton**. I spent the first few days with my former student **Pedro Chavarrias** (now doing a PhD under **Sharib Ali** supervision) and my PhD **Mansoor Ali** who is doing a sojourn here as part of the project and working on other grants with **Sharib Ali** and his group.
 
 >> ![ ](/wun_leeds0.png)
 
-September 14th we organzed a workshop entitled **"Opportunities and challenges in emerging technologies in healthcare"** in which we invited students and colleagues from several partners.
+On September 14th we organzed a workshop entitled **"Opportunities and challenges in emerging technologies in healthcare"** in which we invited students and colleagues from several partners.
 
 >> ![ ](/wun_leeds1.png)
 
