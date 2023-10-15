@@ -69,6 +69,13 @@ We were presenting two papers in the  Cancer PRevention Through Early Detection 
 
 >> ![ ](/MICCAI2.png)
 
+The conference was full of interesting keynotes (one by Yan LeCunn, Turing Award Winner!). But my favourire were: **Mihaela van der Schaar** (University of Cambridge) with her talk **Synthetic Data: Powerful creation not second rate copy** and **Dr. Jocelyne Troccaz** (CNRS, France) with her talk **When Vaucanson meets Hippocrate: Promises and Reality of Medical Robotics**. During the gala dinner we also had the chance to meet very interesting people, in particular **Dr. Nazim Haouchine** from **Harvard University**. He works in surgical data science and we are looking forward to some collaborations!
+
+>> ![ ](/MICCAI3.png)
+
+Finally, during the last day I presented Pablo's work and Helena had the chance to present her poster. It is really important for me that **Cv-inside** students have these opprtunities and for this I have to thank the **MICCAI society** for helping Helena with the registration and also Tec de Monterrey for some financial assistance, hooray!
+
+>> ![ ](/MICCAI4.png)
 
 
 **October 3rd, 2023, Paris France**: Another successful workshop!
