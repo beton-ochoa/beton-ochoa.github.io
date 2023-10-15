@@ -61,6 +61,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 8-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended the **MICCAI 2023**  international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
+
+>> ![ ](/MICCAI1.png)
+
+We were presenting two papers in the  Cancer PRevention Through Early Detection workshop, **Caption 2023**, one by Helena and other by **Pablo Cesar Quihui**. 
+
+
+
 **October 3rd, 2023, Paris France**: Another successful workshop!
 Kudos to all the people that have made all this possible, it’s of course a lot of work but we have an amazing and vibrant community!
 
