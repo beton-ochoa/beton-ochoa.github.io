@@ -126,7 +126,7 @@ Also I'm very glad as we had a relatively large **Latinx in AI** representation 
 
 >> ![ ](/wun_leeds3.png)
 
-**September 7th, 2023:** Super happy! Three past and current members of CV-INSIDE lab went abroad: **Juan Pablo Betancur Rengifo** (🇨🇴) has been accepted at **Erasmus Mundus MASTER MAIA** (France, Catalunya, Italy). **Daniela Herrera Montes de Oca** a former MSc student joined the **Centre Hospitalier Univ. d'Orleans** as a research engineer, and finally **Francisco Lopez-Tiro** and **Ricardo Espinosa** went to spend six monts at CRAN as part of their double diplomas. **Daniel Flores Araiza** will join them in october after the Latinx in AI (LXAI) 23 wokshop in Paris and **Mansoor Ali Teevno** is right now in Leeds (I am joining him in a couple of days) 🥳
+**September 7th, 2023:** Super happy! Three past and current members of CV-INSIDE lab went abroad: **Juan Pablo Betancur Rengifo** (🇨🇴) has been accepted at **Erasmus Mundus MASTER MAIA** (France, Catalunya, Italy). **Daniela Herrera Montes de Oca** a former MSc student joined the **Centre Hospitalier Univ. d'Orleans** as a research engineer, and finally **Francisco Lopez-Tiro** and **Ricardo Espinosa** went to spend six months at CRAN as part of their double diplomas. **Daniel Flores Araiza** will join them in october after the Latinx in AI (LXAI) 23 wokshop in Paris and **Mansoor Ali Teevno** is right now in Leeds (I am joining him in a couple of days) 🥳
 
 >> ![ ](/abroad23.png)
 
