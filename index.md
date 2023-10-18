@@ -61,6 +61,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 18th, 2023**: The call for papers for the IEEE Symposium Computer Based Medical Systems (CMBS) is ready ☺️! We are happy to host this event in Mexico & LATAM! 🥳 Details can be found here:2024.cbms-conference.org
+We have a super good team behind this effort! We are looking to see you in Guadalajara: according to Time Magazine, the best city to visit in 2023 😊
+
+>> ![ ](/cbms-2024.png)
+
 **October 8th-12th, Vancouver, Cadada**: This week, my MSC **Helena Valencia** and myself attended **MICCAI 2023**, the international on  conference **Medical Image Computing and Computer Assisted Intervention** in Vancouver, Canada. 
 
 >> ![ ](/MICCAI1.png)
