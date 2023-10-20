@@ -61,7 +61,12 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 18th, 2023**: The call for papers for the IEEE Symposium Computer Based Medical Systems (CMBS) is ready ☺️! We are happy to host this event in Mexico & LATAM! 🥳 Details can be found here:2024.cbms-conference.org
+**October 20th, 2023**: We are supper happy to finally announce this! Together with **Estafinia Talavera (University of Twente, Neatherlands)** and **Nils Murrugarra-Llerena (Weber State University)** we have received a **Google ExploreCSR** award . Our project, **“LATAM Undergraduate Research Program”** aims to build research skills among **latin-american students** in Computer Vision.
+Our initiative also seek to strengthen our collaboration with **LatinX in AI** . We will soon share the call for mentors and research fellows. Please share with your network 😊
+
+>> ![ ](/lxcv-google-csr.png)
+
+**October 18th, 2023**: The call for papers for the IEEE Symposium Computer Based Medical Systems (CMBS) is ready ☺️! We are happy to host this event in Mexico & LATAM! 😊 Details can be found here:2024.cbms-conference.org
 We have a super good team behind this effort! We are looking to see you in Guadalajara: according to Time Magazine, the best city to visit in 2023 😊
 
 >> ![ ](/cbms-2024.png)
