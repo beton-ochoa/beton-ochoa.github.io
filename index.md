@@ -61,7 +61,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 20th, 2023**: We are supper happy to finally announce this! Together with **Estafinia Talavera (University of Twente, Neatherlands)** and **Nils Murrugarra-Llerena (Weber State University)** we have received a **Google ExploreCSR** award . Our project, **“LATAM Undergraduate Research Program”** aims to build research skills among **latin-american students** in Computer Vision.
+**October 20th, 2023**: We are supper happy to finally announce this! A team led by **Estefania Talavera (University of Twente, Neatherlands)**, with **Nils Murrugarra-Llerena (Weber State University)** and me as co-PIs, we have received a **Google ExploreCSR** award . Our project, **“LATAM Undergraduate Research Program”** aims to build research skills among **latin-american students** in Computer Vision.
 Our initiative also seek to strengthen our collaboration with **LatinX in AI** . We will soon share the call for mentors and research fellows. Please share with your network 😊
 
 >> ![ ](/lxcv-google-csr.png)
