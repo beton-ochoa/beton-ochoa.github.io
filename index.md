@@ -61,6 +61,11 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 1st, 2023** We are super happy! My master students **Pablo Cesar Quihui** obtained the 2nd place in the **Jose Negrete** priaze for best master thesis in AI in Mexico granted by the **Sociedad Mexicana de Inteligencia Artificial (SMIA)**. The prize will be given during the gala dinner of the **Mexican Int. Conference on AI (MICAI)** in two weeks in Merida, Yucatan. Congrats Pablo!
+
+
+>> ![ ](/pablo_smia.png)
+
 **October 20th, 2023**: We are supper happy to finally announce this! A team led by **Estefania Talavera (University of Twente, Neatherlands)**, with **Nils Murrugarra-Llerena (Weber State University)** and me as co-PIs, we have received a **Google ExploreCSR** award . Our project, **“LATAM Undergraduate Research Program”** aims to build research skills among **latin-american students** in Computer Vision.
 Our initiative also seek to strengthen our collaboration with **LatinX in AI** . We will soon share the call for mentors and research fellows. Please share with your network 😊
 
