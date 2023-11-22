@@ -61,6 +61,26 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 12th - 18th, 2023, Merida, Yucatan, Mexico** This week some **CV-inside members** disembarked in Merida Yucatan, for the **Mexican International Conference on Artificial Intelligence** (MICAI 2023, or Mexican MICAI we as we called). We had a busy agenda and we  brought some friends and collaborators with us: we presented three papers (Pablo, Eduardo and Francisco), one **tutorial on MLOPs** (with PhDs Ivan Reyes and Jose Zapata) and we organized the **MeDA challenge** with them as well. We also brought two keynote speakers: **Dr. Sharib Ali (Univ. Leeds)** with a **WUN grant** and **Dr. Christian Daul (CRAN, France)** with a grant from ECOS Nord CONAHCYT. It was also a good opprtiunity for some students like **Helena Valencia** who came with me to Medical MICCAI to finally meet **Sharib Ali** who co-supervises her master thesis.
+
+>> ![ ](/MICAI23a.png)
+
+Our collleagues **Dr. Sharib Ali** and **Christian Daul** had very successful plenary sessions on wednesday and thursday, we saw a lot of applitations of **computer vision to endoscopy** in which some of our joint projects were showcased
+
+>>  ![ ](/MICAI23b.png)
+
+We also have papers  oral presentations with **Eduardo Garduño** (on FGPGa-based camera implementations for real-time IR drone imagery segmentation),  **Francisco Lopez-Tiro** (on endoscopic stone recognition of kidney stones) and **Pablo Cesar Quihui** (on prostate cancer segmentation).
+
+>> ![ ](/MICAI23c.png)
+
+Some members of the group are currently in Europe: **Francisco  Lopez-Tiro** and **Ricardo Espinosa** are in the CRAN lab, **Daniel Flores-Araiza** is in CREB (Universtat Politecnica de Catalunya) and **Mansoor Ali** is with Sharib Ali AIMS group in Leeds, but we managed to have  large group at MICAI this year in the gala diner. Appart from **PAblo Quihui** best master thesis award (**PRemio Jose Negrete**) the organizers had a surprise for us: **Eduardo Garduño** won the **best paper award** of the conference! He was quite in shock but we worked really hard for this!
+
+>> ![ ](/MICAI23d.png)
+
+Las day we had the clossing ceremony and the presentation of the new board of the SMIA and I am very glad for being invited to be part of the **new board of the Sociedad Mexicana de Inteligencia Artificial for 2024-2025** in the role of treasurer! Thanks to our **president Lourdes Martinez** & our **vice-president Hiram Ponce** for giving me the opportunity to serve & help grow the Mexican AI community !
+
+>> ![ ](/MICAI23e.png)
+
 **November 1st, 2023** We are super happy! My master students **Pablo Cesar Quihui** obtained the 2nd place in the **Jose Negrete** priaze for best master thesis in AI in Mexico granted by the **Sociedad Mexicana de Inteligencia Artificial (SMIA)**. The prize will be given during the gala dinner of the **Mexican Int. Conference on AI (MICAI)** in two weeks in Merida, Yucatan. Congrats Pablo!
 
 
