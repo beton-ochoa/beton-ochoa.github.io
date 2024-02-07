@@ -45,7 +45,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
 * [Nazim Haouchine](https://scholar.google.com/citations?user=PjpzomsAAAAJ&hl=en), Harvard Medical School USA
 * [Estefania Talavera Martinez](https://scholar.google.nl/citations?user=lDW7eNEAAAAJ&hl=en), University of Twente, Neatherlands
-* [Nils Muurrugarra](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en), Weber State University, USA
+* [Nils Murrugarra](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en), Weber State University, USA
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
 * [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
@@ -66,7 +66,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/New_PhD_Harvard.png)
 
-** February 1st, 2024**
+** February 1st, 2024**: Today we had the kick-off meeting of the **Google ExploreCSR** funded program **"Latam Undergraduate Research Program in Computer Vision"** in collab with **Latinx in AI (LXAI)**.... The effort is led by Estefanía Talavera Martínez, with me and Nils Ever Murrugarra Llerena as co-PIs... We have been working for three months already (apprt from the 3 mothns preparing the proposal) and we finally had this interaction meeting with our mentees and mentors from around the world... The selection process was really hard: we had **96 applications** and we managed to select **18 talented students** with small stipend for 6 moths... They will be working for 6 months with researchers from UK, Mexico, France, Argentina, USA, Netherlands, Brazil and Peru!  We are quite happy! We are bringing some of these students to **CVPR (Seattle, USA)** and **MICCAI (Marrakesh, Morocco)**-. Quite happy!
 
 >> ![ ](/Google1.png)
 >> ![ ](/Google2.png)
