@@ -43,6 +43,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 * [Gildardo Sanchez Ante](https://scholar.google.com.mx/citations?user=Szx4GcIAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
 * [Kate Farrahi](https://www.southampton.ac.uk/people/5xkhzr/doctor-kate-farrahi), University of Southampton, United Kingdom
 * Gerardo Rodriguez Hernandez, Tecnologico de Monterrey, Mexico
+* [Nazim Haouchine](https://scholar.google.com/citations?user=PjpzomsAAAAJ&hl=en), Harvard Medical School USA
 * [Estefania Talavera Martinez](https://scholar.google.nl/citations?user=lDW7eNEAAAAJ&hl=en), University of Twente, Neatherlands
 * [Nils Muurrugarra](https://scholar.google.com/citations?user=TNTgAPQAAAAJ&hl=en), Weber State University, USA
 * [Miguel Gonzalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
@@ -60,6 +61,24 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ---
 
 ### Updates
+
+** February 7th, 2024**
+
+>> ![ ](/New_PhD_Harvard.png)
+
+** February 1st, 2024**
+
+>> ![ ](/Google1.png)
+>> ![ ](/Google2.png)
+
+** January 15th, 2024**
+
+>> ![ ](/Projects_SJD1.png)
+>> ![ ](/Project_SJD2.png)
+
+** January 2nd, 2024**
+
+>> ![ ](/Projects_Corsica.png)
 
 **November 12th - 18th, 2023, Merida, Yucatan, Mexico** This week some **CV-inside members** disembarked in Merida Yucatan, for the **Mexican International Conference on Artificial Intelligence** (MICAI 2023, or Mexican MICAI we as we called). We had a busy agenda and we  brought some friends and collaborators with us: we presented three papers (Pablo, Eduardo and Francisco), one **tutorial on MLOPs** (with PhDs Ivan Reyes and Jose Zapata) and we organized the **MeDA challenge** with them as well. We also brought two keynote speakers: **Dr. Sharib Ali (Univ. Leeds)** with a **WUN grant** and **Dr. Christian Daul (CRAN, France)** with a grant from ECOS Nord CONAHCYT. It was also a good opprtiunity for some students like **Helena Valencia** who came with me to Medical MICCAI to finally meet **Sharib Ali** who co-supervises her master thesis.
 
