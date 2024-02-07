@@ -62,21 +62,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-** February 7th, 2024**
+**February 7th, 2024**: Very happy! I have a new PhDs student, **Pablo Cesar Ruiz**, who will be working on **3D reconstruction of laparoscopic scenes using Gaussian splatting**. We will be collaborating with **Dr. Nazim Houachine** of the very prestigious **Harvard Medical School** I met him recently in Vancouver (MICCAI 2024) and since I also spent time at INRIA Lille, the world is small! 
 
 >> ![ ](/New_PhD_Harvard.png)
 
-** February 1st, 2024**: Today we had the kick-off meeting of the **Google ExploreCSR** funded program **"Latam Undergraduate Research Program in Computer Vision"** in collab with **Latinx in AI (LXAI)**.... The effort is led by Estefanía Talavera Martínez, with me and Nils Ever Murrugarra Llerena as co-PIs... We have been working for three months already (apprt from the 3 mothns preparing the proposal) and we finally had this interaction meeting with our mentees and mentors from around the world... The selection process was really hard: we had **96 applications** and we managed to select **18 talented students** with small stipend for 6 moths... They will be working for 6 months with researchers from UK, Mexico, France, Argentina, USA, Netherlands, Brazil and Peru!  We are quite happy! We are bringing some of these students to **CVPR (Seattle, USA)** and **MICCAI (Marrakesh, Morocco)**-. Quite happy!
+**February 1st, 2024**: Today we had the kick-off meeting of the **Google ExploreCSR** funded program **"Latam Undergraduate Research Program in Computer Vision"** in collab with **Latinx in AI (LXAI)**.... The effort is led by Estefanía Talavera Martínez, with me and Nils Ever Murrugarra Llerena as co-PIs... We have been working for three months already (apprt from the 3 mothns preparing the proposal) and we finally had this interaction meeting with our mentees and mentors from around the world... The selection process was really hard: we had **96 applications** and we managed to select **18 talented students** with small stipend for 6 moths... They will be working for 6 months with researchers from UK, Mexico, France, Argentina, USA, Netherlands, Brazil and Peru!  We are quite happy! We are bringing some of these students to **CVPR (Seattle, USA)** and **MICCAI (Marrakesh, Morocco)**-. Quite happy!
 
 >> ![ ](/Google1.png)
 >> ![ ](/Google2.png)
 
-** January 15th, 2024**
+**January 15th, 2024**
 
 >> ![ ](/Projects_SJD1.png)
 >> ![ ](/Project_SJD2.png)
 
-** January 2nd, 2024**
+**January 2nd, 2024**: We start the year with a high note! We had our first meeting of the year with **Prof. Lucile Rosi** fro **Univesité de Corse**. We have been working with her for some time in wildfire spread analysis using computer vision. We recently had at paper at **MICAI 2023** that won the **best paper award**! This year we have **Eduado Guarduño** using a new and more realistic dataser from Corsica, and we plan to use the method veloped by my former MSC student **Jorge Francisco Ciprian** to carry out some experiments and publish a couple of papers, hooray!
 
 >> ![ ](/Projects_Corsica.png)
 
