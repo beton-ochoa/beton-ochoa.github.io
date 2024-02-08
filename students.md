@@ -58,6 +58,7 @@
   **Thesis title**: Lights, Camera, and Domain Shift: Using Superpixels for Domain Generalization in Image Segmentation for Multimodal Endoscopies <br />
 * **Daniela Herrera Montes de Oca** <br />
  **Thesis Title**: Automatic segmentation and classification of vascular pattern symmetries on cerebral vessels using DL <br />
+  **Current Position**: Research Engineer: Hopital d'Orleans, France <br /> 
 * **Pedro Esteban Chavarrias Solano** <br />
  **Thesis Title:** Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning <br />
  **Current Position**: *Phd: University of Leeds* <br />
