@@ -62,6 +62,44 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**CIAM**
+
+XXV CIAM 2024 “Inteligencia Artificial en Salud: Oportunidades y Desafíos” #CIAM2024 17 al 20 de abril 2024 | Conjunto Santander de Artes Escénicas | Encuentro internacional dirigido a profesionales de la salud ¡INSCRÍBETE! Visita: https://ciam.hcg.gob.mx #CIAM #CIENF #AI
+
+**Pizza Night**
+
+Pizza night with some of the máster and Phd students of our @CVINSIDElab We have almost completed 6 papers for IEEE @cbms_conference(which will take place in GDL-MX in a few months) 
+
+**TinyML TalentLand:**
+
+
+Taller de TinyML en RecreaLand con chicos de prepa (y sus papás) La actividad estuvo enfocada a hacer clasificación de dulces y otro de reconocimiento de gestos con el acelerometro de sus celulares  Colectaron datos usando el celular e hicieron el deployment de los modelos Gracias mis tesistas Eduardo Garduño y Jesús Antonio Low por apoyarme en la importación del taller 
+
+
+**LXAI Coaching Program** 
+
+We are glad to announce a new venture: the LatinX in Computer Vision coaching program!
+Our goals is to increase the visibility of the research done in LATAM.  Get to know the research done by LatinX researchers and become the new generation of researchers in Computer Vision and AI! Work along well-known professors and researchers around the world! Polish your resume, learn about opportunities for carrying out post-graduate studies and learn about the exciting work of computer vision! We are organizing exciting sessions to meet the LatinX in AI community and people that have attended conferences such as CVPR and MICCAI! We are also inviting prospective students & coaches to publish a dissemination article on field of computer vision in the Komputer Sapiens Magazine (SMIA) 
+
+Don't miss this opportunity!
+More details: https://latinxinai.org/cvpr-2024 
+We are also holding two informative sessions 
+March 14th and March 21st, 2024 (CST)
+
+
+**Google Funded Explore CSR workshops:**
+
+For the last two weekends we had online workshops for our Google Explore CSR funded project. We have a very impressive roster of speakers and very interesting speakers. Apart from our 18 mentees, we had about 50 other participants.
+
+**Tec Science Summit:**
+
+En el Tec Science Summit en Monterrey. Viendo a colegas de todo el país y a entrevistar a nuevos miembros de mi lab. También tuve la oportunidad de encontrare con tesistas y con estudiantes de estancias de investigación que trabajan con nuestro lab.. En generla 2 dias muy intensos!
+
+
+**February 23, 2024:** Revista Ciencia
+
+
+
 **February 7th, 2024**: Very happy! I have a new PhDs student, **Pablo Cesar Ruiz**, who will be working on **3D reconstruction of laparoscopic scenes using Gaussian splatting**. We will be collaborating with **Dr. Nazim Houachine** of the very prestigious **Harvard Medical School** I met him recently in Vancouver (MICCAI 2024) and since I also spent time at INRIA Lille, the world is small! 
 
 >> ![ ](/New_PhD_Harvard.png)
