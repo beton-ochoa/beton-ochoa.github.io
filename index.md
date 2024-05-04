@@ -103,14 +103,13 @@ For the last two weekends we had online workshops for our Google Explore CSR fun
 
 >> ![ ](/GoogleWorkshops.png)
 
-**Tec Science Summit:**
-
-En el Tec Science Summit en Monterrey. Viendo a colegas de todo el país y a entrevistar a nuevos miembros de mi lab. También tuve la oportunidad de encontrare con tesistas y con estudiantes de estancias de investigación que trabajan con nuestro lab.. En generla 2 dias muy intensos!
+** February 28th, 2024, Monterrey, Mexico:** We spent a couple of days on Campus Monterrey for the **Science Summit**, a congress organized by the university with very special guests. It was also the ocassion to see colleagues from around the country and to interview new students. We have two the decided to join the lab, **Dassaef**, who will be working on our kidney stones project and **Vladimir** who will be working on a new venture with **Harvard Medical School**. I also had the opportunity to interview students for interships for 7th semester. Very productive days!
 
 >> ![ ](/ScienceSummit.png)
 
+**February 23, 2024:** I feel super honoured! I have been invited to write an articles for the dissemination magazine **Ciencia** of the Mexican Academy of Sciences (**Acadedemia Mexicana de Ciencias**). I have decided to talk about our work on 3D reconstruction of colonoscopic surfaces and the article will be entitled **Un viaje fantástico: el rol de la visión computacional para el diagnóstico médico en el contexto de las intervenciones endoscópicas**. Coooming soon!
 
-**February 23, 2024:** Revista Ciencia
+
 
 
 
