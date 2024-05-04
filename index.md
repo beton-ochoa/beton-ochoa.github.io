@@ -84,10 +84,8 @@ Taller de TinyML en RecreaLand con chicos de prepa (y sus papás) La actividad e
 >> ![ ](/TalentLand.png)
 
 
-**LXAI Coaching Program** 
-
-We are glad to announce a new venture: the LatinX in Computer Vision coaching program!
-Our goals is to increase the visibility of the research done in LATAM.  Get to know the research done by LatinX researchers and become the new generation of researchers in Computer Vision and AI! Work along well-known professors and researchers around the world! Polish your resume, learn about opportunities for carrying out post-graduate studies and learn about the exciting work of computer vision! We are organizing exciting sessions to meet the LatinX in AI community and people that have attended conferences such as CVPR and MICCAI! We are also inviting prospective students & coaches to publish a dissemination article on field of computer vision in the Komputer Sapiens Magazine (SMIA) 
+**March 15th, 2024**  I am super glad to announce a new venture: the **LatinX in Computer Vision coaching program**!
+Our goals is to increase the visibility of the research done in LATAM.  Get to know the research done by LatinX researchers and become the new generation of researchers in Computer Vision and AI! Work along well-known professors and researchers around the world! Polish your resume, learn about opportunities for carrying out post-graduate studies and learn about the exciting work of computer vision! We are organizing exciting sessions to meet the LatinX in AI community and people that have attended conferences such as CVPR and MICCAI! We are also inviting prospective students & coaches to publish a dissemination article on field of computer vision in the **Komputer Sapiens Magazine (SMIA)** 
 
 Don't miss this opportunity!
 More details: https://latinxinai.org/cvpr-2024 
@@ -97,21 +95,15 @@ March 14th and March 21st, 2024 (CST)
 >> ![ ](/LXAICoaching.png)
 
 
-**Google Funded Explore CSR workshops:**
-
-For the last two weekends we had online workshops for our Google Explore CSR funded project. We have a very impressive roster of speakers and very interesting speakers. Apart from our 18 mentees, we had about 50 other participants.
+**March 6th and 14th, 2024** During the first two weekends of march we put together two online workshops for our **Google Explore CSR** funded project. We have a very impressive roster of speakers and very interesting speakers. Apart from our 18 mentees, we had about 50 other participants.
 
 >> ![ ](/GoogleWorkshops.png)
 
-** February 28th, 2024, Monterrey, Mexico:** We spent a couple of days on Campus Monterrey for the **Science Summit**, a congress organized by the university with very special guests. It was also the ocassion to see colleagues from around the country and to interview new students. We have two the decided to join the lab, **Dassaef**, who will be working on our kidney stones project and **Vladimir** who will be working on a new venture with **Harvard Medical School**. I also had the opportunity to interview students for interships for 7th semester. Very productive days!
+**February 28th, 2024, Monterrey, Mexico:** We spent a couple of days on Campus Monterrey for the **Science Summit**, a congress organized by the university with very special guests. It was also the ocassion to see colleagues from around the country and to interview new students. We have two the decided to join the lab, **Dassaef**, who will be working on our kidney stones project and **Vladimir** who will be working on a new venture with **Harvard Medical School**. I also had the opportunity to interview students for interships for 7th semester. Very productive days!
 
 >> ![ ](/ScienceSummit.png)
 
 **February 23, 2024:** I feel super honoured! I have been invited to write an articles for the dissemination magazine **Ciencia** of the Mexican Academy of Sciences (**Acadedemia Mexicana de Ciencias**). I have decided to talk about our work on 3D reconstruction of colonoscopic surfaces and the article will be entitled **Un viaje fantástico: el rol de la visión computacional para el diagnóstico médico en el contexto de las intervenciones endoscópicas**. Coooming soon!
-
-
-
-
 
 **February 7th, 2024**: Very happy! I have a new PhDs student, **Pablo Cesar Ruiz**, who will be working on **3D reconstruction of laparoscopic scenes using Gaussian splatting**. We will be collaborating with **Dr. Nazim Houachine** of the very prestigious **Harvard Medical School** I met him recently in Vancouver (MICCAI 2024) and since I also spent time at INRIA Lille, the world is small! 
 
