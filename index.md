@@ -78,8 +78,7 @@ Pizza night with some of the máster and Phd students of our @CVINSIDElab We hav
 **TinyML TalentLand:**
 
 
-
-Taller de TinyML en RecreaLand con chicos de prepa (y sus papás) La actividad estuvo enfocada a hacer clasificación de dulces y otro de reconocimiento de gestos con el acelerometro de sus celulares  Colectaron datos usando el celular e hicieron el deployment de los modelos Gracias mis tesistas Eduardo Garduño y Jesús Antonio Low por apoyarme en la importación del taller 
+I was invited to giver an AI workshop in **Talent Land**, one of the largest tech events in tjhe city! We did a **TinyML** workshop in **RecreaLand** with high school kids (and their parents) with two of my master students, **Antonio Low** and **Eduardo Garduño**. The activity was focused on classifying sweets and another on gesture recognition with the accelerometer of their cell phones. The high students collected data using the cell phone and deployed the models! Thank you my thesis students Eduardo Garduño and Jesús Antonio Low for supporting me in importing the workshop
 
 >> ![ ](/TalentLand.png)
 
