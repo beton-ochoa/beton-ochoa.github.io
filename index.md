@@ -68,17 +68,12 @@ XXV CIAM 2024 “Inteligencia Artificial en Salud: Oportunidades y Desafíos” 
 
 >> ![ ](/CIAM1.png)
 >> ![ ](/CIAM2.png)
-
-**Pizza Night**
-
-Pizza night with some of the máster and Phd students of our @CVINSIDElab We have almost completed 6 papers for IEEE @cbms_conference(which will take place in GDL-MX in a few months) 
+ 
+**April 6th, 2024:** We organized a pizza night with some of the máster and Phd students of our **CVINSIDE lab** It was Eduardo's birthday and I wanted to thanks him and Low for their help in **Talent Land**. It also served a a pause for some other students, who have been working hard on artcles: we have almost completed 6 papers for **IEEE CBMS** (which will take place in Guadalajara in a few months) 
 
 >> ![ ](/PizzaNight.png)
 
-**TinyML TalentLand:**
-
-
-I was invited to giver an AI workshop in **Talent Land**, one of the largest tech events in tjhe city! We did a **TinyML** workshop in **RecreaLand** with high school kids (and their parents) with two of my master students, **Antonio Low** and **Eduardo Garduño**. The activity was focused on classifying sweets and another on gesture recognition with the accelerometer of their cell phones. The high students collected data using the cell phone and deployed the models! Thank you my thesis students Eduardo Garduño and Jesús Antonio Low for supporting me in importing the workshop
+**April 4th, 2024** I was invited to giver an AI workshop in **Talent Land**, one of the largest tech events in tjhe city! We did a **TinyML** workshop in **RecreaLand** with high school kids (and their parents) with two of my master students, **Antonio Low** and **Eduardo Garduño**. The activity was focused on classifying sweets and another on gesture recognition with the accelerometer of their cell phones. The high students collected data using the cell phone and deployed the models! Thank you my thesis students Eduardo Garduño and Jesús Antonio Low for supporting me in importing the workshop
 
 >> ![ ](/TalentLand.png)
 
