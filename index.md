@@ -62,9 +62,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**CIAM**
+**May 1st, 2024** I am very happy because this year, after 5 years of working in some way or another with the @smia_mx  (I went to my 1st MICAI in 2019) I got the honor to become of the the **program chairs** of **MICAI 2024**, which will be at **INAOE Puebla** ! It is also worth mentioning that it will be a double celebration, since 20 years ago I came to work in Puebla with **Dr. Miguel Arias** and eventually in **Prefixa vision Systems**, how cool 😎  Thanks to the great **Lourdes Martínez** for the opportunity and it will be a great pleasure to collaborate with **José Martínez Carranza**!
 
-XXV CIAM 2024 “Inteligencia Artificial en Salud: Oportunidades y Desafíos” #CIAM2024 17 al 20 de abril 2024 | Conjunto Santander de Artes Escénicas | Encuentro internacional dirigido a profesionales de la salud ¡INSCRÍBETE! Visita: https://ciam.hcg.gob.mx #CIAM #CIENF #AI
+ >> ![ ](/MICAI2024.png)
+
+ **April 24th-26th, 2024, Montreal, Canada**: A team of collgues from **SMIA** and **Tec de Monterrey** had the opportunity to attened the **Summit AI Americas** in **Montreal, Canada**. The event was really nice and we also visited some actors of the region, particularly in **Vivado** (Manuel Murales) and **MILA** (Montreal Institute for AI, presided by **Turing Prize** laureate **Yoshua Bengio**). Last year we were in **MILA** too and I was fortuntare to seat in a round table with **Prof. Bengio**
+
+ >> ![ ](/SummitAI.png)
+
+**April 17th, 2024**: Today I was invited to be part of a panel on **Conjunto Santander** of my alma mater, **Universidad de Guadalajara**. The panel was part of the XXV CIAM congress and the workshop “Inteligencia Artificial en Salud: Oportunidades y Desafíos” a meeting for health professionals and in our case, journalist in the area. Very nice meeting!
 
 >> ![ ](/CIAM1.png)
 >> ![ ](/CIAM2.png)
@@ -98,6 +104,8 @@ March 14th and March 21st, 2024 (CST)
 >> ![ ](/ScienceSummit.png)
 
 **February 23, 2024:** I feel super honoured! I have been invited to write an articles for the dissemination magazine **Ciencia** of the Mexican Academy of Sciences (**Acadedemia Mexicana de Ciencias**). I have decided to talk about our work on 3D reconstruction of colonoscopic surfaces and the article will be entitled **Un viaje fantástico: el rol de la visión computacional para el diagnóstico médico en el contexto de las intervenciones endoscópicas**. Coooming soon!
+
+>> ![ ](/AMC_ciencia.png)
 
 **February 7th, 2024**: Very happy! I have a new PhDs student, **Pablo Cesar Ruiz**, who will be working on **3D reconstruction of laparoscopic scenes using Gaussian splatting**. We will be collaborating with **Dr. Nazim Houachine** of the very prestigious **Harvard Medical School** I met him recently in Vancouver (MICCAI 2024) and since I also spent time at INRIA Lille, the world is small! 
 
