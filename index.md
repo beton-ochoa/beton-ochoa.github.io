@@ -13,7 +13,7 @@
 
 He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as  chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
-He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**
+He is also part of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**  I am aslo currently running the **LATAM Undergraduate Research Program** funded by the **Google Explore CSR** program with my colleagues **Estefania Talavera** and **Nils Murrugarra-Llerena**
 
 
 ---
@@ -61,6 +61,22 @@ There are available positions (bachelor, master and PhD) for all these projects 
 ---
 
 ### Updates
+
+**June 8th, 2024**: We are super glad with the results of our **LatinX in Computer Vision** coaching pre-workshop session 🥳 This is a meeting was to prepare attendees for **CVPR**  so they can make the most of the experience and it was a first attemtp from our side in our mentoring program! 😃 
+
+ >> ![ ](/Pre-CVPR-Workshop1.png)
+
+We had a super lineup 🤩: **Victor Fragoso** from **Microsoft Research** (talking about his experience & how to get internships), **Paola Cascnte** from **Rice University** (tips for navigating such a big event), **Nils Murrugarra-Llerena** (how to introduce yourself with professors) and **Matias Valdenegro**  (how to make the most of the LXAI workshop). We also had a roundtable with PhD studends from my **CVINSIDE lab**:  Ivan Reyes Amezcua, Daniel FLores Araiza, Francisco Lopez Tiro, Ricardo Espninsoa. Thanjss guys for making this event a success!
+
+ >> ![ ](/Pre-CVPR-Workshop2.png)
+
+**June 5th-7h, 2024, Celaya,l Guanajuato**: This lat week we attended the **Congreso Mexicano de Inteligencia Artficial (COMIA)**. I am part of the board of the **Mexican Society for AI (SMIA)** and I served as chair for several sessions.
+
+ >> ![ ](/COMIA1.png)
+
+And our PhD student **Daniel Flores-Araiza** presented his work on causality for medical imaging! We have a great time with our friends of SMIA and our colleagues and students from **CINVESTAV Guadalajara**
+
+ >> ![ ](/COMIA2.png)
 
 **May 1st, 2024** I am very happy because this year, after 5 years of working in some way or another with the @smia_mx  (I went to my 1st MICAI in 2019) I got the honor to become of the the **program chairs** of **MICAI 2024**, which will be at **INAOE Puebla** ! It is also worth mentioning that it will be a double celebration, since 20 years ago I came to work in Puebla with **Dr. Miguel Arias** and eventually in **Prefixa vision Systems**, how cool 😎  Thanks to the great **Lourdes Martínez** for the opportunity and it will be a great pleasure to collaborate with **José Martínez Carranza**!
 
