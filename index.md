@@ -62,6 +62,15 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 12th, 2024** Today we had the master defense of **Ruben Gonzalez** who used difussion models for improving our methods for endoscopic stone recognition (ESR) using synthetic images. We used  the precious Deep Checks tool  for a lot of our evaluations & we assessed the plausability of the generarated data quantitively by doing a battery of experiemnts. Thanks to **Ivan Reyes** and **Francisco Lopez-Tiro** for helping me with Ruben in the last two years... This work has been accepted at **IEEE CBMS conference**
+ and will be presented in two weeks, congrats Ruben 🥳🥳🥳
+
+  >> ![ ](/Ruben_defense.png)
+
+Afterwards,  **Flor Helena Valencia** defended her work on captioning of endoscopic ulcerative colitis images, which was co-supervised by **Dr. Sharib Ali** from **University of Leeds** and she was able to publish a paper at the **CapTion Workshop** at **MICCAI**  and a second one with my PhD **Alexis Ivan Lopez** for **IEEE CBMS conference** Hooray! She will be going to New York for a summer camp and I am super happy for her, great work 🥳 CV-INSIDE is going very strong!
+
+  >> ![ ](/Helena_defense.png)
+>  > 
 **June 8th, 2024**: We are super glad with the results of our **LatinX in Computer Vision** coaching pre-workshop session 🥳 This is a meeting was to prepare attendees for **CVPR**  so they can make the most of the experience and it was a first attemtp from our side in our mentoring program! 😃 
 
  >> ![ ](/Pre-CVPR-Workshop1.png)
