@@ -62,6 +62,36 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**June 17th-21st, 2024, Seattle. Washington, USA**
+
+Myself and 5 talented students from my lab (Francisco, Ivan, Carlos Alfredo, Helena and Ricardo) headed this week to **Seattle, USA** to attend the prestigious **Int. Conference on Computer Vision and Pattern Recognition (CVPR)**. For the 4th time, I was part of the organization committee of the **LatinX in Computer Vision (LXCV) Research Workshop** and our community is growing stronger each year! We have so many friends from around the world (we are a family of sorts now). The students of my group CV inside are gaining a lot of good contacts as well ☺️
+
+Also, I’m super glad that i was finally able to meet **Nils Ever Murrugarra Llerena** in person. For the first time I have pictures with him and **Estefanía Talavera**. With this pair or talented and hard working individuals I have been running a **Google Explore CSR** funded coaching program for a year now and with Nils we have an ongoing a project supported by **NVIDIA** in 2022 (a super computer donated for our **LATAM Supercomputing program**). LXAI has ebable this fruitful collaboration and a great friendship 🥰
+
+I was also happy to meet my **Erasmus Mundus Master in Computr Vision** classmate and friend **Natalia Shepeleva**, who I met las tyear during my visit to Seattle; she has a very succesfuld carreer in **Amazon** and and I am super happy to see her. I am laso happy to have been able to finally met **Victor Fragoso** from **Microsoft Research** who has helped our community a lot in recent years and whose wise **Saiph Savage** will keynote speaker in our **MICAI** conference at **INAOE** in **Puebla, Mexico**
+
+  >> ![ ](/CVPR_2024_1.png)
+
+The workshop itself was very successful and we have an amazing program
+
+>> ![ ](/LXCV_2024.jpg)
+
+Our keynotes were outstanding and I had the opportunity to participate in two sessions, one as motivational speaker with other amazing mambers of LXAI: **Arturo Deza** (Peru, Algorithic), **Fabian Caba** (Colombia, Adobe), **Rodolfo Valiente** (Cuba, HRL Labs) and a panel dicussion about mentoring and sience diseminations with friends and sponsors from **Google** and **Apple**. Antoher nighlight was of course the **oral presentation** of **Ivan Reyes-Amezcua** a PhD student who I co-supervise along **Dr. Andres Mendez-Vazquez** from **CINVESTAV GDL**, he did an amazing job with his paper and presentation!
+
+ >> ![ ](/CVPR_2024_2.png)
+
+Appart from the amazing **CVPR experience** (a ton of interesting works in 3D reconstruction for instance) we also did a lot of satellite events: we attended a very fruitful social by **Weights and Biases** and **Intel** and thanks to our friend **Sergio Lomeli** from **Amazon** we got the chance to visit the amazing **The Spheres** bulding near the convention center: half a park and hal recreational bulding for amazonians, it is really somethings to behold!
+
+ >> ![ ](/CVPR_2024_3.png)
+
+As with any conferences, it was also the opportunity to socialize and meet new people and old friends. I had lunck by the seafront with my two **VIBOT** friends Natalia and Xiong, went to have some drinks with our PhD studnents, I had a meeting to disscus the next steps our **Google Explore CSR** funded project and had a social dinner with other **LXCV chairs** to discuss planes for next year workshop in **Nashville, Tennessee, USA**!!!
+
+>> ![ ](/CVPR_2024_4.png)
+
+Another interesting thing is that I managed to have my recent acqusition (**Foundations of Computer Vision**) signed by the three (very stounding researchers) at the **MIT Books** booth in **CVPR**. Overall an amazing experience!
+
+>> ![ ](/CVPR_2024_5.png)
+
 **June 12th, 2024** Today we had the master defense of **Ruben Gonzalez** who used difussion models for improving our methods for endoscopic stone recognition (ESR) using synthetic images. We used  the precious Deep Checks tool  for a lot of our evaluations & we assessed the plausability of the generarated data quantitively by doing a battery of experiemnts. Thanks to **Ivan Reyes** and **Francisco Lopez-Tiro** for helping me with Ruben in the last two years... This work has been accepted at **IEEE CBMS conference**
  and will be presented in two weeks, congrats Ruben 🥳🥳🥳
 
