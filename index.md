@@ -62,8 +62,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**June 17th-21st, 2024, Seattle. Washington, USA**
+**June 25-29th, 2024, GDL MX - CBMS 2024**: Finally! After 1 year of hard work, the **IEEE Int. Symposuym on Computer Based Medical Systems (CBMS) 2024** is around the corner! We picked some of the in the last few days and on monday and tuesday we had some  have some activities with our keynotes and several of the chairs. We also spent some time withe the staff fixing some final details (like the **gifts and goodies**) and calibrating the audtoriums and online plataforms. We also took our guests to visit a few spots in Guadalajara! We are ready to go!
 
+  >> ![ ](/CBMS1.png)
+
+On Wednesday, we had the opening ceremony! We have attendes from many countries like.... We had three keynote spekers from **INAOE** (Dr. Enrique Sucar), **Universidad de Guadalajara** (Dra. Alma Alanis) and **University of Leeds** (Dr. Sharib Ali). One of the coolest things about this edition of **IEEE CBMS** is that I was able to have friends **Latinx in AI** (LXAI) & the **Eramus Mundius Master in Comuter Vision and Robotics** (ViBot) to help on the organization: **Estefanía Talavera** (University of Twente), **Sharib Ali** (Universite of Leeds) and *Christian Mata** (Universitat Politècnica de Catalunya) were isntrumental to make this happen. Also, researchs from the local team did a super good work: **Salvador Hinojosa** and **Gildardo Sanchez Ante**  from Tecnológico de Monterrey  THANK YOU SO MUCH GUYS 🥳🥳🥳
+
+ >> ![ ](/CBMS2.png)
+
+I am also bery happy with my MSc and PhD students who have been very active in the IEEE CBMS conference as staff and who are presenting 8 full papers from **CV-inside lab** We had all the PhD students reunied for the first in a long time! In our lad, we currenttly have 7 PhD studenrs and 7 MSC students. Nonetheless, we need to work harder for recruiting woman in the group 🥲 but we are trying our best 🥳 (**Helena Valencia** couldn't make it to CBMS as she was in an event in **New York** financed by the **Hub of AI**)
+
+
+>> ![ ](/CBMS3.png)
+
+
+**June 17th-21st, 2024, Seattle. Washington, USA** 
 Myself and 5 talented students from my lab (Francisco, Ivan, Carlos Alfredo, Helena and Ricardo) headed this week to **Seattle, USA** to attend the prestigious **Int. Conference on Computer Vision and Pattern Recognition (CVPR)**. For the 4th time, I was part of the organization committee of the **LatinX in Computer Vision (LXCV) Research Workshop** and our community is growing stronger each year! We have so many friends from around the world (we are a family of sorts now). The students of my group CV inside are gaining a lot of good contacts as well ☺️
 
 Also, I’m super glad that i was finally able to meet **Nils Ever Murrugarra Llerena** in person. For the first time I have pictures with him and **Estefanía Talavera** in the same room! With this pair or talented and hard working individuals I have been running a **Google Explore CSR** funded coaching program for a year now and with Nils we have an ongoing project supported by **NVIDIA** (from 2022, through a super computer donated for our **LATAM Supercomputing program**). LXAI has ebable this fruitful collaboration and a great friendship 🥰
