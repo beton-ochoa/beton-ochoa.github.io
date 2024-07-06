@@ -72,9 +72,20 @@ On Wednesday, we had the opening ceremony! We have attendes from many countries 
 
 I am also bery happy with my MSc and PhD students who have been very active in the IEEE CBMS conference as staff and who are presenting 8 full papers from **CV-inside lab** We had all the PhD students reunied for the first in a long time! In our lad, we currenttly have 7 PhD studenrs and 7 MSC students. Nonetheless, we need to work harder for recruiting woman in the group 🥲 but we are trying our best 🥳 (**Helena Valencia** couldn't make it to CBMS as she was in an event in **New York** financed by the **Hub of AI**)
 
-
 >> ![ ](/CBMS3.png)
 
+The Gala Diner at **Casa de los Platos** was an excelente time to have some networking activties and it was enhanced with some nice mariachi music  🥰 We started of course with classical  Guadalajara Guadalajara 🎶🎼🎵
+
+>> ![ ](/CBMS4.png)
+
+We have closed IEEE CBMS 2024 🤩 **CV-inside lab** had **2 best student papers** with my master and PhD students (**Ricardo Espinosa** and **Francisco Lopez-Tiro**) 🥰 both in double diploma with the **Centre de Recherche en Automatique de Nancy** ☺️
+ I am happy and honoured for having been invited as a member of the **CBMS 2025** organizing committee (which will take place in **Madrid** 🥳) We had to close with mariachi of course 🥳 Thanks to Sharib Ali Alejandro Rodríguez González Jose Alberto Benítez Andrades Rosa Sicilia Lucía Prieto Santamaría Ivan Reyes and the students of the IEEE EMS branch and of course the **IEEE Technical Commitee on Computational Life Sciences (TCCLS)** for providing the prizes for the papers. And above all Tecnológico de Monterrey for being supportive of these efforts and School of Engineering and Science for all three help they have provided to make this possible 🥰
+
+>> ![ ](/CBMS5.png)
+
+efwfsdfssfdfs
+
+>> ![ ](/CBMS6.png)
 
 **June 17th-21st, 2024, Seattle. Washington, USA** 
 Myself and 5 talented students from my lab (Francisco, Ivan, Carlos Alfredo, Helena and Ricardo) headed this week to **Seattle, USA** to attend the prestigious **Int. Conference on Computer Vision and Pattern Recognition (CVPR)**. For the 4th time, I was part of the organization committee of the **LatinX in Computer Vision (LXCV) Research Workshop** and our community is growing stronger each year! We have so many friends from around the world (we are a family of sorts now). The students of my group CV inside are gaining a lot of good contacts as well ☺️
