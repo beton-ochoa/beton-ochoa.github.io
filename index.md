@@ -62,30 +62,35 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**June 25-29th, 2024, GDL MX - CBMS 2024**: Finally! After 1 year of hard work, the **IEEE Int. Symposuym on Computer Based Medical Systems (CBMS) 2024** is around the corner! We picked some of the in the last few days and on monday and tuesday we had some  have some activities with our keynotes and several of the chairs. We also spent some time withe the staff fixing some final details (like the **gifts and goodies**) and calibrating the audtoriums and online plataforms. We also took our guests to visit a few spots in Guadalajara! We are ready to go!
+**June 25-29th, 2024, GDL MX - CBMS 2024**: Finally! After 1 year of hard work, the **IEEE Int. Symposium on Computer-Based Medical Systems (CBMS) 2024** is around the corner! We picked some of the members of the organization team during the last few days and on monday and tuesday we had some  have some activities with our keynotes and several of the chairs. We also spent some time with the staff fixing some final details (like the **gifts and goodies**) and calibrating the auditoriums and online platforms. We also took our guests to visit a few spots in Guadalajara! We are ready to go!
 
   >> ![ ](/CBMS1.png)
 
-On Wednesday, we had the opening ceremony! We have attendes from many countries like.... We had three keynote spekers from **INAOE** (Dr. Enrique Sucar), **Universidad de Guadalajara** (Dra. Alma Alanis) and **University of Leeds** (Dr. Sharib Ali). One of the coolest things about this edition of **IEEE CBMS** is that I was able to have friends **Latinx in AI** (LXAI) & the **Eramus Mundius Master in Comuter Vision and Robotics** (ViBot) to help on the organization: **Estefanía Talavera** (University of Twente), **Sharib Ali** (Universite of Leeds) and *Christian Mata** (Universitat Politècnica de Catalunya) were isntrumental to make this happen. Also, researchs from the local team did a super good work: **Salvador Hinojosa** and **Gildardo Sanchez Ante**  from Tecnológico de Monterrey  THANK YOU SO MUCH GUYS 🥳🥳🥳
+On Wednesday, we had the opening ceremony! We have attendes from many countries like.... We had three keynote spekers from **INAOE** (Dr. Enrique Sucar), **Universidad de Guadalajara** (Dra. Alma Alanis) and **University of Leeds** (Dr. Sharib Ali). One of the coolest things about this edition of **IEEE CBMS** is that I was able to have friends **Latinx in AI** (LXAI) & the **Eramus Mundus Master in Computer Vision and Robotics** (ViBot) to help on the organization: **Estefanía Talavera** (University of Twente), **Sharib Ali** (Universite of Leeds) and **Christian Mata** (Universitat Politècnica de Catalunya) were instrumental to make this happen. Also, researchers from the local team did an amazing work: **Salvador Hinojosa** and **Gildardo Sanchez Ante**  from Tecnológico de Monterrey really pull it off,  THANK YOU SO MUCH GUYS 🥳🥳🥳
 
  >> ![ ](/CBMS2.png)
 
-I am also bery happy with my MSc and PhD students who have been very active in the IEEE CBMS conference as staff and who are presenting 8 full papers from **CV-inside lab** We had all the PhD students reunied for the first in a long time! In our lad, we currenttly have 7 PhD studenrs and 7 MSC students. Nonetheless, we need to work harder for recruiting woman in the group 🥲 but we are trying our best 🥳 (**Helena Valencia** couldn't make it to CBMS as she was in an event in **New York** financed by the **Hub of AI**)
+I am also bery happy with my MSc and PhD students who have been very active in the IEEE CBMS conference as staff and who are presenting 8 full papers from our **CV-inside lab** We had all the PhD students reunited for the first in a long time! In our lab, we currenttly have 7 PhD students and 7 MSC students. Nonetheless, we need to work harder for recruiting woman in the group 🥲 but we are trying our best 🥳 (**Helena Valencia** couldn't make it to CBMS as she was in an event in **New York** financed by the **Hub of AI**)
 
 >> ![ ](/CBMS3.png)
 
-The Gala Diner at **Casa de los Platos** was an excelente time to have some networking activties and it was enhanced with some nice mariachi music  🥰 We started of course with classical  Guadalajara Guadalajara 🎶🎼🎵
+The Gala Diner at **Casa de los Platos** was an excellent opportunity to have some networking activities and it was enhanced with some nice mariachi music  🥰 We started of course with classical  **Guadalajara Guadalajara** 🎶🎼🎵
 
 >> ![ ](/CBMS4.png)
 
 We have closed IEEE CBMS 2024 🤩 **CV-inside lab** had **2 best student papers** with my master and PhD students (**Ricardo Espinosa** and **Francisco Lopez-Tiro**) 🥰 both in double diploma with the **Centre de Recherche en Automatique de Nancy** ☺️
- I am happy and honoured for having been invited as a member of the **CBMS 2025** organizing committee (which will take place in **Madrid** 🥳) We had to close with mariachi of course 🥳 Thanks to Sharib Ali Alejandro Rodríguez González Jose Alberto Benítez Andrades Rosa Sicilia Lucía Prieto Santamaría Ivan Reyes and the students of the IEEE EMS branch and of course the **IEEE Technical Commitee on Computational Life Sciences (TCCLS)** for providing the prizes for the papers. And above all Tecnológico de Monterrey for being supportive of these efforts and School of Engineering and Science for all three help they have provided to make this possible 🥰
+ I am happy and honoured for having been invited as a member of the **CBMS 2025** organizing committee (which will take place in **Madrid** 🥳) We had to close with mariachi of course 🥳 Thanks to Sharib Ali Alejandro Rodríguez González Jose Alberto Benítez Andrades, Rosa Sicilia, Lucía Prieto Santamaría and the students of the IEEE EMS branch and of course the **IEEE Technical Commitee on Computational Life Sciences (TCCLS)** for providing the prizes for the papers. And above all Tecnológico de Monterrey for being supportive of these efforts and School of Engineering and Science for all three help they have provided to make this possible 🥰
 
 >> ![ ](/CBMS5.png)
 
-efwfsdfssfdfs
+After the conference, the local team organized some cultura activies. There were visits to **Tlaquepaque**, the magic town of **Tequila** and I took some of our colleagues to **Chapala Lake**
 
 >> ![ ](/CBMS6.png)
+
+Overall I believe that this edition of **IEEE CBMS** was very successful and now the next mission is to work on the special issue that we have prepared for the **Journal of Health Information Science and Systems**
+
+
+
 
 **June 17th-21st, 2024, Seattle. Washington, USA** 
 Myself and 5 talented students from my lab (Francisco, Ivan, Carlos Alfredo, Helena and Ricardo) headed this week to **Seattle, USA** to attend the prestigious **Int. Conference on Computer Vision and Pattern Recognition (CVPR)**. For the 4th time, I was part of the organization committee of the **LatinX in Computer Vision (LXCV) Research Workshop** and our community is growing stronger each year! We have so many friends from around the world (we are a family of sorts now). The students of my group CV inside are gaining a lot of good contacts as well ☺️
