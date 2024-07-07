@@ -87,10 +87,9 @@ After the conference, the local team organized some cultura activies. There were
 
 >> ![ ](/CBMS6.png)
 
-Overall I believe that this edition of **IEEE CBMS** was very successful and now the next mission is to work on the special issue that we have prepared for the **Journal of Health Information Science and Systems**
+Overall I believe that this edition of **IEEE CBMS** was very successful and now the next mission is to work on the special issue that we have prepared for the **Journal of Health Information Science and Systems** in which the best papers of CBMS will be invited to parricipate.
 
-
-
+>> ![ ](/CBMS7.png)
 
 **June 17th-21st, 2024, Seattle. Washington, USA** 
 Myself and 5 talented students from my lab (Francisco, Ivan, Carlos Alfredo, Helena and Ricardo) headed this week to **Seattle, USA** to attend the prestigious **Int. Conference on Computer Vision and Pattern Recognition (CVPR)**. For the 4th time, I was part of the organization committee of the **LatinX in Computer Vision (LXCV) Research Workshop** and our community is growing stronger each year! We have so many friends from around the world (we are a family of sorts now). The students of my group CV inside are gaining a lot of good contacts as well ☺️
