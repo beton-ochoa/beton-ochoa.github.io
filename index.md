@@ -62,6 +62,16 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**July 17th. 2024:** We are super happy at **CV-inside** today! We have two workshop papers accepted at **MICCAI 2024** (Int, Conference on **Medical Image Computing and Computer-Assisted Intervention** to be held in **Marrakesh, Morocco** 🇲🇦 in October 2024)
+
+The first one is entitled **“EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction”** and it was authored by my  PhD students **Ivan Reyes Amezcua** (entolled in **CINVESTAV GDL**) and **Ricardo Espinosa Loera** (enrolled in UP and in double dip)loma in **CRAN - Universite de Lorraine** 🇫🇷) for the **2nd Workshop on Data Engineering for Medical Imaging (DEMI)**
+
+  >> ![ ](/miccai1.png)
+
+The second, entilted **“Tackling domain generalization for out-of-distribution endoscopic imaging"** was accepted at the **Macchine Learning for Medical Imaging Workshop (MLMI)**! Congrats to the main authors oour PhD student **Mansoor Ali Teevno**! This is a particularly challenging workshop with more than 150 submissions! This is another results of a very fruitful collaboration with the the **AI in Sugery and Medicine** (AIMS) group led by **Sharib Al** from **University of Leeds** with whom we have been collaborating for 3 years already and who is supervising this thesis project with me!
+
+  >> ![ ](/miccai2.png)
+
 **June 25-29th, 2024, GDL MX - CBMS 2024**: Finally! After 1 year of hard work, the **IEEE Int. Symposium on Computer-Based Medical Systems (CBMS) 2024** is around the corner! We picked some of the members of the organization team during the last few days and on monday and tuesday we had some  have some activities with our keynotes and several of the chairs. We also spent some time with the staff fixing some final details (like the **gifts and goodies**) and calibrating the auditoriums and online platforms. We also took our guests to visit a few spots in Guadalajara! We are ready to go!
 
   >> ![ ](/CBMS1.png)
