@@ -62,6 +62,13 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**July 19th, 2024** Today, after 5 years at the Tecnologico de Monterrey and almost the same time having started collaborating with **Andrés Méndez Vazquez** from **CINVESTAV GDL**, I am super happy to have graduated my first PhD **Jorge Enrique González Zapata** 
+We atarted working 3 years ago and was among the first group of students that I brought with me to the **LatinX in AI** workshop at **CVPR 2022 (New Orleans)** Interestingly, this day marks 20 years since I graduated from the **PADTS program** at CINVESTAV Guadalajara 🥰
+
+Thanks so much **Andres Mendez-Vazquez** for giving me the opportunity to co-advise this work on metric learning, it was super nice and super interesting 🤩 We worked on several methods for few-shot learning and **Deep Metric Learning** and put one of them in practice four pur **ECOS Nord CONAHCYT Project** on endoscopic imaging with CRAN - Univ. de Lorraine. You can read our recently published work on **Expert Systems with Applications Journal (Elsevier)** on metric learning for endoscopic stone recognition here 🤩:
+
+ >> ![ ](/jorge_cinvestav.png)
+
 **July 17th. 2024:** We are super happy at **CV-inside** today! We have two workshop papers accepted at **MICCAI 2024** (Int, Conference on **Medical Image Computing and Computer-Assisted Intervention** to be held in **Marrakesh, Morocco** 🇲🇦 in October 2024)
 
 The first one is entitled **“EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction”** and it was authored by my  PhD students **Ivan Reyes Amezcua** (entolled in **CINVESTAV GDL**) and **Ricardo Espinosa Loera** (enrolled in UP and in double dip)loma in **CRAN - Universite de Lorraine** 🇫🇷) for the **2nd Workshop on Data Engineering for Medical Imaging (DEMI)**
