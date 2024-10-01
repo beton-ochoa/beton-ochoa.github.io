@@ -62,6 +62,22 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**September 6th-13th, 2024, Nancy, France:** This week I am visiting the **Centre de Recherche en Automatique de Nancy(CRAM)** in Nancy (🇫🇷), where my PhD students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** are doing double diplomas with my colleague Prof Christian Daul ☺️ We also have a **ECOS Nord - CONAHCYTT** funded prject and we are having several meeting with our **urologist collaborators** in the **CHRU Brabois** and finishing some articles in the next few days 😁
+
+ >> ![ ](/CRAN2024.png)
+
+**September 5th, 2024** Welcome to the CVI-NSIDE lab toc **Eyobed Birhanu Paulos**! Eyobed from Ethiopia 🇪🇹  will be working the **kidney stones automated identification** project using images from endosopes, our work with CRAN 🇫🇷 Eyobed will continue stuff on eXplaible AI and report generation!
+
+ >> ![ ](/PhD2024.png)
+
+**August 16th - 23rd, 2024 - Leeds, United Kingdom:** This week we visited our colleague **Sharib Ali** in the **University of Leeds** in the context of our **World Universties Network(WUN)** funded project **Optimise**. This time I invited my PhD student **Francisco Lopez Tiro** who is doing his second research visit in **CRAN, Nancy France** to present in a joint seminar and to have the opportinity to meet with students of the **AI in Medicine and Surgery (AIMS)** research group. 
+
+ >> ![ ](/Leeds2024.png)
+
+This week was also the opportunity to look and work in new grants opportunities and get to exhange a bit more with some of the **mexican students** in Leeds (Pedro Chavarrias, Gerardo Lozano)
+
+
+
 **July 19th, 2024** Today, after 5 years at the Tecnologico de Monterrey and almost the same time having started collaborating with **Andrés Méndez Vazquez** from **CINVESTAV GDL**, I am super happy to have graduated my first PhD **Jorge Enrique González Zapata** 
 We atarted working 3 years ago and was among the first group of students that I brought with me to the **LatinX in AI** workshop at **CVPR 2022 (New Orleans)** Interestingly, this day marks 20 years since I graduated from the **PADTS program** at CINVESTAV Guadalajara 🥰
 
