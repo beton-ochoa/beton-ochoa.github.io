@@ -13,7 +13,7 @@
 
 He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as  chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
-He is leads the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**  He am aslo currently running the [LATAM Undergraduate Research Program](https://latinresearchprogram.github.io/GoogleExploreCSR/) funded by the **Google Explore CSR** program as C-PI with  **Estefania Talavera** and **Nils Murrugarra-Llerena**
+He is leads the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**  He am aslo currently running the [LATAM Undergraduate Research Program](https://latinresearchprogram.github.io/GoogleExploreCSR/) funded by the **Google Explore CSR** program as Co-PI with **Estefania Talavera** and **Nils Murrugarra-Llerena**
 
 
 ---
@@ -64,7 +64,22 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **October 6th - 10th, Marrakech, Morocco**
 
-**October 1st, 2024,INAOE Puebla, Mexico**
+**October 1st, 2024,INAOE Puebla, Mexico**: Thank to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talsk in their seminar and to assing to the challenge organzied by his team.
+
+>> ![ ](/inaoe2024b.png)
+
+
+
+It was a great honor to be able to return to **INAOE** to give a talk about my research in artificial vision for the medical area (in endoscopy) for the **International Seminar on Biomedical Sciences and Technologies** 🙂
+
+>> ![ ](/inaoe2024a.png)
+
+
+It seems that the kids really liked it and there were many questions and an excellent discussion and they were already interested in doing stays and postgraduate studies ☺️
+
+
+>> ![ ](/inaoe2024c.png)
+
 
 **September 6th-13th, 2024, Nancy, France:** This week I am visiting the **Centre de Recherche en Automatique de Nancy(CRAM)** in Nancy (🇫🇷), where my PhD students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** are doing double diplomas with my colleague Prof Christian Daul ☺️ We also have a **ECOS Nord - CONAHCYTT** funded prject and we are having several meeting with our **urologist collaborators** in the **CHRU Brabois** and finishing some articles in the next few days 😁
 
