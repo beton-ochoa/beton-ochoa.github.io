@@ -76,8 +76,6 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 This week was also the opportunity to look and work in new grants opportunities and get to exhange a bit more with some of the **mexican students** in Leeds (Pedro Chavarrias, Gerardo Lozano)
 
-
-
 **July 19th, 2024** Today, after 5 years at the Tecnologico de Monterrey and almost the same time having started collaborating with **Andrés Méndez Vazquez** from **CINVESTAV GDL**, I am super happy to have graduated my first PhD **Jorge Enrique González Zapata** 
 We atarted working 3 years ago and was among the first group of students that I brought with me to the **LatinX in AI** workshop at **CVPR 2022 (New Orleans)** Interestingly, this day marks 20 years since I graduated from the **PADTS program** at CINVESTAV Guadalajara 🥰
 
