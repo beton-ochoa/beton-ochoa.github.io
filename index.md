@@ -62,6 +62,10 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 6th - 10th, Marrakech, Morocco**
+
+**October 1st, 2024,INAOE Puebla, Mexico**
+
 **September 6th-13th, 2024, Nancy, France:** This week I am visiting the **Centre de Recherche en Automatique de Nancy(CRAM)** in Nancy (🇫🇷), where my PhD students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** are doing double diplomas with my colleague Prof Christian Daul ☺️ We also have a **ECOS Nord - CONAHCYTT** funded prject and we are having several meeting with our **urologist collaborators** in the **CHRU Brabois** and finishing some articles in the next few days 😁
 
  >> ![ ](/CRAN2024.png)
