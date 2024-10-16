@@ -13,7 +13,7 @@
 
 He is member of the **Sistema Nacional de Investigadores** (SNI, Rank I) and of the CONACYT **Network on Applied Computational Network (RedICA)**, the **Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP)**, as well as the **Latinx in AI** ([LXAI](https://www.latinxinai.org/)) Coalition. He as served as reviewer for **AI conferences** (ICLR, ICML, CVPR and IJCNN) and **biomedical computing venues** too (MICCAI, ISBI, CBMS). He also serves as  chair of the Latinx in Computer Vision Workshops at  ([LXAI @ CVPR](https://www.latinxinai.org/cvpr-2021-about)  and  ([LXAI @ ICCV](https://www.latinxinai.org/iccv-2021-about) and as part of the organization or technical program committees of these efforts, as well as other conferences. He is part of the academic staff o the **Artificial Intelligence Hub** at **Tecnologico de Monterrey** and he became recently academic partner of the [Erasmus Mundus Master in Computational Colour and Spectral Imaging](https://cosi-master.eu/cosi-master-degree/)
 
-He is leads the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**  He am aslo currently running the [LATAM Undergraduate Research Program](https://latinresearchprogram.github.io/GoogleExploreCSR/) funded by the **Google Explore CSR** program as Co-PI with **Estefania Talavera** and **Nils Murrugarra-Llerena**
+He is an advoctre for diversity and better opportunities in LATAM. For instance, he is one of the instigators and leads of the [LXAI Supercomputing innitiative](https://www.latinxinai.org/supercomputer-about) with Nvidia and LatinX in AI for providing better access to hardware resources to students and researchers in **Latin America.**  He is also currently running the [LATAM Undergraduate Research Program](https://latinresearchprogram.github.io/GoogleExploreCSR/) funded by the **Google Explore CSR** program as Co-PI with **Estefania Talavera** and **Nils Murrugarra-Llerena**
 
 
 ---
@@ -64,10 +64,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **October 6th - 10th, Marrakech, Morocco**
 
-**October 1st, 2024,INAOE Puebla, Mexico**: Thank to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talsk in their seminar and to assing to the challenge organzied by his team.
+**October 1st, 2024,INAOE Puebla, Mexico**: This week I was in Puebla, Mexico. Thanks to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talk in their seminar and to assing to the challenge organzied by his team.
 
 >> ![ ](/inaoe2024b.png)
-
 
 
 It was a great honor to be able to return to **INAOE** to give a talk about my research in artificial vision for the medical area (in endoscopy) for the **International Seminar on Biomedical Sciences and Technologies** 🙂
@@ -75,13 +74,13 @@ It was a great honor to be able to return to **INAOE** to give a talk about my r
 >> ![ ](/inaoe2024a.png)
 
 
-It seems that the kids really liked it and there were many questions and an excellent discussion and they were already interested in doing stays and postgraduate studies ☺️
+It seems that the kids really liked it and there were many questions and an excellent discussion and they were already interested in doing stays and postgraduate studies with us ☺️
 
 
 >> ![ ](/inaoe2024c.png)
 
 
-**September 6th-13th, 2024, Nancy, France:** This week I am visiting the **Centre de Recherche en Automatique de Nancy(CRAM)** in Nancy (🇫🇷), where my PhD students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** are doing double diplomas with my colleague Prof Christian Daul ☺️ We also have a **ECOS Nord - CONAHCYTT** funded prject and we are having several meeting with our **urologist collaborators** in the **CHRU Brabois** and finishing some articles in the next few days 😁
+**September 6th-13th, 2024, Nancy, France:** This week I am visiting the **Centre de Recherche en Automatique de Nancy(CRAN)** in Nancy (🇫🇷), where my PhD students **Francisco Lopez Tiro** and **Ricardo Espinosa Loera** are doing double diplomas with my colleague Prof Christian Daul ☺️ We also have a **ECOS Nord - CONAHCYT** funded project and we are having several meetings with our **urologist collaborators** in the **CHRU Brabois** and finishing some articles in the next few days 😁
 
  >> ![ ](/CRAN2024.png)
 
@@ -89,7 +88,7 @@ It seems that the kids really liked it and there were many questions and an exce
 
  >> ![ ](/PhD2024.png)
 
-**August 16th - 23rd, 2024 - Leeds, United Kingdom:** This week we visited our colleague **Sharib Ali** in the **University of Leeds** in the context of our **World Universties Network(WUN)** funded project **Optimise**. This time I invited my PhD student **Francisco Lopez Tiro** who is doing his second research visit in **CRAN, Nancy France** to present in a joint seminar and to have the opportinity to meet with students of the **AI in Medicine and Surgery (AIMS)** research group. 
+**August 16th - 23rd, 2024 - Leeds, United Kingdom:** This week we visited our colleague **Sharib Ali** in the **University of Leeds** in the context of our **World Universties Network(WUN)** funded project **Optimise**. This time I invited my PhD student **Francisco Lopez Tiro** who is doing his second research visit in **CRAN, Nancy France** to present in a joint seminar and to have the opportunity to meet with students of the **AI in Medicine and Surgery (AIMS)** research group. 
 
  >> ![ ](/Leeds2024.png)
 
@@ -104,7 +103,7 @@ Thanks so much **Andres Mendez-Vazquez** for giving me the opportunity to co-adv
 
 **July 17th. 2024:** We are super happy at **CV-inside** today! We have two workshop papers accepted at **MICCAI 2024** (Int, Conference on **Medical Image Computing and Computer-Assisted Intervention** to be held in **Marrakesh, Morocco** 🇲🇦 in October 2024)
 
-The first one is entitled **“EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction”** and it was authored by my  PhD students **Ivan Reyes Amezcua** (entolled in **CINVESTAV GDL**) and **Ricardo Espinosa Loera** (enrolled in UP and in double dip)loma in **CRAN - Universite de Lorraine** 🇫🇷) for the **2nd Workshop on Data Engineering for Medical Imaging (DEMI)**
+The first one is entitled **“EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction”** and it was authored by my  PhD students **Ivan Reyes Amezcua** (entolled in **CINVESTAV GDL**) and **Ricardo Espinosa Loera** (enrolled in UP and in double diploma in **CRAN - Universite de Lorraine** 🇫🇷) for the **2nd Workshop on Data Engineering for Medical Imaging (DEMI)**
 
   >> ![ ](/miccai1.png)
 
