@@ -62,7 +62,31 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**October 6th - 10th, Marrakech, Morocco**
+**October 20-25th, INAOE, Puebla**: This year I’m serving as program chair of **Sociedad Mexicana de IA (SMIA)** MICAI 2024 and of course my CV-inside lab is presenting a few papers, all of them on computer vision applied to surgical data ☺️ I am suepr grateful to **Jose Carranza** from **INAOE** for his amanzing work as local chair, we have been working for more than 6 months on this!
+
+For this eidtion of MICAI, I invited our friend **Nazim Haouchine** from **Harvard Medical School** and who did his PhD in INRIA Nancy with friend of our lab (**Prof Marie Odile Berger**) and who had recently met again at MICCAI 2024 to give a keynote on his work 🤩 Also, after all these years I’ve finally met **Saiph Savage**, who also gave an amazing talk. 
+
+>> ![ ](/MexMICAI1.png)
+
+This year our lab had a blast in the conference: two of the students of my CV-inside lab **won best paper awards** 
+ 
+**Jesus Antonio Low Castro** got 2nd best student paper for his work “Smartphone-based Fuel Identification Model for Wildifire Risk Assessment using YOLOv8”. Low’s paper was the result of some initial experiments of a seed funded project “Crowdsensing-based Wildland-Urban Interface Fire Risk Assessment Using IA” with **Prof. Mustafa Gul** from **University of Alberta**, and the Mexican NGO Amigos de la Sierra, and more is yet to come!
+ 
+**Ivan Reyes (CINVESTAV GDL, his main advisor is Andres Mendez-Vazquez)**  obtained the 1st student paper award for his work entitled “Leveraging Pre-trained Models for Robust Federated Learning for Kidney Stone Type Recognition” in the context of a **Mexican-French ECOS Nord** funded project. This paper is yet another collaboration with the Centre de Recherche en Automatique de Nancy (CRAN) and the Nutrition Génétique et Exposition aux Risques Environnementaux (nGERE) lab, as well as the Centre Hospilalier de Recherche de Nancy. Ivan will be doing a research visit to CRAN at the end of this year with **Prof. Christian Daul**
+
+>> ![ ](/MexMICAI2.png)
+
+I am super grateful for the opportunity to have been a program chair of MICAI2024 of the Mexican AI Society (SMIA) 🤩Thanks to President Lourdes Martinez and Hiram Ponce for the support and  José Carranza for his work c/ local chair at INAOE ☺️
+It is an honor to work together with the SMIA and the AI ​​community in Mexico (AMEXCOMP) since I can see everyone's passion for making computer science more accessible to everyone 🥰
+
+>> ![ ](/MexMICAI4.jpeg)
+
+**October 6th - 10th, Marrakech, Morocco**: This year myself and three of my PhD students from the CV-inside lab are participating in the **27th International Conference on Medical Image Computing & Computer Assisted Intervention** in Marrakech, Morocco 🇲🇦 
+We are presenting a couple of works in the area of robust depth estimation for colonoscopy (done by Ricardo Espinosa Ivan Reyes) with CRAN 🇫🇷 in the context our **CONACYT - Ecos Nord** funded project and another on generizable instrument segmentation by Mansoor Ali in collaboration with Sharib Ali from the **AI In Medicine and Surgery (AIMS)** group form University of Leeds 🇬🇧 funded by **Worldwide Universities Network** 😊 It was nice to see that are many Mexican and Latinx in AI (LXAI) students attending the conference, but much is still needed!
+
+The conference was a great opprtunity to meet old friends and get to know new people. In particular, we got to meet our cplelagurs from **University of Birmingham**, who invited me to give a seminar in November. We also had a great time in the workshops, DEMI had amazing keynotes.  
+
+>> ![ ](/miccai2024.png)
 
 **October 1st, 2024,INAOE Puebla, Mexico**: This week I was in Puebla, Mexico. Thanks to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talk in their seminar and to assing to the challenge organzied by his team.
 
