@@ -64,7 +64,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **November 6th-10th, United Kingdom**
 
-**Day 1 and 2** This week a group of colleagues and mylself will be visiting some of the leading academic institutions in UK in the fields of minimally invasive surgery, as well as cancer research and computer assisted interventions and robotics. We started our academic mission in UK with a visit to **Prof Kirill Veselkov** from the **Dept of Surgery and Cancer** at the **Imperial College**! We continued our visit at **The Hamlyn Centre**  with **Prof. Stamatia Ginnarou**. Thnak you both for such a wonderful reception ☺️ We are really inspired and looking forward to collaborate!
+**Day 1 and 2** This week a group of colleagues and myself will be visiting some of the leading academic institutions in UK in the fields of minimally invasive surgery, as well as cancer research and computer assisted interventions and robotics. We started our academic mission in UK with a visit to **Prof Kirill Veselkov** from the **Dept of Surgery and Cancer** at the **Imperial College**! We continued our visit at **The Hamlyn Centre**  with **Prof. Stamatia Ginnarou**. Thnak you both for such a wonderful reception ☺️ We are really inspired and looking forward to collaborate!
 
 >> ![ ](/UK_hamlyn.png)
 
@@ -84,11 +84,11 @@ This is a continuation of our **Worlwide Universities Network (WUN)** funded **O
 
 >> ![ ](/UK_leeds2.png)
 
-**October 26th - November 1st, 2025, Guadalajara, Mexico**: This week, I'm hosting a colleague from the CRAN (Centre de Recherche en Automatique de Nancy), nGERE lab (Nutrition-Génétique et Exposition aux Risques Environnementaux), and the Centre Hospitalier de Recheche de Nancy 🇫🇷. This scholarly visit is connected to our ML-inside project, funded by CONAHCYT Ecos Nord - French Government. Prof. Christrian Daul and I are supervising 2 joint PhD candidates (Francisco Lopez-Tiro and Ricardo Espinosa), along with 3 additional PhD and 5 master's students involved in the project. Additionally, Jean Louis Gueant and Rosa Maria Rodriguez, biology specialists, are contributing to the project's endoscopic kidney stone recognition aspect. Ricardo, also enrolled at Universidad Panamericana, attended the initial meeting of the week, focusing on the project's 3D colon reconstruction components.
+**October 26th - November 1st, 2025, Guadalajara, Mexico**: This week, I'm hosting several colleagues from the **CRAN** (Centre de Recherche en Automatique de Nancy), **nGERE lab** (Nutrition-Génétique et Exposition aux Risques Environnementaux), and the Centre Hospitalier de Recheche de Nancy 🇫🇷. This scholarly visit is connected to our **ML-inside project**, funded by **CONAHCYT Ecos Nord** - French Government. **Prof. Christrian Daul** and I are supervising 2 joint PhD candidates (Francisco Lopez-Tiro and Ricardo Espinosa), along with 3 additional PhD and 5 master's students involved in the project. Additionally, **Jean Louis Gueant** and **Rosa Maria Rodriguez**, biology specialists, are contributing to the project's endoscopic kidney stone recognition aspect. Ricardo, also enrolled at Universidad Panamericana, attended the initial meeting of the week, focusing on the project's 3D colon reconstruction components.
 
 >> ![ ](/ecos-nord-2024v1.png)
 
-Throughout the week, we've scheduled various research discussions with Advanced AI Group members (Miguel Gonzalez) and visited several urologists and hospitals in Guadalajara (San Jose, San Javier) to establish new partnerships. On the final day, we organized a CV-inside lab seminar for master's and PhD students in both Mexico and France 🇫🇷, naturally followed by pizza 🤩
+Throughout the week, we've scheduled various research discussions with **Advanced AI Group members** (Miguel Gonzalez) and visited several urologists and hospitals in Guadalajara (San Jose, San Javier) to establish new partnerships. On the final day, we organized a CV-inside lab seminar for master's and PhD students in both Mexico and France 🇫🇷, naturally followed by pizza 🤩
 
 >> ![ ](/ecos-nord-2024v2.png)
 
@@ -106,7 +106,7 @@ This year our lab had a blast in the conference: two of the students of my CV-in
 
 >> ![ ](/MexMICAI2.png)
 
-I am super grateful for the opportunity to have been a program chair of MICAI2024 of the Mexican AI Society (SMIA) 🤩Thanks to **President Lourdes Martinez** and **Hiram Ponce** for the support and  José Carranza for his work c/ local chair at INAOE ☺️
+I am super grateful for the opportunity to have been a program chair of MICAI2024 of the Mexican AI Society (SMIA) 🤩 Thanks to **President Lourdes Martinez** and **Hiram Ponce** for the support and  José Carranza for his work c/ local chair at INAOE ☺️
 It is an honor to work together with the SMIA and the AI ​​community in Mexico (AMEXCOMP) since I can see everyone's passion for making computer science more accessible to everyone 🥰
 
 >> ![ ](/MexMICAI4.jpeg)
@@ -114,14 +114,13 @@ It is an honor to work together with the SMIA and the AI ​​community in Mexi
 **October 6th - 10th, Marrakech, Morocco**: This year myself and three of my PhD students from the CV-inside lab are participating in the **27th International Conference on Medical Image Computing & Computer Assisted Intervention** in Marrakech, Morocco 🇲🇦 
 We are presenting a couple of works in the area of robust depth estimation for colonoscopy (done by Ricardo Espinosa Ivan Reyes) with CRAN 🇫🇷 in the context our **CONACYT - Ecos Nord** funded project and another on generizable instrument segmentation by Mansoor Ali in collaboration with Sharib Ali from the **AI In Medicine and Surgery (AIMS)** group form University of Leeds 🇬🇧 funded by **Worldwide Universities Network** 😊 It was nice to see that are many Mexican and Latinx in AI (LXAI) students attending the conference, but much is still needed!
 
-The conference was a great opprtunity to meet old friends and get to know new people. In particular, we got to meet our cplelagurs from **University of Birmingham**, who invited me to give a seminar in November. We also had a great time in the workshops, DEMI had amazing keynotes.  
+The conference was a great opprtunity to meet old friends and get to know new people. In particular, we got to meet our colleagues from **University of Birmingham**, who invited me to give a seminar in November. We also had a great time in the workshops, DEMI had amazing keynotes.  
 
 >> ![ ](/miccai2024.png)
 
-**October 1st, 2024,INAOE Puebla, Mexico**: This week I was in Puebla, Mexico. Thanks to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talk in their seminar and to assing to the challenge organzied by his team.
+**October 1st, 2024,INAOE Puebla, Mexico**: This week I was in Puebla, Mexico to give a keynote for the biomedical engineering postgraduate school. Thanks to **Dr. Carlos Reyes** leader of **RedICA** for inviting me to what I condider my second alma mater,**INAOE** to give a talk in their seminar and to assing to the challenge organzied by his team.
 
 >> ![ ](/inaoe2024b.png)
-
 
 It was a great honor to be able to return to **INAOE** to give a talk about my research in artificial vision for the medical area (in endoscopy) for the **International Seminar on Biomedical Sciences and Technologies** 🙂
 
