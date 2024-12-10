@@ -62,6 +62,28 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 6th-10th, United Kingdom**
+
+**Day 1 and 2** This week a group of colleagues and mylself will be visiting some of the leading academic institutions in UK in the fields of minimally invasive surgery, as well as cancer research and computer assisted interventions and robotics. We started our academic mission in UK with a visit to **Prof Kirill Veselkov** from the **Dept of Surgery and Cancer** at the **Imperial College**! We continued our visit at **The Hamlyn Centre**  with **Prof. Stamatia Ginnarou**. Thnak you both for such a wonderful reception ☺️ We are really inspired and looking forward to collaborate!
+
+>> ![ ](/UK_hamlyn.png)
+
+The second visit was to **UCL - Univ. College London**, specifically to the **“Welcome EPSRC centre intervent. + surgical sciences”** with **Sophia Bano** and **Francisco Vasconcelos** 😀 Sophia and me did both the Erasmus Mundus MSc in Computer Vision and Robotics (Vibot) and I am really grateful for the opportunity to meet her again 👏🏻
+
+>> ![ ](/uk_ucl.png)
+
+**Day 3 anf 4** So many thanks to **Samuel Montero** and the great **Felipe Orihuela** for inviting me to give a seminar for the **Perception, Language and Action Reseearch Group** at **University of Birmingham** 😊 The students were super nice &  the opportunity to showcase the research done CV-inside lab was really something 🤩
+
+>> ![ ](/UK_birmingham.png)
+
+Thanks so much to Sharib Ali for his work on putting together a seminar in the context of our academic visit to UK ☺️ CV-inside lab & the AIMS team have been working for some time now (since 21) and it was nice to meet other members of the University of Leeds School of Computing such as Netta Cohen, Mehmet Dogar (both working some super cool robotics stuff) but also David Hogg and Tony Cohn (whose work on computer vision and multimodal is really nice). 
+
+>> ![ ](/UK_leeds1.png)
+
+This is a continuation of our Worlwide Universities Network (WUN) funded Optimise Project 😉 Thanks to the Leeds team for making this visit so productive ! 😀
+
+>> ![ ](/UK_leeds2.png)
+
 **October 20-25th, INAOE, Puebla**: This year I’m serving as program chair of **Sociedad Mexicana de IA (SMIA)** MICAI 2024 and of course my CV-inside lab is presenting a few papers, all of them on computer vision applied to surgical data ☺️ I am suepr grateful to **Jose Carranza** from **INAOE** for his amanzing work as local chair, we have been working for more than 6 months on this!
 
 For this eidtion of MICAI, I invited our friend **Nazim Haouchine** from **Harvard Medical School** and who did his PhD in INRIA Nancy with friend of our lab (**Prof Marie Odile Berger**) and who had recently met again at MICCAI 2024 to give a keynote on his work 🤩 Also, after all these years I’ve finally met **Saiph Savage**, who also gave an amazing talk. 
