@@ -84,6 +84,11 @@ This is a continuation of our **Worlwide Universities Network (WUN)** funded **O
 
 >> ![ ](/UK_leeds2.png)
 
+**October 26th - November 1st, 2025, Guadalajara, Mexico**: This week, I'm hosting a colleague from the CRAN (Centre de Recherche en Automatique de Nancy), nGERE lab (Nutrition-Génétique et Exposition aux Risques Environnementaux), and the Centre Hospitalier de Recheche de Nancy 🇫🇷. This scholarly visit is connected to our ML-inside project, funded by CONAHCYT Ecos Nord - French Government. Prof. Christrian Daul and I are supervising 2 joint PhD candidates (Francisco Lopez-Tiro and Ricardo Espinosa), along with 3 additional PhD and 5 master's students involved in the project. Additionally, Jean Louis Gueant and Rosa Maria Rodriguez, biology specialists, are contributing to the project's endoscopic kidney stone recognition aspect. Ricardo, also enrolled at Universidad Panamericana, attended the initial meeting of the week, focusing on the project's 3D colon reconstruction components.
+
+Throughout the week, we've scheduled various research discussions with Advanced AI Group members (Miguel Gonzalez) and visited several urologists and hospitals in Guadalajara (San Jose, San Javier) to establish new partnerships. On the final day, we organized a CV-inside lab seminar for master's and PhD students in both Mexico and France 🇫🇷, naturally followed by pizza 🤩
+
+
 **October 20-25th, INAOE, Puebla**: This year I’m serving as program chair of **Sociedad Mexicana de IA (SMIA)** MICAI 2024 and of course my CV-inside lab is presenting a few papers, all of them on computer vision applied to surgical data ☺️ I am suepr grateful to **Jose Carranza** from **INAOE** for his amanzing work as local chair, we have been working for more than 6 months on this!
 
 For this eidtion of MICAI, I invited our friend **Nazim Haouchine** from **Harvard Medical School** and who did his PhD in INRIA Nancy with friend of our lab (**Prof Marie Odile Berger**) and who had recently met again at MICCAI 2024 to give a keynote on his work 🤩 Also, after all these years I’ve finally met **Saiph Savage**, who also gave an amazing talk. 
