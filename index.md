@@ -68,19 +68,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/UK_hamlyn.png)
 
-The second visit was to **UCL - Univ. College London**, specifically to the **“Welcome EPSRC centre intervent. + surgical sciences”** with **Sophia Bano** and **Francisco Vasconcelos** 😀 Sophia and me did both the Erasmus Mundus MSc in Computer Vision and Robotics (Vibot) and I am really grateful for the opportunity to meet her again 👏🏻
+The second visit we did in London was to **UCL - Univ. College London**, specifically to the **“Welcome EPSRC centre intervent. + surgical sciences”** with **Sophia Bano** and **Francisco Vasconcelos** 😀 Sophia and me did both the Erasmus Mundus MSc in Computer Vision and Robotics (Vibot) and I am really grateful for the opportunity to meet her again 👏🏻 We have been working on some realated topics, specificlaly around 3D colon reconstruction, and we learned a lot about setting up prototypes for better showing our demos and projects!
 
 >> ![ ](/uk_ucl.png)
 
-**Day 3 anf 4** So many thanks to **Samuel Montero** and the great **Felipe Orihuela** for inviting me to give a seminar for the **Perception, Language and Action Reseearch Group** at **University of Birmingham** 😊 The students were super nice &  the opportunity to showcase the research done CV-inside lab was really something 🤩
+**Day 3 and 4** A large of this visit was planned before **MICCAI 2024 (Marrakesh)** and the idea was to finlize the agenda after meeting some people at the conference. We managed to make new connections over there, and in particular I wish to thank professors **Samuel Montero** and the great **Felipe Orihuela** for inviting me to give a seminar for the **Perception, Language and Action Reseearch Group** at **University of Birmingham** during our first meeting in Morocco 😊  We spent a couple of days in Birmingham meeting new people and the students were super nice.  Also, the opportunity to showcase the research done CV-inside lab was really something 🤩
 
 >> ![ ](/UK_birmingham.png)
 
-Thanks so much to Sharib Ali for his work on putting together a seminar in the context of our academic visit to UK ☺️ CV-inside lab & the AIMS team have been working for some time now (since 21) and it was nice to meet other members of the University of Leeds School of Computing such as Netta Cohen, Mehmet Dogar (both working some super cool robotics stuff) but also David Hogg and Tony Cohn (whose work on computer vision and multimodal is really nice). 
+**Days 5 and 6** Since 2021, our collaboration with the **AIMS Group** at the **University of Leeds** has been ongoing, making it fitting to conclude our UK visit with time spent there. I'd like to express my gratitude to Prof. Sharib Ali for organizing a seminar with other university members as part of this academic visit 😊. It was a pleasure to interact with fellow members of the University of Leeds School of Computing, including Netta Cohen and Mehmet Dogar (both involved in fascinating robotics research), as well as David Hogg and Tony Cohn (known for their impressive work in computer vision and multimodal studies). We explored various possibilities for fostering collaboration between our institutions, toured some impressive laboratories, and even made progress on planning the **Conference on Medical Image Understanding and Analysis**! 
 
 >> ![ ](/UK_leeds1.png)
 
-This is a continuation of our Worlwide Universities Network (WUN) funded Optimise Project 😉 Thanks to the Leeds team for making this visit so productive ! 😀
+This is a continuation of our **Worlwide Universities Network (WUN)** funded **Optimise Project** 😉 Thanks to the Leeds team for making this visit so productive ! 😀
 
 >> ![ ](/UK_leeds2.png)
 
@@ -98,7 +98,7 @@ This year our lab had a blast in the conference: two of the students of my CV-in
 
 >> ![ ](/MexMICAI2.png)
 
-I am super grateful for the opportunity to have been a program chair of MICAI2024 of the Mexican AI Society (SMIA) 🤩Thanks to President Lourdes Martinez and Hiram Ponce for the support and  José Carranza for his work c/ local chair at INAOE ☺️
+I am super grateful for the opportunity to have been a program chair of MICAI2024 of the Mexican AI Society (SMIA) 🤩Thanks to **President Lourdes Martinez** and **Hiram Ponce** for the support and  José Carranza for his work c/ local chair at INAOE ☺️
 It is an honor to work together with the SMIA and the AI ​​community in Mexico (AMEXCOMP) since I can see everyone's passion for making computer science more accessible to everyone 🥰
 
 >> ![ ](/MexMICAI4.jpeg)
