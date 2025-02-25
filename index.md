@@ -62,6 +62,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**February 15th, 2025** I have been invitied as a **sportlight** speaker at  **Khipu 2024**. I am so flattered by this opportunity 😃 ! Looking forward to meet all this amazing people in the Khipu "Latin American Meeting in Artificial Intelligence" So great to see so many friends I've met **Latinx in AI (LXAI)** through the last 5 years! I am so happy to present the research of my group CV-inside lab and to be among so many amazing speakers! 
+
+>> ![ ](/khipu.png)
+
+***January 25th, 2025** We are super happy as our special track "Trustworthy AI for Computer Assisted Diagnosis and Intervention" has been accepted for the 2025 edition of MIUA or the Conference on Medical Image Understanding and Analysis! 😊 Myself and Estefanía Talavera and Binod Bhattarai will be working to make this a very successful track and we expect your contributions in this important domain! Some of the best papers will be selected for a special issue!
+
+>> ![ ](/MIUA2024-st.png)
+
 **November 6th-10th, United Kingdom**
 
 **Day 1 and 2** This week a group of colleagues and myself will be visiting some of the leading academic institutions in UK in the fields of minimally invasive surgery, as well as cancer research and computer assisted interventions and robotics. We started our academic mission in UK with a visit to **Prof Kirill Veselkov** from the **Dept of Surgery and Cancer** at the **Imperial College**! We continued our visit at **The Hamlyn Centre**  with **Prof. Stamatia Ginnarou**. Thnak you both for such a wonderful reception ☺️ We are really inspired and looking forward to collaborate!
