@@ -62,7 +62,35 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**February 15th, 2025** I have been invitied as a **sportlight** speaker at  **Khipu 2024**. I am so flattered by this opportunity 😃 ! Looking forward to meet all this amazing people in the Khipu "Latin American Meeting in Artificial Intelligence" So great to see so many friends I've met **Latinx in AI (LXAI)** through the last 5 years! I am so happy to present the research of my group CV-inside lab and to be among so many amazing speakers! 
+**March 10th-14th, 2024, Santiago de Chile** This week I attended **Khipu 2025**, whicn tool palce at the **Universidad Catolica de Chile**. It was great to be back in this super nice city (Santiago de Chile) and to meet so many friends from **Latinx in AI (LXAI)** and from **ISBI and **MICCAI**! I was also super glad to meet so many students that have been part of our **mentoring programs** with LXAI and **Google Explore CSR**! I was also super happy to see some students from Mexico (CIMAT, IMAS-UNAM)
+
+>> ![ ](/Khipu0.png)
+
+During th event, I have two talks: in the first I was a spotligh from Mexico
+
+>> ![ ](/Khipu1.png)
+
+It was great to showcase the research we do at Tecnológico de Monterrey and in our Advance AI Research Group! 😁 
+
+>> ![ ](/Khipu2.png)
+
+I also had the opprtunity to show what we do at **CV-inside lab** and my collabs with colleagues for projects with NVIDIA and **Google Explore CSR**. Also i have to acknowledge the **Microsoft AI for Good lab** for all their support in the last two years and for its coming next! 🥳 Finally but not least, I wore my hat as part of the Sociedad Mexicana de IA (SMIA) to invite people to come to MICAI!
+
+>> ![ ](/Khipu3.png)
+
+The second talk was during  parallel session on computer vision, where I presented some of the work we do on 3D reconstruction and image enhancement with CV-inside lab (Carlos Axel García Vega and Ricardo Espinosa). 
+
+>> ![ ](/Khipu4.png)
+>> ![ ](/Khipu5.png)
+
+Super cool speakers in this session, Camila Gonzalez (Stanford) and Rafael Grompone (Univ. Paris Saclay).
+My prophecy on the future of compiten visión: more people will go back to study physics and less AI 😌
+
+>> ![ ](/Khipu6.png)
+>> ![ ](/Khipu7.png)
+
+
+**February 15th, 2025** I have been invitied as a **spotlight** speaker at  **Khipu 2024**. I am so flattered by this opportunity 😃 ! Looking forward to meet all this amazing people in the Khipu "Latin American Meeting in Artificial Intelligence" So great to see so many friends I've met **Latinx in AI (LXAI)** through the last 5 years! I am so happy to present the research of my group CV-inside lab and to be among so many amazing speakers! 
 
 >> ![ ](/khipu.png)
 
