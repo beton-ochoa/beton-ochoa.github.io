@@ -69,11 +69,11 @@ This high impact research is quite important to show the translation of AI syste
 **Project: Artificial Intelligence for Surgical Training Towards Safer and Effective Sub-mucosal Dissection**
 
 Partners
-University of Leeds (leader)
-The Chinese University of Hong Kong
-University of Exeter
-Tecnologico de Monterrey
-The Leeds Teaching Hospitals NHS Trust
+* University of Leeds (leader)
+* The Chinese University of Hong Kong
+* University of Exeter
+* Tecnologico de Monterrey
+* The Leeds Teaching Hospitals NHS Trust
 
 >> ![ ](/Leeds_WUN_2025.png)
 
