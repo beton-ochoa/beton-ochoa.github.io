@@ -62,6 +62,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 15th, 2024** Very glad to continue our collaborations with the **AIMS team** led by **Sharib Ali** through this **Worldwide Universities Network (WUN)** project ☺️
+
+This high impact research is quite important to show the translation of AI systems for medical applications as well as the training of clinicians to use these technologies ☺️
+
+**Project: Artificial Intelligence for Surgical Training Towards Safer and Effective Sub-mucosal Dissection**
+
+Partners
+University of Leeds (leader)
+The Chinese University of Hong Kong
+University of Exeter
+Tecnologico de Monterrey
+The Leeds Teaching Hospitals NHS Trust
+
+
+
 **March 10th-14th, 2024, Santiago de Chile** This week I attended **Khipu 2025**, whicn tool palce at the **Universidad Catolica de Chile**. It was great to be back in this super nice city (Santiago de Chile) and to meet so many friends from **Latinx in AI (LXAI)** and from **ISBI and **MICCAI**! I was also super glad to meet so many students that have been part of our **mentoring programs** with LXAI and **Google Explore CSR**! I was also super happy to see some students from Mexico (CIMAT, IMAS-UNAM)
 
 >> ![ ](/Khipu0.png)
