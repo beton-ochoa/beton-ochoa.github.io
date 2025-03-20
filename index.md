@@ -75,7 +75,7 @@ University of Exeter
 Tecnologico de Monterrey
 The Leeds Teaching Hospitals NHS Trust
 
-
+>> ![ ](/Leeds_WUN_2025.png)
 
 **March 10th-14th, 2024, Santiago de Chile** This week I attended **Khipu 2025**, whicn tool palce at the **Universidad Catolica de Chile**. It was great to be back in this super nice city (Santiago de Chile) and to meet so many friends from **Latinx in AI (LXAI)** and from **ISBI and **MICCAI**! I was also super glad to meet so many students that have been part of our **mentoring programs** with LXAI and **Google Explore CSR**! I was also super happy to see some students from Mexico (CIMAT, IMAS-UNAM)
 
