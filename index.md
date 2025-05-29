@@ -73,6 +73,8 @@ This papes stem from a collaboration with **Centre de Recherche en Automatique d
 
 **"PolypDINO: Adapting DINOv2 for domain generalized polyp segmentation"** by Mansoor Ali, a collboration with **University of Leeds** in the context of a WUN- Worldwide Universities Network funded project
 
+>> ![ ](/miua-accepted.png)
+
 **March 15th, 2024** Very glad to continue our collaborations with the **AIMS team** led by **Sharib Ali** through this **Worldwide Universities Network (WUN)** project ☺️
 
 This high impact research is quite important to show the translation of AI systems for medical applications as well as the training of clinicians to use these technologies ☺️
