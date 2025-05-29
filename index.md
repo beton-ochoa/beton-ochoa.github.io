@@ -62,6 +62,18 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**May 28th, 2025, Twente, Neatherlands:** Today, **Francisco Lopez-Tiro**, PhD student from **CV-inside lab** gave a talk about his research at the **University of Twente** (Neatherlands). His PhD is funded by **SECIHTI** and the ECOS Nord French government grant “ML-inside” and he obtained a **French Embassy Scholarship** for pursuing a joint diploma with the Centre de Recherche en Automatique de Nancy (CRAN). His work **“Toward Real-time Kidney Stone Recognition: Deep Learning Approaches for Endoscopic imaging”** seeks to develop intra-operative CAD tools for automating the morpho-constitutional analysis used by urologists in the clinical practice. Thanks to **Estefanía Talavera** for the invitation!
+
+**May 27th, 2025** Today we had the thesis defense our **MSc** student **Ilse Karena de Anda García** in the context of the Mexican-French project ML-inside (mostly surgical data science topics). Her work entitled **"An Explainable AI-Based System for Kidney Stone Classification Using Color and Texture Descriptors"** was a continuation of one of the sub-projects, oriented towards ureteroscopic kidney stone recogntion, which we have been working for some time with **Prof. Christian Daul** from CRAN/ Universite de Lorraine. Congrats Ilse CV-inside lab! We will be working on some conference and journal papers from now on!
+
+**May 14th, 2025** We are quite happy today in our CV-inside lab! The notitifications for **MIUA 2025 (Leeds, United Kingdom)** are out and we got 2 papers accepted in the conference!
+
+**"Assessing the generalization performance of SAM for ureteroscopy scene segmentation and understanding"** - Francisco Lopez-Tiro and our intern from biomedical engineering (Martin Villagrana). 
+
+This papes stem from a collaboration with **Centre de Recherche en Automatique de Nancy** (CRAN, France) as part of an Ecos Nord Mexican French Grant!
+
+**"PolypDINO: Adapting DINOv2 for domain generalized polyp segmentation"** by Mansoor Ali, a collboration with **University of Leeds** in the context of a WUN- Worldwide Universities Network funded project
+
 **March 15th, 2024** Very glad to continue our collaborations with the **AIMS team** led by **Sharib Ali** through this **Worldwide Universities Network (WUN)** project ☺️
 
 This high impact research is quite important to show the translation of AI systems for medical applications as well as the training of clinicians to use these technologies ☺️
