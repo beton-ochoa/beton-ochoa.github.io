@@ -61,6 +61,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **May 28th, 2025, Twente, Neatherlands:** Today, **Francisco Lopez-Tiro**, PhD student from **CV-inside lab** gave a talk about his research at the **University of Twente** (Neatherlands). His PhD is funded by **SECIHTI** and the ECOS Nord French government grant “ML-inside” and he obtained a **French Embassy Scholarship** for pursuing a joint diploma with the Centre de Recherche en Automatique de Nancy (CRAN). His work **“Toward Real-time Kidney Stone Recognition: Deep Learning Approaches for Endoscopic imaging”** seeks to develop intra-operative CAD tools for automating the morpho-constitutional analysis used by urologists in the clinical practice. Thanks to **Estefanía Talavera** for the invitation!
 
+>> ![ ](/paco-twente.png)
+
 **May 27th, 2025** Today we had the thesis defense our **MSc** student **Ilse Karena de Anda García** in the context of the Mexican-French project ML-inside (mostly surgical data science topics). Her work entitled **"An Explainable AI-Based System for Kidney Stone Classification Using Color and Texture Descriptors"** was a continuation of one of the sub-projects, oriented towards ureteroscopic kidney stone recogntion, which we have been working for some time with **Prof. Christian Daul** from CRAN/ Universite de Lorraine. Congrats Ilse CV-inside lab! We will be working on some conference and journal papers from now on!
 
 **May 14th, 2025** We are quite happy today in our CV-inside lab! The notitifications for **MIUA 2025 (Leeds, United Kingdom)** are out and we got 2 papers accepted in the conference!
