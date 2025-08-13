@@ -61,9 +61,13 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **July 15th, Guadalajara, Mexico** This week we have students from the **Master in Applied Artificial Intelligence (MNA)** visiting us at Campus GDL, as part of an immersion program! Students from Chile, Colombia, El Salvador, and many other parts of Mexico are interacting with their professors, companies in the esophagus, and are also visiting the region. ☺️ We taught a **workshop “Computer Vision for Medical Diagnosis”** where we discussed CV-inside lab’s research in endoscopic imaging, specifically the kidney stone classification project with the Centre de Recherche Automatique de Nancy, and our federated learning projects with CINVESTAV Guadalajara. It went very well, thanks to Francisco López Tiro and Iván Reyes for their support!
 
+>> ![ ](/MNA_seminar.png)
+
 **July 10th, Madrid, Spain:** Last week **Francisco Lopez-Tiro** PhD student from CV-inside lab gave an oral presentation at the **IEEE Symposium on Computer Based Medical Systems (CBMS)** in **Madrid, Spain,** for his paper entitled “Evaluation of Few-Shot Learning Methods for Kidney Stone Type Recognition in Ureteroscopy” in collab with Carlos Eduardo Salazar Ruiz (recent graduate of biomedical engineering at Tec de Monterrey and intern in our group during the last year) 
 
 Francisco’s PhD is funded by **SECIHTI** and the **ECOS Nord French government** grant “ML-inside” and he obtained a French Embassy Scholarship for pursuing a joint diploma with the Centre de Recherche en Automatique de Nancy (CRAN). His work “ **Toward Real-time Kidney Stone Recognition: Deep Learning Approaches for Endoscopic imaging”** seeks to develop intra-operative CAD tools for automating the morpho-constitutional analysis used by urologists in the clinical practice.
+
+>> ![ ](/cbms_francisco.png)
 
 **May 28th, 2025, Twente, Neatherlands:** Today, **Francisco Lopez-Tiro**, PhD student from **CV-inside lab** gave a talk about his research at the **University of Twente** (Neatherlands). His PhD is funded by **SECIHTI** and the ECOS Nord French government grant “ML-inside” and he obtained a **French Embassy Scholarship** for pursuing a joint diploma with the Centre de Recherche en Automatique de Nancy (CRAN). His work **“Toward Real-time Kidney Stone Recognition: Deep Learning Approaches for Endoscopic imaging”** seeks to develop intra-operative CAD tools for automating the morpho-constitutional analysis used by urologists in the clinical practice. Thanks to **Estefanía Talavera** for the invitation!
 
