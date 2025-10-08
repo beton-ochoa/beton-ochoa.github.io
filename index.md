@@ -59,6 +59,36 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**July 15th-17th, 2025,Leeds, United Kingdom**: This week myself and two CV-inside lab students are in Leeds attending the **UK Conf. on Medical Imaging Understanding and Analysis (MIUA 25)**! Martin Villagrana, a bachelonr on biomedical engineering who did a 6 month intership in our labd also attended. This event was an excellent opportunity to network with the vibrant AI community here and look for new collaboration opportunities for our university 😃 We even had a small group of Mexican students
+
+>> ![ ](/MIUA1.png)
+
+were presented two papers in the conference
+
+**"Assessing the generalization performance of SAM for ureteroscopy scene segmentation and understanding"** - Francisco Lopez-Tiro and our intern from biomedical engineering (Martin Villagrana). 
+
+This paper stems from a collaboration with **Centre de Recherche en Automatique de Nancy** (CRAN, France) as part of an Ecos Nord Mexican French Grant!
+
+**"PolypDINO: Adapting DINOv2 for domain generalized polyp segmentation"** by Mansoor Ali, a collboration with **University of Leeds** in the context of a WUN- Worldwide Universities Network funded project
+
+>> ![ ](/MIUA2.png)
+
+**MIUA2025** is one of the leading events in UK and is going international for next year. The conference brough many of the brightest people working in the UK and Euorope in medical imaging. I worked as **sponsor and social media chair** and my PhD student Francisco worled as part of the organziation team of the **doctoral consortium**
+
+>> ![ ](/MIAU3.png)
+
+The event was a resounding success! 🎊🎉🍾 
+It was an amazing event. We had 67 high-quality full papers presented at the conference (45 oral presentations, 22 posters) split into 6 sessions. We also had 32 high-quality abstract posters. We had contributions from 23 countries (Mexico, Nepal , Netherlands, Norway, Pakistan, USA, Poland, Portugal, France, Switzerland, Portugal, UAE, among others) and several UK and Ireland institutions. 
+
+We also organized a very interesting discussion panel that brought together academics, clinicians and industry. There were several opportunities for exchanging ideas and networking, looking forward to seeing what collaborations stem from this edition of the conference!
+
+>> ![ ](/MIUA4.png)
+
+Next year marks a major milestone - the MIUA 2025 conference now turns 30 years! 
+**Stay tuned - MIUA 2026 will be a special one as is gonna take place in Dublin, Ireland!**
+
+>> ![ ](/MIUA5.jpg)
+
 **July 15th, Guadalajara, Mexico** This week we have students from the **Master in Applied Artificial Intelligence (MNA)** visiting us at Campus GDL, as part of an immersion program! Students from Chile, Colombia, El Salvador, and many other parts of Mexico are interacting with their professors, companies in the esophagus, and are also visiting the region. ☺️ We taught a **workshop “Computer Vision for Medical Diagnosis”** where we discussed CV-inside lab’s research in endoscopic imaging, specifically the kidney stone classification project with the Centre de Recherche Automatique de Nancy, and our federated learning projects with CINVESTAV Guadalajara. It went very well, thanks to Francisco López Tiro and Iván Reyes for their support!
 
 >> ![ ](/MNA_seminar.png)
