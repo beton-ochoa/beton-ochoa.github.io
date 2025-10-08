@@ -58,6 +58,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+
+**September 3rd - 5th, 2025, Arica, Chile**
+
+This week I had the pleasure of giving a keynote talk at **INFONOR** at the **Universidad of Tarapaca**, in northern Chile. This conference brings together students and academics from **Chile, Peru, Bolivia, and Ecuador**, and I have to say that the organizing committee's efforts to promote scientific vocations in this region of South America are commendable. 
+
+>> ![ ](/Infonor1.jpg)
+
+I am presenting our recent work on 3D reconstruction with Ricardo Espinosa from our CV-inside lab We hope you enjoyed it! It was a pleasure to meet people from the Latinx in AI (LXAI) community here in the event as well ☺️
+
+>> ![ ](/Infonor2.jpg)
+
 **July 15th-17th, 2025,Leeds, United Kingdom**: This week myself and two CV-inside lab students are in Leeds attending the **UK Conf. on Medical Imaging Understanding and Analysis (MIUA 25)**! Martin Villagrana, a bachelonr on biomedical engineering who did a 6 month intership in our labd also attended. This event was an excellent opportunity to network with the vibrant AI community here and look for new collaboration opportunities for our university 😃 We even had a small group of Mexican students
 
 >> ![ ](/MIUA1.png)
