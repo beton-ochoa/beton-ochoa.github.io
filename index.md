@@ -5,8 +5,7 @@
 ###   [Home](/index) • [Projects](/projects) • [Publications](/publications) • [Students](/students) • [Contact](/contact)
 
 ---
-
-  
+ 
 ### About me
 
 **Gilberto Ochoa Ruiz** is a researcher in **Computer Vision**, Machine Learning and Internet of Things affiliated to the  [**Advanced AI Research Group**]( https://tec.mx/es/investigacion/inteligencia-artificial-avanzada) at **Tecnologico de Monterrey**. He has participated as associated researcher and lecturer in several programs accredited by the CONAHCYT PNPC program, geared around Computer Science and Communication and Information Technologies. He obtained a master in **Computer Vision in Robotics** from [Heriot-Watt University](https://www.hw.ac.uk/)  and a PhD in Computer Vision and Electronic Imaging from the **Universite de Bourgogne**, in the [Laboratoire d'Imagerie et Vision Artificielle](https://imvia.u-bourgogne.fr/en/laboratory)). 
@@ -63,7 +62,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 >> ![ ](/MIUA1.png)
 
-were presented two papers in the conference
+We presented two papers at the conference
 
 **"Assessing the generalization performance of SAM for ureteroscopy scene segmentation and understanding"** - Francisco Lopez-Tiro and our intern from biomedical engineering (Martin Villagrana). 
 
@@ -78,7 +77,7 @@ This paper stems from a collaboration with **Centre de Recherche en Automatique 
 >> ![ ](/MIAU3.png)
 
 The event was a resounding success! 🎊🎉🍾 
-It was an amazing event. We had 67 high-quality full papers presented at the conference (45 oral presentations, 22 posters) split into 6 sessions. We also had 32 high-quality abstract posters. We had contributions from 23 countries (Mexico, Nepal , Netherlands, Norway, Pakistan, USA, Poland, Portugal, France, Switzerland, Portugal, UAE, among others) and several UK and Ireland institutions. 
+It was an amazing event. We had **67 high-quality full papers** presented at the conference (45 oral presentations, 22 posters) split into 6 sessions. We also had 32 high-quality abstract posters. We had contributions from 23 countries (Mexico, Nepal , Netherlands, Norway, Pakistan, USA, Poland, Portugal, France, Switzerland, Portugal, UAE, among others) and several UK and Ireland institutions. 
 
 We also organized a very interesting discussion panel that brought together academics, clinicians and industry. There were several opportunities for exchanging ideas and networking, looking forward to seeing what collaborations stem from this edition of the conference!
 
@@ -89,7 +88,7 @@ Next year marks a major milestone - the MIUA 2025 conference now turns 30 years!
 
 >> ![ ](/MIUA5.jpg)
 
-**July 15th, Guadalajara, Mexico** This week we have students from the **Master in Applied Artificial Intelligence (MNA)** visiting us at Campus GDL, as part of an immersion program! Students from Chile, Colombia, El Salvador, and many other parts of Mexico are interacting with their professors, companies in the esophagus, and are also visiting the region. ☺️ We taught a **workshop “Computer Vision for Medical Diagnosis”** where we discussed CV-inside lab’s research in endoscopic imaging, specifically the kidney stone classification project with the Centre de Recherche Automatique de Nancy, and our federated learning projects with CINVESTAV Guadalajara. It went very well, thanks to Francisco López Tiro and Iván Reyes for their support!
+**July 12nd, Guadalajara, Mexico** This week we have students from the **Master in Applied Artificial Intelligence (MNA)** visiting us at Campus GDL, as part of an immersion program! Students from Chile, Colombia, El Salvador, and many other parts of Mexico are interacting with their professors, companies in the esophagus, and are also visiting the region. ☺️ We taught a **workshop “Computer Vision for Medical Diagnosis”** where we discussed CV-inside lab’s research in endoscopic imaging, specifically the kidney stone classification project with the Centre de Recherche Automatique de Nancy, and our federated learning projects with CINVESTAV Guadalajara. It went very well, thanks to Francisco López Tiro and Iván Reyes for their support!
 
 >> ![ ](/MNA_seminar.png)
 
