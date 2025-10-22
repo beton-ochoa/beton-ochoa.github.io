@@ -58,6 +58,22 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**September 20-28th, 2025, Daejon, South Korea**
+
+This year I'm attending agian the **MICCAI Society International Conference on Medical Image Computing and Computer-Assisted Intervention** in Daejon, South Korea. Two students of CV-inside lab are coming with me this time:
+
+**Alexis Iván Escamilla López**, who will be presenting the poster **“Lesion-Aware Visual-Language Fusion for Automated Image Captioning of Ulcerative Colitis Endoscopic Examinations”** a collaboration with Sharib Ali of **University of Leeds** in the context WUN funded project at the Workshop on Data Engineering for Medical Imaging (DEMI) and
+
+**Ivan Reyes (CINVESTAV GDL)** who has an oral talk and poster at the DEMI Workshop, entitled **“Robust Federated Anomaly Detection Using Dual-Signal Autoencoders: Application to Kidney Stone Identification in Ureteroscopy”** a collaboration with Prof Christian Daul (CRAN France) in the context of an ECOS Nord CONAHCYT funded project
+
+The conference was also the oportunity to work on grants and project proposals with our collagues from Leeds and Aberdeen, and do make new contacts! We also finalized a journal paper for **Medical Image Analysis (Elsevier)**, the fruit of a collaboration with Sharib Ali with our joint PhD studnets **Mansoor Ali**
+
+>> ![ ](/MICCAI25a.png)
+
+During the conference **Alexis Lopez** and **Ivan Reyes** participated in the **DEMI (Data Engineering in Medical Imaging) workshop** and Iván (CINVESTAV Guadalajara, main advisor Andres Mendez-Vazquez) **won the award for best paper** for his work on federated learning applied to kidney stone classificaation during ureteroscopy. His work is part of a Franco-Mexican Ecos Nord project with **Prof. Christian Daul (CRAN)**
+
+>> ![ ](/MICCAI25b.png)
+
 
 **September 3rd - 5th, 2025, Arica, Chile**
 
