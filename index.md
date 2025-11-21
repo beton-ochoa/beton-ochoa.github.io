@@ -58,6 +58,24 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 20th, 2025, Guadalajara, Mexico**
+
+Congrats to CV-inside lab PhD student **Ricardo Espinosa** , who just defended his PhD thesis entitled **“Deep learning-based Image exposure correction and depth estimation for 3D cartography in endoscopy”**. Thanks to the commite members for all their help: **Marie Odile Berger** (INRIA Nancy), **David Fofi** (Université de Bourgogne), **Jean- Bernard Hayet** (Centro de Investigacion en Matematicas, CIMAT) and **Mariel Alfaro** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Christian Daul** for co-supervising this thesis through a joint PhD between Universidad Panamericana and Université de Lorraine. 
+ 
+This thesis research is the result of a collaboration with the **Centre de Recherche en Automatique de Nancy (CRAN, France)** for developing novel computer vision tools for endoscopy, trhough the ML-inside project. The project was funded by a French Mexican **CONAHCYT Ecos Nord - Goverment of France grant**. Furthermore, it has received funding from the Microsoft AI for Good program! Also, we have to acknowlege the French Embassy for providing a Join PhD Scholarship to Ricardo for carrying out his research during two stays in France.
+ 
+You can find more in a recent paper submitted to the journal **Computer Vision and Image Understanding (CVIU, Elsevier)** on SSRN “Transformer-Based Illumination Invariant Self-Supervised Monocular Depth Estimation in Endoscopy”: https://lnkd.in/gSFfCKJ4
+
+>> ![ ](/Defense_Ricardo.png)
+
+ **November 19th, 2025, Guadalajara, Mexico**
+
+ Congrats to CV-inside lab **Daniel Flores Araiza** , who just defended his PhD thesis entitled **“Enhanced Medical Image Explainability through Prototypical-Parts Learning”**. Thanks to the commite members for all their help: **Salvador Hinojosa** (Tec de Monterrey), **Andres Mendez Vazquez** (CINVESTAV) and **Christian Mata** (Universidad Politecnica de Catalunya) and to **Miguel Gonzalez-Mendoza** for co-supervising this super cool research for the last 5 years! Congrats Daniel! 
+ 
+A big part of this work is the result of a collaboration with **Prof. Christian Daul** from the Centre de Recherche en Automatique de Nancy (CRAN, France) and the Centre Hospitalier De Recherche de Nancy for developing tools for computer aided diagnosis for intra-operative endoscopic kidney stone recognition. The project was funded by a French **Mexican CONAHCYT Ecos Nord - Goverment of France** grant and has received funding from the Microsoft AI for Good program! You can find more in a recent paper on Artificial Intelligence in Medicine (AIIM, Elsevier) at: https://lnkd.in/gt_pkKTj
+
+>> ![ ](/Defensa_Daniel.png)
+
 **September 20-28th, 2025, Daejon, South Korea**
 
 This year I'm attending agian the **MICCAI Society International Conference on Medical Image Computing and Computer-Assisted Intervention** in Daejon, South Korea. Two students of CV-inside lab are coming with me this time:
