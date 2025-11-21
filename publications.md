@@ -3,7 +3,6 @@
 ###   [Home](/index) • [Projects](/projects) • [Publications](/publications) • [Students](/students) • [Contact](/contact)
 ---
 
-
 ### Selected publications
 
 * Daniel Flores-Araiza, Francisco Lopez-Tiro, Clément Larose, Salvador Hinojosa, Andres Mendez-Vazquez, Miguel Gonzalez-Mendoza, Gilberto Ochoa-Ruiz, Christian Daul, Improving prototypical parts abstraction for case-based reasoning explanations designed for the kidney stone type recognition, Artificial Intelligence in Medicine, Volume 170, 2025, 103266, ISSN 0933-3657
