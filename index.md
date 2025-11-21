@@ -76,6 +76,20 @@ A big part of this work is the result of a collaboration with **Prof. Christian 
 
 >> ![ ](/Defensa_Daniel.png)
 
+
+**November 5th to 8th,CIMAT Guanajuato, Mexico**
+
+This year, our lab participated with three papers at **MICAI 2025** in Guanajuato, Mexico.
+
+This year our lab hostrf the second edition of the **Medical Doman Adaptation (MeDA) challenge** at **MICAI2025**, organized by members of CV-inside lab (along with Ivan Reyes, and with evaluations by Antonio Low, Francisco Lopez-Tiro, and Alexis Escamilla López). For such a complex challenge, we had **10 participating teams**, from which we selected three: two from the **University of Sonora** (Unison) and one from the **University of Veracruz (UV)**. The two best teams were from Unison, with undergraduate students (and an incredible all-female team!). The prizes included attendance at the MICAI gala dinner, registration for COMIA 2026 and MICAI 2026, and an invitation to submit their articles to the special issue "Innovations in Artificial Intelligence for Medicine and Healthcare" in the journal Health Information Science and Systems (Springer). Thank you to everyone who participated!
+Mexican Society of AI (SMIA)
+
+>> ![ ](/MeDA25_challenge.png)
+
+This year we are super happy again as our PhD students **Ivan Reyes** (main advisor Andrés Méndez from CINVESTAV GDL) and Francisco Lopez-Tiro **won the best paper award** for their work on **federated learning applied to intra-operative kidney stone classification using transformers**.  This work is part of a Franco-Mexican Ecos Nord project with Prof. Christian Daul (CRAN, France)
+
+>> ![ ](/MICAI_2025.png)
+
 **September 20-28th, 2025, Daejon, South Korea**
 
 This year I'm attending agian the **MICCAI Society International Conference on Medical Image Computing and Computer-Assisted Intervention** in Daejon, South Korea. Two students of CV-inside lab are coming with me this time:
