@@ -58,7 +58,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**December 15th, Guadalajara, Mexico**
+
+Congrats to our student **Ivan Reyes**, who just defended his PhD thesis entitled **“Federated Learning and Robustness for Computer Vision Systems using Deep Learning”**. Ivan carried out his doctoral research at **CINVESTAV Guadalajara** under **Andres Mendez Vazquez** supervision, who kidnly invited me to co-supervise this thesis 4 years ago so Ivan joined the CV-inside lab as well!
+ 
+Ivan’s research is at the intersection of adversarial and natural robustness, federated learning and medical (endoscopic) imaging, and a large part of his academic output is the result of a collaboration with the **Centre de Recherche en Automatique de Nancy (CRAN, France)** for developing novel computer vision tools for endoscopy, through the ML-inside project. The project was funded by a **French Mexican CONAHCYT ECOS NORD - Goverment of France grant**, through which Ivan was also able to carry out an intenrship in Nancy, France.
+ 
+Furthermore, this research has received funding from the **Microsoft AI for Good** program and Google Explore Computer Science Research. Ivan presented his results in multiple AI venues(CVPR, MICAI, MICCAI, ISBI) and won multiple best paper awards! Many of these opportunities were possible thanks to the support of **Latinx in AI (LXAI)** with whom we are very grateful for their continual support! Ivan also helped us to organize a very successful series of tutorials on MLOPs for medical imaging and the MeDA challenge at Sociedad Mexicana de IA (SMIA) COMIA and MICAI conferences!
+
+>> ![ ](/ivan-defense25.png)
+
 **November 26th-28th, 2025, Santiango de Chile**
+
+Many thanks to my colleagues at the **Universidad of Los Andes** for inviting me to speak at the 4th Workshop on Computer Vision and as the **keynote speaker** at the **20th Summer School on Computational Intelligence (EVIC 2025)**. In both talks, I presented our research on computer vision for endoscopy and minimally invasive surgery apps, developed with students from the CV-inside lab. Thank you, **Jose Delpiano** and **Jose M. Saavedra**, for your hospitality, as well as **Carla Vairetti** for organizing this incredible event. I believe we will find ways to carry out some very interesting collaborative projects!
 
 **November 25th, 2025, Santiango de Chile**
 
@@ -68,11 +80,11 @@ I was invited by **Prof. Jose Saavedra** from **Universidad de los Andes** to gi
 
 **November 24th, 2025** Congrats to CV-inside lab PhD student **Mansoor Ali** , who just defended his PhD thesis entitled **“Generalizable computer vision methods for endoscopic surveillance and surgical interventions”**. Thanks to the commite members for all their help: **Carlos Brito** (Universidad Autonoma de Yucatan), **Miguel Gonzalez-Mendoza** and **Jose Antonio Cantoral-Ceballos** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Sharib Ali** co-supervising this thesis during the last 4 years! 
 
->> ![ ](/mansoor-defense25.png)
-
 This thesis research is the result of a collaboration with the **AIMS lab** at **University of Leeds** (United Kingdom) for developing novel computer vision tools and datasets for laparoscopic interventions, through the **Optimise project** (Novel robust computer vision methods and synthetic datasets for minimally invasive surgery). This project was funded by **Worldwide Universities Network (WUN)** grant, which enabled Mansoor to spend 6 months in UK and to do multoiple research visites for the PIs. It has also received funding from the Microsoft AI for Good program in the form of cloud credits for training models. 
  
  The research of Mansoor has been published in several workshops in MICCAI, journals papers and recent results have been submitted to **Medical Image Analysis (Elsevier)**. He did a really good work and we are super happy to have it in another project with Holos Research for minimally invasive surgery for cararact surgeries!
+
+ >> ![ ](/mansoor-defense25.png)
 
 **November 20th, 2025, Guadalajara, Mexico**
 
