@@ -62,7 +62,7 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 **November 25th, 2025, Santiango de Chile**
 
-I was i invited by **Prof. Jose Saavedra** from **Universidad de los Andes** to give a talkin the **IV Workshop on Computer Vision**, organized by several universities here in Chile. The event had great keynotes by **Prof. Yi-Zhe Song** (University of Surrey, UK) and Profs. **Laurent Heutte** and  **Simon Bernard** (Université de Rouen, France) and several oral and poster presentatiosn done by studnets in the region. It was super fascinating and interesting to have so many good interactions!
+I was i invited by **Prof. Jose Saavedra** from **Universidad de los Andes** to give a talk in the **IV Workshop on Computer Vision**, organized by several universities here in Chile. The event had great keynotes by **Prof. Yi-Zhe Song** (University of Surrey, UK) and Profs. **Laurent Heutte** and  **Simon Bernard** (Université de Rouen, France) and several oral and poster presentatiosn done by students in the region. It was super fascinating and interesting to have so many good interactions!
 
 **November 24th, 2025** Congrats to CV-inside lab PhD student **Mansoor Ali** , who just defended his PhD thesis entitled **“Generalizable computer vision methods for endoscopic surveillance and surgical interventions”**. Thanks to the commite members for all their help: **Carlos Brito** (Universidad Autonoma de Yucatan), **Miguel Gonzalez-Mendoza** and **Jose Antonio Cantoral-Ceballos** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Sharib Ali** co-supervising this thesis during the last 4 years! 
 
