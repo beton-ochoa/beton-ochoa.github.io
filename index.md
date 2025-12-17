@@ -72,6 +72,8 @@ Furthermore, this research has received funding from the **Microsoft AI for Good
 
 Many thanks to my colleagues at the **Universidad of Los Andes** for inviting me to speak at the 4th Workshop on Computer Vision and as the **keynote speaker** at the **20th Summer School on Computational Intelligence (EVIC 2025)**. In both talks, I presented our research on computer vision for endoscopy and minimally invasive surgery apps, developed with students from the CV-inside lab. Thank you, **Jose Delpiano** and **Jose M. Saavedra**, for your hospitality, as well as **Carla Vairetti** for organizing this incredible event. I believe we will find ways to carry out some very interesting collaborative projects!
 
+>> ![ ](/evic-chile-keynote.png)
+
 **November 25th, 2025, Santiango de Chile**
 
 I was invited by **Prof. Jose Saavedra** from **Universidad de los Andes** to give a talk in the **IV Workshop on Computer Vision**, organized by several universities here in Chile. The event had great keynotes by **Prof. Yi-Zhe Song** (University of Surrey, UK) and Profs. **Laurent Heutte** and  **Simon Bernard** (Université de Rouen, France) and several oral and poster presentatiosn done by students in the region. It was super fascinating and interesting to have so many good interactions!
