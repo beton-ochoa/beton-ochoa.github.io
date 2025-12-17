@@ -58,6 +58,8 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+
+
 **December 15th, Guadalajara, Mexico**
 
 Congrats to our student **Ivan Reyes**, who just defended his PhD thesis entitled **“Federated Learning and Robustness for Computer Vision Systems using Deep Learning”**. Ivan carried out his doctoral research at **CINVESTAV Guadalajara** under **Andres Mendez Vazquez** supervision, who kidnly invited me to co-supervise this thesis 4 years ago so Ivan joined the CV-inside lab as well!
@@ -67,6 +69,14 @@ Ivan’s research is at the intersection of adversarial and natural robustness, 
 Furthermore, this research has received funding from the **Microsoft AI for Good** program and Google Explore Computer Science Research. Ivan presented his results in multiple AI venues(CVPR, MICAI, MICCAI, ISBI) and won multiple best paper awards! Many of these opportunities were possible thanks to the support of **Latinx in AI (LXAI)** with whom we are very grateful for their continual support! Ivan also helped us to organize a very successful series of tutorials on MLOPs for medical imaging and the MeDA challenge at Sociedad Mexicana de IA (SMIA) COMIA and MICAI conferences!
 
 >> ![ ](/ivan-defense25.png)
+
+**December 2nd to 6th, Mexico City, NeurIPS**
+
+This year we attended the **2025 edition of NeurIPS**, with its first antenna event ever, in **Mexico City**,  as part of the organizing team 
+(serving as **next generation chair**) with members of Latinx in AI (LXAI), friends of the Sociedad Mexicana de IA (SMIA) and many others 😇!
+It’s an honor to have such an event in LATAM and in particular in México 🥰 The whole event ran very smoothly and we met super interesting people from industry and academia. Thanks a lot to **Laura N Montoya** and the team for inviting me to contribute! 😇
+
+>> ![ ](/neurips-cdmx.png)
 
 **November 26th-28th, 2025, Santiango de Chile**
 
