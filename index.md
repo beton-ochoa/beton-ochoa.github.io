@@ -58,6 +58,18 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 26th-28th, 2025, Santiango de Chile**
+
+**November 25th, 2025, Santiango de Chile**
+
+I was i invited by **Prof. Jose Saavedra** from **Universidad de los Andes** to give a talkin the **IV Workshop on Computer Vision**, organized by several universities here in Chile. The event had great keynotes by **Prof. Yi-Zhe Song** (University of Surrey, UK) and Profs. **Laurent Heutte** and  **Simon Bernard** (Université de Rouen, France) and several oral and poster presentatiosn done by studnets in the region. It was super fascinating and interesting to have so many good interactions!
+
+**November 24th, 2025** Congrats to CV-inside lab PhD student **Mansoor Ali** , who just defended his PhD thesis entitled **“Generalizable computer vision methods for endoscopic surveillance and surgical interventions”**. Thanks to the commite members for all their help: **Carlos Brito** (Universidad Autonoma de Yucatan), **Miguel Gonzalez-Mendoza** and **Jose Antonio Cantoral-Ceballos** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Sharib Ali** co-supervising this thesis during the last 4 years! 
+
+This thesis research is the result of a collaboration with the **AIMS lab** at **University of Leeds** (United Kingdom) for developing novel computer vision tools and datasets for laparoscopic interventions, through the **Optimise project** (Novel robust computer vision methods and synthetic datasets for minimally invasive surgery). This project was funded by **Worldwide Universities Network (WUN)** grant, which enabled Mansoor to spend 6 months in UK and to do multoiple research visites for the PIs. It has also received funding from the Microsoft AI for Good program in the form of cloud credits for training models. 
+ 
+ The research of Mansoor has been published in several workshops in MICCAI, journals papers and recent results have been submitted to **Medical Image Analysis (Elsevier)**. He did a really good work and we are super happy to have it in another project with Holos Research for minimally invasive surgery for cararact surgeries!
+
 **November 20th, 2025, Guadalajara, Mexico**
 
 Congrats to CV-inside lab PhD student **Ricardo Espinosa** , who just defended his PhD thesis entitled **“Deep learning-based Image exposure correction and depth estimation for 3D cartography in endoscopy”**. Thanks to the commite members for all their help: **Marie Odile Berger** (INRIA Nancy), **David Fofi** (Université de Bourgogne), **Jean- Bernard Hayet** (Centro de Investigacion en Matematicas, CIMAT) and **Mariel Alfaro** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Christian Daul** for co-supervising this thesis through a joint PhD between Universidad Panamericana and Université de Lorraine. 
