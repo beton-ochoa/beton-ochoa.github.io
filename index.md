@@ -98,6 +98,29 @@ This thesis research is the result of a collaboration with the **AIMS lab** at *
 
  >> ![ ](/mansoor-defense25.png)
 
+**Novembeer 21st, 2025, London, UK**
+
+Interested in exploring **AI in endoscopic data science** challenges? 
+
+**EndoCV challenges** has been forefront in organising various endoscopic data related challenges. They have contributed to various high-impact papers in top-tier journals, including **Medical Image Analysis**, and Nature journals Scientific Reports and Scientific Data. Furthermore, they have contributed to several open datasets that have been widely used in the research community. 
+
+This year EndoCV have launched **EndoUC challenge** focused on **"solving ulcerative colitis (UC) through AI"**. UC is a condition identified in hashtag#colonoscopy which is often difficult to assess by clinical team. EndoCV will work with **IEEE ISBI 2026** (for the fifth time) to deliver this as high-quality challenge for developing cutting-edge data-driven hashtag#AI methods. With this challenge we will assess - encoder architectures, multimodal decoder architectures and generalisability of these. 
+
+**Noha Ghatwary** will be leading this initiative joined by **Jiangbei Yue**, **Sharib Ali** and myself. Also, several clinical colleagues.
+
+
+>> ![ ](/endouc-isbi.png)
+
+
+To participate please visit here: https://lnkd.in/dFc3byRe
+
+Participants will have opportunity to submit 4 page works to hashtag#IEEEISBI challenges. More info here: https://lnkd.in/dm7NTbhr
+
+EndoUC webpage: https://lnkd.in/dQABFv4i
+
+Industry sponsorship: If you are interested to sponsor this event then please reach out to endocv.challenges@gmail.com
+
+
 **November 20th, 2025, Guadalajara, Mexico**
 
 Congrats to CV-inside lab PhD student **Ricardo Espinosa** , who just defended his PhD thesis entitled **“Deep learning-based Image exposure correction and depth estimation for 3D cartography in endoscopy”**. Thanks to the commite members for all their help: **Marie Odile Berger** (INRIA Nancy), **David Fofi** (Université de Bourgogne), **Jean- Bernard Hayet** (Centro de Investigacion en Matematicas, CIMAT) and **Mariel Alfaro** (Tecnologico de Monterrey). Thanks a lot also to my colleague **Prof. Christian Daul** for co-supervising this thesis through a joint PhD between Universidad Panamericana and Université de Lorraine. 
