@@ -58,6 +58,20 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**April 1st, 2026, Guadalajara, Mexico**: On **13th April 2026** (8:30 - 16:00) at **University of Leeds**, we will be exploring **"Challenges and Opportunities in AI for Medicine and Surgery"** together with the world leading experts in medical imagea nalysis and surgical computer vision. 
+
+Speakers include: 
+**Qi Dou** (The Chinese University of Hong Kong)
+**Moi Hoon Yap** (The Manchester Metropolitan University)
+**Bartlomiej Papiez** (University of Oxford)
+**Gilberto Ochoa-Ruiz** (Tecnológico de Monterrey)
+**Bashar Al-Qaisieh** and colleagues (Leeds Teaching Hospitals NHS Trust)
+**Yang Hu** (University of Leicester)
+**Toni Lassila, Duygu Sarıkaya and Sharib Ali** (University of Leeds)
+**Karen Steenson**, Ph.D and Siddeequah Azmi from the Research and innovation services - University of Leeds
+
+>> ![ ](/leeds-workshop2026.png)
+
 **March 15th, Guadalajara, Mexico**: We are glad to announce that the **Multidisciplinary Evaluation & Translation in Imaging & CAI Science (METIS) Workshop** has beeen accepted for **MICCAI 2026 in Abu Dhabi**!!!
 
 Linking Clinical & Computational Communities for the Next Generation of Medical Imaging AI
@@ -70,7 +84,7 @@ Dr. Gilberto Ochoa Ruiz will be serving as part of the organizing committte, mno
 
 >> ![ ](/metis-miccai.png)
 
-**March 12th, Monterrey, Mexico**: 🚀 We are thrilled to share this achievement of one of **CV-inside** inters from the Bacheors in Robotics Engineering, **Ricardo Gutierrez Juarez** as he was recognized with the award for best poster presentation in the **Artificial Intelligence category** at the **Next-Gen Scientists Conference 2026** at Tecnológico de Monterrey for the project:
+**March 12th, 2026, Monterrey, Mexico**: 🚀 We are thrilled to share this achievement of one of **CV-inside** inters from the Bacheors in Robotics Engineering, **Ricardo Gutierrez Juarez** as he was recognized with the award for best poster presentation in the **Artificial Intelligence category** at the **Next-Gen Scientists Conference 2026** at Tecnológico de Monterrey for the project:
 
 **KriaPlug-Vision: Reproducible Deployment of Real-Time Semantic Segmentation on an FPGA (Kria KV260)**
 
@@ -85,11 +99,11 @@ Dr. Gilberto Ochoa Ruiz will be serving as part of the organizing committte, mno
 
 💡 The goal of KriaPlug-Vision is to bridge the gap between research models and production embedded systems, enabling efficient computer vision directly at the edge, congrats to Ricardo
 
-**January 7th, Guadalajara, Mexico**: Dr. Gilberto Ochoa Ruiz has just been appointed as **associated edtitor** for the jounral **Artificial Intelligence in Medicine (AIIM)** from **Elsevier**!!! AIIM is one of the top ranked journnals in the domain! Congrats!
+**January 7th, 2026, Guadalajara, Mexico**: Dr. Gilberto Ochoa Ruiz has just been appointed as **associated edtitor** for the jounral **Artificial Intelligence in Medicine (AIIM)** from **Elsevier**!!! AIIM is one of the top ranked journnals in the domain! Congrats!
 
 >> ![ ](/editor-aiim.png)
 
-**December 15th, Guadalajara, Mexico**
+**December 15th, 2025, Guadalajara, Mexico**
 
 Congrats to our student **Ivan Reyes**, who just defended his PhD thesis entitled **“Federated Learning and Robustness for Computer Vision Systems using Deep Learning”**. Ivan carried out his doctoral research at **CINVESTAV Guadalajara** under **Andres Mendez Vazquez** supervision, who kidnly invited me to co-supervise this thesis 4 years ago so Ivan joined the CV-inside lab as well!
  
@@ -99,7 +113,7 @@ Furthermore, this research has received funding from the **Microsoft AI for Good
 
 >> ![ ](/ivan-defense25.png)
 
-**December 2nd to 6th, Mexico City, NeurIPS**
+**December 2nd to 6th, 2025, Mexico City, NeurIPS**
 
 This year we attended the **2025 edition of NeurIPS**, with its first antenna event ever, in **Mexico City**,  as part of the organizing team 
 (serving as **next generation chair**) with members of Latinx in AI (LXAI), friends of the Sociedad Mexicana de IA (SMIA) and many others 😇!
