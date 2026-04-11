@@ -58,6 +58,21 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**March 12th, Monterey, Mexico**: 🚀 We are thrilled to share this achievement of one of **CV-inside** inters from the Bacheors in Robotics Engineering, **Ricardo Gutierrez Juarez** as he was recognized with the award for best poster presentation in the **Artificial Intelligence category** at the **Next-Gen Scientists Conference 2026** at Tecnológico de Monterrey for the project:
+
+**KriaPlug-Vision: Reproducible Deployment of Real-Time Semantic Segmentation on an FPGA (Kria KV260)**
+
+>> ![ ](/premio-nextgen.png)
+
+🔬 What does this work demonstrate?
+
+- End-to-end reproducible Edge AI pipeline
+- PyTorch flow → structured pruning → INT8 quantization → deployment on a DPU
+- Real-time semantic segmentation on embedded FPGA hardware
+- Low-latency, deterministic inference for robotics and intelligent monitoring
+
+💡 The goal of KriaPlug-Vision is to bridge the gap between research models and production embedded systems, enabling efficient computer vision directly at the edge, congrats to Ricardo
+
 **January 7th, Guadalajara, Mexico**: Dr. Gilberto Ochoa Ruiz has just been appointed as **associated edtitor** for the jounral **Artificial Intelligence in Medicine (AIIM)** from **Elsevier**!!! AIIM is one of the top ranked journnals in the domain! Congrats!
 
 >> ![ ](/editor-aiim.png)
