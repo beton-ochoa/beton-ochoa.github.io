@@ -58,7 +58,9 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**January 7th, Guadalajara, Mexico**: Dr. Gilberto Ochoa Ruiz has just been appointed as **associated edtitor** for the jounral **Artificial Intelligence in Medicine (AIIM)** from **Elsevier**!!! AIIM is one of the top ranked journnals in the domain! Congrats!
 
+>> ![ ](/editor-aiim.png)
 
 **December 15th, Guadalajara, Mexico**
 
