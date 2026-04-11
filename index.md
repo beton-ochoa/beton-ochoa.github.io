@@ -58,7 +58,19 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**March 12th, Monterey, Mexico**: 🚀 We are thrilled to share this achievement of one of **CV-inside** inters from the Bacheors in Robotics Engineering, **Ricardo Gutierrez Juarez** as he was recognized with the award for best poster presentation in the **Artificial Intelligence category** at the **Next-Gen Scientists Conference 2026** at Tecnológico de Monterrey for the project:
+**March 15th, Guadalajara, Mexico**: We are glad to announce that the **Multidisciplinary Evaluation & Translation in Imaging & CAI Science (METIS) Workshop** has beeen accepted for **MICCAI 2026 in Abu Dhabi**!!!
+
+Linking Clinical & Computational Communities for the Next Generation of Medical Imaging AI
+Metis is an ancient Greek mythology goddess, representing the human form of wisdom, practical
+intelligence, and strategic thinking - exactly what is needed for the translation of MICCAI methods into the
+clinic. She also a symbol for bringing together different forms of knowledge – aligned with our workshop’s
+goal of bringing together clinical practice, imaging, AI, and computational science.
+
+Dr. Gilberto Ochoa Ruiz will be serving as part of the organizing committte, mnore detail comings soon!!!
+
+>> ![ ](/metis-miccai.png)
+
+**March 12th, Monterrey, Mexico**: 🚀 We are thrilled to share this achievement of one of **CV-inside** inters from the Bacheors in Robotics Engineering, **Ricardo Gutierrez Juarez** as he was recognized with the award for best poster presentation in the **Artificial Intelligence category** at the **Next-Gen Scientists Conference 2026** at Tecnológico de Monterrey for the project:
 
 **KriaPlug-Vision: Reproducible Deployment of Real-Time Semantic Segmentation on an FPGA (Kria KV260)**
 
