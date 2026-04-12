@@ -58,7 +58,18 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**April 1st, 2026, Guadalajara, Mexico**: On **13th April 2026** (8:30 - 16:00) at **University of Leeds**, we will be exploring **"Challenges and Opportunities in AI for Medicine and Surgery"** together with the world leading experts in medical imagea nalysis and surgical computer vision. 
+**April 11th, 2026, London, UK:** Thanks to all the teams for participating on our **EndoUC (Multimodal Ulcerative Colitis Challenge)** a part of **5th International EndoCV challenge** at **IEEE ISBI 2026** 
+
+This challenge edition would not be possible without hard works from Sharib Ali, Noha Ghatwary, Jiangbei Yue, Gilberto Ochoa-Ruiz and dedicated clinical team backing this up with their time, data and knowledge contributions. 
+
+Also, tremendous thanks to the general chairs of ISBI 2'026 for providing the support of USD $2000 for the challenge winners. Congratulations to the winning and runner up teams, both from **Manchester Metropolitan University**. Well done everyone and thank you for all your efforts and contributions.
+
+
+
+**April 1st, 2026, Guadalajara, Mexico**: On **13th April 2026** (8:30 - 16:00) at **University of Leeds**, we will be exploring **"Challenges and Opportunities in AI for Medicine and Surgery"** together with the world leading experts in medical image analysis and surgical computer vision. 
+
+
+>> ![ ](/endo-uc-isbi-2026.png)
 
 Speakers include: 
 **Qi Dou** (The Chinese University of Hong Kong)
