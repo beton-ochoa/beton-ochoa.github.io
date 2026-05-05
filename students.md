@@ -9,10 +9,28 @@
 
 **Tecnologico de Monterrey (main advisor or co-advisor)**
 
-* **Francisco Javier Lopez Tiro**,  Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques [[Github]](https://github.com/friscolt) <br />
+* **Jesus Antonio Low Castro**,  A novel multi-modal framework for intra-operarative endoscopic kidney stone recognition and report generation <br />
+ **Co-advisor:** *Christian Daul*,  CRAN, Nancy
+
+* **Alejandro Claros**  <br />
+  **Thesis Title**  Intraoperative anterior segment structures and instrument position estimation during 3D Cataract Surgery  <br />
+   **Advisor:** Miguel Gonzalez <br />
+
+* **Maria Camila Castaño Martínez**  <br />
+  **Thesis Title** Novel computer vision models for computer aided cataract  surgery using 3D microcoscopes  <br />
+  **Co-advisor:** Miguel Gonzalez <br />
+
+* **Diego Iván Heredia Camacho**  <br />
+  **Thesis Title** Explainable AI-assisted method for Polycystic Ovary Syndrome assessment and prognosis  <br />
+  **Advisor:** Salvador Miguel Hinojosa Cervantes <br />
+
+* **Francisco Javier Lopez Tiro** <br />
+  **Thesis Title**  Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques [[Github]](https://github.com/friscolt) <br />
  **Co-advisor:** *Christian Daul*,  CRAN, Nancy 
-* **Alexis Iván López Escamilla**, Deep learning for motor signal processing <br />
- **Co-advisor:** *Christian Daul*, CRAN, Nancy
+
+* **Alexis Iván López Escamilla**  <br />
+  **Thesis Title** Lightweight Transformers for Generative Medical Virtual Assistant Systems <br />
+ **Co-advisor:** N/A <br />
 
 ---
 
@@ -22,15 +40,18 @@
 
 **CTecnologico de Monterrey (advisor)**
 
-* **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception <br />
+* **Mansor Ali Teevno** <br />
+  **Thesis Title** Robust Surgical Tool Segmentation, Tracking and Depth Perception <br />
   **Co-advisor:** *Sharib Ali*, University of Leeds <br />
  **Current Position**: Postdoc: Advanced Materials Research Centre, ITESM  <br />
-* **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine  <br />
- **Co-advisor;** *Miguel Gonzalez Mondoza*, Tec de Monterrey <br />
+* **Daniel Flores Ariza**<br />
+  **Thesis Title** Integrating causality in the interpretability of artificial intelligence models applied to medicine  <br />
+  **Co-advisor;** *Miguel Gonzalez Mondoza*, Tec de Monterrey <br />
   **Current Position**: Research Engineer <br />
-* **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques <br />
- **Co-advisor:** *Christian Daul*,  CRAN, Nancy <br />
-    **Current Position**: Researcher/Professor Universidad Panamericana <br />
+* **Ricardo Abel Espinosa Loera**<br />
+  **Thesis Title** Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques <br />
+  **Co-advisor:** *Christian Daul*,  CRAN, Nancy <br />
+  **Current Position**: Researcher/Professor Universidad Panamericana <br />
 
 **CINVESTAV Guadalajara (co-advisor)**
 
