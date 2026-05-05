@@ -9,45 +9,51 @@
 
 **Tecnologico de Monterrey (main advisor or co-advisor)**
 
-* **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception <br />
-  **Co-advisor:** *Sharib Ali*, University of Leeds
-* **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine [[Github]](https://github.com/DanielF29) <br />
- **Co-advisor;** *Miguel Gonzalez Mondoza*, Tec de Monterrey
 * **Francisco Javier Lopez Tiro**,  Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques [[Github]](https://github.com/friscolt) <br />
  **Co-advisor:** *Christian Daul*,  CRAN, Nancy 
-* **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques <br />
- **Co-advisor:** *Christian Daul*,  CRAN, Nancy
-* **Pablo Cesar Ruiz**, Gaussian Splatting for Deformable Surgical Scene Reconstruction and instrument tracking <br />
- **Co-advisor:** *Nazim Houachine*, Harvard Medical School, USA  
 * **Alexis Iván López Escamilla**, Deep learning for motor signal processing <br />
  **Co-advisor:** *Christian Daul*, CRAN, Nancy
-
-**CINVESTAV Guadalajara (co-advisor)**
-
-* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
-* **Ivan Reyes Amezcua**, [[Github]](https://github.com/Ivanrs297) <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
-
-
-
----
-
-
-**Master  students**
-
-* **Helena Velencia**, Categorization of pre-cancerous inflammations in colonoscopic images using artificial intelligence models
-* **Ruben Gonzalez Perez**, Generation of Realistic Endoscopic Images to Identify and Classify Kidney Stones
-* **Cuathemoc Alonso Guerrero Ramirez**, Skill Assessment in Minimally Invasive Surgery using Computer Vision for Instance Segmentation
-* **Carlos**
-* **Obed**
-* **Eduardo Guarduño Martinez**, Implementation of optimized segmentation model on edge devices for wildfire spread forecasting
-* **Javier Cerriteño Magaña**, Real time Endoscopic image Enhancement using LMSPEC techniques with added attention blocks
-* **Jesus Antonio Low Castro**: Crowdsensing-based Wildland-Urban Interface Fire Risk Assessment Using Artificial Inteligence and data collected from phones
-* **Ilse Karena de Anda Garcia**, Exploring hyphesis driven decision support systems in the context of endoscopic stome recognition
 
 ---
 
 **Graduated  students**
 
+**PhD students**
+
+**CTecnologico de Monterrey (advisor)**
+
+* **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception <br />
+  **Co-advisor:** *Sharib Ali*, University of Leeds <br />
+ **Current Position**: Postdoc: Advanced Materials Research Centre, ITESM  <br />
+* **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine  <br />
+ **Co-advisor;** *Miguel Gonzalez Mondoza*, Tec de Monterrey <br />
+  **Current Position**: Research Engineer <br />
+* **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques <br />
+ **Co-advisor:** *Christian Daul*,  CRAN, Nancy <br />
+    **Current Position**: Researcher/Professor Universidad Panamericana <br />
+
+**CINVESTAV Guadalajara (co-advisor)**
+
+* **Jorge Gonzalez Zapata**, GEMINI: Guided Metric Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
+* **Ivan Reyes Amezcua**, Federated Learning and Robustness in Computer Vision Systems Using Deep Learning <br /> **Main advisor:** *Andres Mendez-Vazquez*, CINVESTAV
+
+**Masster students**
+
+* **Helena Velencia** <br />
+  **Thesis Title** Categorization of pre-cancerous inflammations in colonoscopic images using artificial intelligence models <br />
+* **Ruben Gonzalez Perez** <br />
+  **Thesis Title** Generation of Realistic Endoscopic Images to Identify and Classify Kidney Stones <br />
+  **Thesis Title** **Cuathemoc Alonso Guerrero Ramirez**, Skill Assessment in Minimally Invasive Surgery using Computer Vision for Instance Segmentation <br />
+* **Carlos** <br />
+  **Thesis Title**
+* **Eduardo Guarduño Martinez**, <br />
+  **Thesis Title** Implementation of optimized segmentation model on edge devices for wildfire spread forecasting <br />
+* **Javier Cerriteño Magaña** <br />
+  **Thesis Title**  Real time Endoscopic image Enhancement using LMSPEC techniques with added attention blocks <br />
+* **Jesus Antonio Low Castro** <br />
+  **Thesis Title** Crowdsensing-based Wildland-Urban Interface Fire Risk Assessment Using Artificial Inteligence and data collected from phones <br />
+* **Ilse Karena de Anda Garcia** <br />
+  **Thesis Title** Exploring hyphesis driven decision support systems in the context of endoscopic stome recognition <br />
 * **Elias Villalvazo Avila** <br />
   **Thesis Title** Improved Kidney Stone Recognition Through Attention and Feature Fusion Strategies <br />
 * **David Alberto Laines Vazquez** <br />
@@ -58,7 +64,7 @@
   **Thesis title**: Lights, Camera, and Domain Shift: Using Superpixels for Domain Generalization in Image Segmentation for Multimodal Endoscopies <br />
 * **Daniela Herrera Montes de Oca** <br />
  **Thesis Title**: Automatic segmentation and classification of vascular pattern symmetries on cerebral vessels using DL <br />
-  **Current Position**: Research Engineer: Hopital d'Orleans, France <br /> 
+  **Current Position**: PhD University of Twente, France <br /> 
 * **Pedro Esteban Chavarrias Solano** <br />
  **Thesis Title:** Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning <br />
  **Current Position**: *Phd: University of Leeds* <br />
@@ -79,6 +85,7 @@
 * **Oscar Hinojosa** <br />
  **Thesis title:** Automated classification method for ureteroscopic kidney stone images using machine learning  [[Github]](https://github.com/oscar09) <br />
  **Current Position**: *Amazon* <br />
+
 
 ---
 
