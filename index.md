@@ -64,9 +64,13 @@ Generalisable depth estimation with domain-invariant feature disentanglement for
 
 in collaboration with Sharib Ali, leader of of the AIMS group at University of Leeds. This was part of the Worldwide Universities Network funded Optimise project. Congrats Mansoor!
 
+>> ![ ](/MIUA2026.png)
+
 **April 15-16th, Strasbourg, France** We are very proud to share that the paper of our PhD student, **Francisco Lopez-Tiro,** which was recently presented  at the **SPIE Photonics Europe 2026** Conference,  received the **Best Paper Award**.
 
 The paper, **“Real-time Image Segmentation for Kidney Stone Identification using Light-weight AI Models”**, is the result of a fruitful international collaboration between Tecnológico de Monterrey and Université de Lorraine / CNRS, bringing together researchers from Mexico and France.
+
+>> ![ ](/spie2026.png)
 
 This research was developed within the framework of the **ML-inside Project**, funded by CONAHCYT (formerly CONACYT). 
 
