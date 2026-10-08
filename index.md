@@ -58,9 +58,17 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
-**July 20-22nd, 2026, Dublin, Ireland**: Our postdoct resrarcher **Dr Mansoor Ali** (who recently obtained his PhD in our CV-inside lab) is attending the **30th Conference on Medical Image Understanding and Analysis** in **University College Dublin** to present our work 
+**August 7th, 2026, CIMAT, Guanajuato, Mexico:** I’m very happy to have participated as a speaker at the **2026 IEEE Latin American School of Information Theory + Statistics **in Guanajuato to present some of our work CV-inside lab, along speakers from INRIA, UNAM, Columbia University, Arizona State University and IPN, among other institutions 
 
-Generalisable depth estimation with domain-invariant feature disentanglement for surgical scenes
+>> ![ ](/lasits2026.png)
+
+It was a wonderful opportunity to meet inspiring researchers from the **Center for Research in Mathematics (CIMAT)**, as well as many talented young scientists who are just beginning their research careers with great enthusiasm and passion.
+
+It has been a real pleasure to share this experience, exchange ideas, and be part of such a dynamic and vibrant community. I am truly grateful for the invitation and for this wonderful event 😁.
+
+**July 20-22nd, 2026, Dublin, Ireland**: Our postdoct researcher **Dr Mansoor Ali** (who recently obtained his PhD in our CV-inside lab) is attending the **30th Conference on Medical Image Understanding and Analysis** in **University College Dublin** to present our work 
+
+**"Generalisable depth estimation with domain-invariant feature disentanglement for surgical scenes"**
 
 in collaboration with Sharib Ali, leader of of the AIMS group at University of Leeds. This was part of the Worldwide Universities Network funded Optimise project. Congrats Mansoor!
 
