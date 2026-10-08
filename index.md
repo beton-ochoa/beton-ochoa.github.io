@@ -58,6 +58,30 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**September 28th, Strasbourg, France** It was a real pleasure to reconnect with the **Latin American community at MICCAI** this year. Our community continues to grow stronger and more visible every year, bringing together inspiring researchers, students, and collaborators from across the region.
+
+We are especially excited to see this momentum continue under the **leadership of Letícia Rittner toward MICCAI 2028 in Brazil**. Looking forward to seeing an even larger Latin American presence in the years ahead! 🇧🇷🌎
+
+>> ![ ](/miccai-latam.png)
+
+**Septemebr 27th, Strasbourg, France:** Our first day at MICCAI is underway, and we’re taking part in the **METIS Workshop**, kudos to the team Kathleen Curran Sharib Ali Bartlomiej Papiez and so many others!
+
+>> ![ ](/metis2026.png)
+
+It’s been also a wonderful opportunity to reconnect with friends and colleagues from the **Latinx in AI (LXAI)** community and **Khipu**, as well as with many others we’re fortunate to see year after year. There’s a great atmosphere throughout this edition of the conference, and it’s a pleasure to be here.
+
+
+**September 23-24th, Nancy, France** Yesterday, we had a very productive day in Nancy, with discussions and work alongside my colleague, **Prof. Christian Daul**, at the **Centre de Recherche en Automatique de Nancy (CRAN)**. We also held a kick-off meeting with Carsten Muller, CEO of the startup Telendo, to launch a new collaboration on the real-time classification of kidney stones using data from multiple countries.
+
+Today, we met with colleagues from the **Nancy University Hospital (CHU de Nancy)** and the **NGERE laboratory (Nutrition • Génétique • Exposition aux Risques Environnementaux)** to continue our projects on language models and explainable AI to help in the automating the morpho-constitutional analysis
+
+TODO
+
+
+It was a pleasure to share these discussions with my PhD students, **Francisco López Tiro** and **José Antonio Low Castro**, who are pursuing a joint PhD between Université de Lorraine and Tecnológico de Monterrey. We are also hosting the urologist intern Samuel Doerler next month in Mexico
+
+Many thanks to everyone involved. I’m looking forward to what we will accomplish together. Now, heading to Strasbourg for MICCAI 2026
+
 **August 7th, 2026, CIMAT, Guanajuato, Mexico:** I’m very happy to have participated as a speaker at the **2026 IEEE Latin American School of Information Theory + Statistics **in Guanajuato to present some of our work CV-inside lab, along speakers from INRIA, UNAM, Columbia University, Arizona State University and IPN, among other institutions 
 
 >> ![ ](/lasits2026.png)
