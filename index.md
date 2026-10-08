@@ -58,6 +58,14 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 1st, Strasbourg, France** It’s a pleasure to accompany our student **Antonio Low** from CV-inside lab , who is attending MICCAI for the first time, alongside his co-advisor, Prof. Christian Daul , from the Centre de Recherche en Automatique de Nancy (CRAN) at the University of Lorraine to present his work at the **Data Engineering in Medical Imaging (DEMI) Workshop**.
+
+Jesús Antonio’s thesis is part of the **ECOS Nord ML inside project** (in particular a working package on endoscopic  kidney stone aided diagnosis), a joint initiative sponsored by the governments of France and Mexico. The project has been underway for several years and continues to deliver very positive results.
+
+>> ![ ](/demi2026.png)
+
+It’s a wonderful opportunity to take part in this event and bring our whole team together. We’re delighted to share this experience and continue strengthening our collaboration!
+
 **September 28th, Strasbourg, France** It was a real pleasure to reconnect with the **Latin American community at MICCAI** this year. Our community continues to grow stronger and more visible every year, bringing together inspiring researchers, students, and collaborators from across the region.
 
 We are especially excited to see this momentum continue under the **leadership of Letícia Rittner toward MICCAI 2028 in Brazil**. Looking forward to seeing an even larger Latin American presence in the years ahead! 🇧🇷🌎
