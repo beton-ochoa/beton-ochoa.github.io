@@ -83,8 +83,7 @@ It’s been also a wonderful opportunity to reconnect with friends and colleague
 
 Today, we met with colleagues from the **Nancy University Hospital (CHU de Nancy)** and the **NGERE laboratory (Nutrition • Génétique • Exposition aux Risques Environnementaux)** to continue our projects on language models and explainable AI to help in the automating the morpho-constitutional analysis
 
-TODO
-
+>> ![ ](/cran2026.png)
 
 It was a pleasure to share these discussions with my PhD students, **Francisco López Tiro** and **José Antonio Low Castro**, who are pursuing a joint PhD between Université de Lorraine and Tecnológico de Monterrey. We are also hosting the urologist intern Samuel Doerler next month in Mexico
 
