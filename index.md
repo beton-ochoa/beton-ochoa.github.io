@@ -58,6 +58,22 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**July 20-22nd, 2026, Dublin, Ireland**: Our postdoct resrarcher **Dr Mansoor Ali** (who recently obtained his PhD in our CV-inside lab) is attending the **30th Conference on Medical Image Understanding and Analysis** in **University College Dublin** to present our work 
+
+Generalisable depth estimation with domain-invariant feature disentanglement for surgical scenes
+
+in collaboration with Sharib Ali, leader of of the AIMS group at University of Leeds. This was part of the Worldwide Universities Network funded Optimise project. Congrats Mansoor!
+
+**April 15-16th, Strasbourg, France** We are very proud to share that the paper of our PhD student, **Francisco Lopez-Tiro,** which was recently presented  at the **SPIE Photonics Europe 2026** Conference,  received the **Best Paper Award**.
+
+The paper, **“Real-time Image Segmentation for Kidney Stone Identification using Light-weight AI Models”**, is the result of a fruitful international collaboration between Tecnológico de Monterrey and Université de Lorraine / CNRS, bringing together researchers from Mexico and France.
+
+This research was developed within the framework of the **ML-inside Project**, funded by CONAHCYT (formerly CONACYT). 
+
+Francisco has played a key role in this project throughout his graduate studies, and we are now approaching the final stage of his PhD journey, with his thesis defense just around the corner.
+
+Congratulations to Francisco and to all our collaborators: Christian Daul, Clément Larose, Samuel Doerler, and the clinical and research teams involved in this exciting work.
+
 **April 11th, 2026, London, UK:** Thanks to all the teams for participating on our **EndoUC (Multimodal Ulcerative Colitis Challenge)** a part of **5th International EndoCV challenge** at **IEEE ISBI 2026** 
 
 This challenge edition would not be possible without hard works from Sharib Ali, Noha Ghatwary, Jiangbei Yue, Gilberto Ochoa-Ruiz and dedicated clinical team backing this up with their time, data and knowledge contributions. 
