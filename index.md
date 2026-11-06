@@ -58,6 +58,46 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 5th, Chihuahua, 2026** 🏆🇲🇽🇫🇷 Two Outstanding National Recognitions for our former CV-inside lab PhD Students in Artificial Intelligence!
+
+I am extremely proud to share that two of my former PhD students have been awarded first and second place in the **2026 José Negrete Award**, presented by the Mexican Society for Artificial Intelligence (SMIA) for the best doctoral dissertations in Artificial Intelligence in Mexico.
+
+🥇 First Place – **Dr. Ivan Reyes**
+
+📍 CINVESTAV, Guadalajara Unit, Mexico
+👨‍🏫 PhD Supervisor: Dr. Andrés Méndez-Vázquez
+👨‍🏫 Co-supervisor: Dr. Gilberto Ochoa-Ruiz
+
+📘 Federated Learning and Robustness in Computer Vision Systems Using Deep Learning
+
+Iván’s doctoral research focused on developing more robust and reliable deep learning methods, addressing fundamental challenges in adversarial robustness, model generalization, and federated learning.
+
+His contributions include strategies to improve the resilience of deep learning models against perturbations, as well as federated learning approaches for medical image analysis, particularly the automated identification of kidney stones from ureteroscopy images.
+
+🥈 Second Place – **Dr. Ricardo Espinosa**
+
+📍 Universidad Panamericana, Mexico / Université de Lorraine, France
+👨‍🏫 PhD Co-supervisors: Dr. Christian Daul and Dr. Gilberto Ochoa-Ruiz
+
+📘 Deep Learning-based Image Exposure Correction and Depth Estimation for 3D Cartography in Endoscopy
+
+Ricardo’s doctoral research addressed one of the fundamental challenges in computer vision for endoscopy: improving image quality and depth estimation to enable accurate three-dimensional reconstruction of anatomical structures.
+
+His work explored deep learning approaches for illumination and exposure correction, monocular depth estimation, and 3D reconstruction, with applications in colonoscopy and computer-assisted endoscopic navigation.
+
+ >> ![ ](/best_thesis.png)
+
+
+🔬 A Franco-Mexican Research Collaboration
+
+Both doctoral projects were closely connected to our long-standing Franco-Mexican research collaboration, particularly through the ECOS-Nord–CONACYT project ML-inside (Machine Learning for Image Analysis & Biomedical Engineering).
+
+This initiative has brought together researchers from Tecnológico de Monterrey, CINVESTAV, Universidad Panamericana, and Université de Lorraine, particularly through the Centre de Recherche en Automatique de Nancy (CRAN).
+
+Over the years, we have worked together on developing robust and reliable artificial intelligence methods for medical imaging, with a particular emphasis on endoscopic image analysis, 3D reconstruction, depth estimation, robustness against perturbations, and automated kidney stone identification.
+
+One particularly meaningful example of this collaboration is our joint work, EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction, which brought together Iván, Ricardo, and their supervisors to investigate the robustness and reliability of deep learning models for endoscopic depth estimation.
+
 **November 2nd, Chihuahua, Mexico** 🇲🇽🤖 MICAI 2026 | Celebrating 25 Years of Artificial Intelligence Research and International Collaboration
 
 This week, I had the pleasure of participating in the 25th Mexican International Conference on Artificial Intelligence (MICAI 2026), held from November 2–6 at Tecnológico de Monterrey, Campus Chihuahua, where I had the honor of serving as Program Chair, alongside Dr. Iris Méndez.
