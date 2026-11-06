@@ -58,6 +58,35 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 21-22. Santiago de Chile** 🇨🇱 Integrating Artificial Intelligence, Immunology, and Precision Medicine | Chile 2026 🧬🤖
+
+On October 21–22, 2026, I had the pleasure of participating as an international invited speaker at “Integrating AI, Immunology, and Precision Medicine” in Santiago, Chile.
+
+This interdisciplinary event brought together clinicians, immunologists, bioinformaticians, and AI researchers to explore how emerging computational technologies can contribute to more accurate diagnoses, improved treatments, and personalized medicine.
+
+
+>> ![ ](/curso_chile.png)
+
+During the event, I had the opportunity to contribute through three main activities:
+
+🔹 Coordination of the workshop “Beyond Pixels: Artificial Intelligence in Gastrointestinal Imaging.” This workshop explored current and emerging applications of AI in gastrointestinal endoscopy, including polyp and colorectal cancer detection, inflammatory bowel disease assessment, and the integration of endoscopic imaging with histopathological and multi-omics information.
+
+🔹 AI Fundamentals in Medical Imaging and Multimodal Data Fusion. I presented key concepts of deep learning for medical image analysis and discussed how integrating complementary sources of clinical and imaging information can lead to more robust, reliable, and clinically meaningful AI systems.
+
+🔹 Invited talk: “The Future of Diagnosis: AI-Driven Digital Twins in Clinical Medicine and Research.” I shared perspectives on the emerging role of digital twins in healthcare, highlighting their potential to combine medical imaging, clinical information, and computational models to support clinical decision-making and advance precision medicine.
+
+Beyond the scientific presentations, one of the most rewarding aspects of the event was the opportunity to exchange ideas with researchers and clinicians from different disciplines and institutions, discussing how we can bridge the gap between cutting-edge AI research and real-world clinical challenges.
+
+🙏 My sincere thanks to Roberto Segovia and Dr. Tamara Pérez-Jeldres for their kind invitation, their trust, and the opportunity to contribute to this outstanding initiative.
+
+I return from Chile with fresh perspectives, stimulating scientific discussions, and exciting opportunities to further strengthen research collaborations between Chile and Mexico, particularly in medical AI, endoscopic image analysis, multimodal learning, and precision medicine.
+
+Many thanks to all the organizers, speakers, and participants for two inspiring days of scientific exchange!
+
+**October 1st, Guadalajara, Mexico** This month, we’re hosting two clinical PhD students CV-inside lab : **Juan Pablo Ferrada**, a dentist from **Universidad de los Andes** in Santiago, Chile, and **Samuel Doerler**, a urologist from the University of Lorraine in Nancy, France. They’re collaborating with us to apply AI in medicine, the first one through recent collaboration with Jose M. Saavedra and the latter through a French A- Mexican ECOS Nord funded project !
+
+>> ![ ](/visit_clinicians.jpg)
+
 **October 1st, Strasbourg, France** It’s a pleasure to accompany our student **Antonio Low** from CV-inside lab , who is attending MICCAI for the first time, alongside his co-advisor, Prof. Christian Daul , from the Centre de Recherche en Automatique de Nancy (CRAN) at the University of Lorraine to present his work at the **Data Engineering in Medical Imaging (DEMI) Workshop**.
 
 Jesús Antonio’s thesis is part of the **ECOS Nord ML inside project** (in particular a working package on endoscopic  kidney stone aided diagnosis), a joint initiative sponsored by the governments of France and Mexico. The project has been underway for several years and continues to deliver very positive results.
