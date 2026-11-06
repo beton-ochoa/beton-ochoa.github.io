@@ -68,9 +68,7 @@ For 25 years, MICAI has provided an international forum for researchers, student
 
 This year’s edition was particularly meaningful, celebrating 25 years of MICAI and the 50th anniversary of Tecnológico de Monterrey, Campus Chihuahua, with France as the Guest Country of Honor, further strengthening scientific cooperation between Mexico and France. 🇲🇽🇫🇷
 
-
-
-
+ >> ![ ](/smia_2026.png)
 
 **October 30, Nancy, France** 🎓🇲🇽🇫🇷 Congratulations, Dr. Francisco López-Tiro!
 
