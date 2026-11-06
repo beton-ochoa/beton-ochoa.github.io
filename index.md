@@ -58,9 +58,26 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**October 30, Nancy, France** 🎓🇲🇽🇫🇷 Congratulations, Dr. Francisco López-Tiro!
+
+Today, we celebrate a very special milestone: the successful PhD defense of Francisco J. López-Tiro, entitled “Automated Identification of Kidney Stone Types in Ureteroscopy Using Deep Learning Approaches.”
+
+This research is the result of a longstanding international collaboration between Tecnológico de Monterrey and Université de Lorraine, through the Centre de Recherche en Automatique de Nancy (CRAN), within the framework of our joint research activities and the ECOS-Nord CONAHCYT ML-inside project.
+
+Throughout his doctoral journey, Francisco has demonstrated outstanding dedication, scientific maturity, and perseverance, making significant contributions to the development of artificial intelligence methods for automated kidney stone identification from endoscopic images.
+
+>> ![ ](/paco_thesis.png)
+
+His research has resulted in 20 scientific publications, including journal articles and papers presented at international conferences. Beyond his scientific contributions, Francisco has also actively participated in mentoring and supervising master’s students, demonstrating his commitment to both research and academic training.
+
+I would like to express my sincere gratitude to my colleague and friend, Prof. Christian Daul, with whom I have had the pleasure of co-supervising Francisco’s doctoral research, as well as to the jury members, collaborators, and colleagues who contributed to this journey.
+Francisco, it has been a genuine pleasure working with you throughout these years, witnessing your growth as a researcher, and sharing the challenges and achievements along the way. I am truly proud of what you have accomplished and confident that many exciting opportunities and successes lie ahead.
+
+Congratulations once again, Francisco! The best is yet to come! 👏🎓
+
 **October 21-22. Santiago de Chile** 🇨🇱 Integrating Artificial Intelligence, Immunology, and Precision Medicine | Chile 2026 🧬🤖
 
-On October 21–22, 2026, I had the pleasure of participating as an international invited speaker at “Integrating AI, Immunology, and Precision Medicine” in Santiago, Chile.
+ I had the pleasure of participating as an international invited speaker at “Integrating AI, Immunology, and Precision Medicine” in Santiago, Chile.
 
 This interdisciplinary event brought together clinicians, immunologists, bioinformaticians, and AI researchers to explore how emerging computational technologies can contribute to more accurate diagnoses, improved treatments, and personalized medicine.
 
