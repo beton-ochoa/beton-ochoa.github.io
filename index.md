@@ -58,6 +58,20 @@ There are available positions (bachelor, master and PhD) for all these projects 
 
 ### Updates
 
+**November 2nd, Chihuahua, Mexico** 🇲🇽🤖 MICAI 2026 | Celebrating 25 Years of Artificial Intelligence Research and International Collaboration
+
+This week, I had the pleasure of participating in the 25th Mexican International Conference on Artificial Intelligence (MICAI 2026), held from November 2–6 at Tecnológico de Monterrey, Campus Chihuahua, where I had the honor of serving as Program Chair, alongside Dr. Iris Méndez.
+
+Organized by the Mexican Society for Artificial Intelligence (SMIA) and Tecnológico de Monterrey, MICAI has established itself as one of the most important and longstanding scientific conferences dedicated to Artificial Intelligence in Mexico and Latin America.
+
+For 25 years, MICAI has provided an international forum for researchers, students, and industry professionals to share scientific advances, exchange ideas, and establish collaborations across multiple areas of AI.
+
+This year’s edition was particularly meaningful, celebrating 25 years of MICAI and the 50th anniversary of Tecnológico de Monterrey, Campus Chihuahua, with France as the Guest Country of Honor, further strengthening scientific cooperation between Mexico and France. 🇲🇽🇫🇷
+
+
+
+
+
 **October 30, Nancy, France** 🎓🇲🇽🇫🇷 Congratulations, Dr. Francisco López-Tiro!
 
 Today, we celebrate a very special milestone: the successful PhD defense of Francisco J. López-Tiro, entitled “Automated Identification of Kidney Stone Types in Ureteroscopy Using Deep Learning Approaches.”
